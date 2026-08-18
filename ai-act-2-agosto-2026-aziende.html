@@ -299,5 +299,23 @@
   </div>
 </footer>
 
+<div id="cookie-banner" style="position:fixed; left:0; right:0; bottom:0; z-index:9999; background:#141414; color:#F4F4F0; padding:20px 24px; display:none; align-items:center; justify-content:space-between; gap:24px; flex-wrap:wrap; border-top:1px solid rgba(244,244,240,0.12); font-family:'Inter', sans-serif;">
+  <p style="margin:0; font-size:0.92rem; line-height:1.5; max-width:640px; color:#cfcfcf;">
+    Questo sito non utilizza cookie di profilazione o di tracciamento: solo elementi tecnici necessari al funzionamento. Maggiori informazioni nella <a href="privacy-cookie-policy.html" style="color:#C2672E; text-decoration:underline;">Privacy &amp; Cookie Policy</a>.
+  </p>
+  <button onclick="document.getElementById('cookie-banner').style.display='none'; try{localStorage.setItem('cookieNoticeSeen','1');}catch(e){}" style="flex-shrink:0; background:#F4F4F0; color:#0A0A0A; border:none; padding:10px 22px; border-radius:999px; font-weight:600; font-size:0.88rem; font-family:'Inter', sans-serif; cursor:pointer;">Ho capito</button>
+</div>
+<script>
+  (function(){
+    try{
+      if(!localStorage.getItem('cookieNoticeSeen')){
+        document.getElementById('cookie-banner').style.display='flex';
+      }
+    }catch(e){
+      document.getElementById('cookie-banner').style.display='flex';
+    }
+  })();
+</script>
+
 </body>
 </html>
