@@ -90,6 +90,30 @@
 .ti-target-arrow:before{content:"\f51a";}
 .ti-users:before{content:"\ebf2";}
 
+
+/* Compact featured article: keep the headline and summary in the first viewport. */
+.blog-featured{
+  display:grid;
+  grid-template-columns:minmax(0,0.9fr) minmax(0,1.1fr);
+  align-items:center;
+  gap:36px;
+  padding-bottom:32px;
+  margin-bottom:32px;
+}
+.blog-featured-img{
+  height:clamp(220px,25vw,320px);
+  aspect-ratio:auto !important;
+  margin-bottom:0;
+}
+.blog-featured h2{font-size:clamp(1.5rem,2.6vw,2.1rem);max-width:30ch;}
+.blog-featured p{font-size:0.98rem;line-height:1.55;}
+@media(max-width:860px){
+  .blog-page-list{padding-top:108px;}
+  .blog-featured{grid-template-columns:1fr;gap:20px;}
+  .blog-featured-img{height:180px;}
+  .blog-featured h2{font-size:1.5rem;max-width:none;}
+}
+
 </style>
 <style>
   :root{
