@@ -238,5 +238,17 @@
     "category": "Formazione & Learning Design",
     "minutes": 3,
     "file": "formazione-e-innovazione-come-strumenti-per-lo-sviluppo-del-sud.html"
+  },
+  "31": {
+    "slug": "uber-chatgpt-work-formazione-competenze-aziendali",
+    "title": "Uber porta ChatGPT Work in azienda, la sfida passa dalle competenze",
+    "desc": "Il rollout di ChatGPT Work in Uber offre uno spunto concreto per le PMI: formare i team sui processi, definire responsabilità e misurare i risultati.",
+    "category": "AI & Formazione",
+    "minutes": 5,
+    "file": "uber-chatgpt-work-formazione-competenze-aziendali.html",
+    "date": "2026-10-25",
+    "sources": [
+      "https://openai.com/index/uber-chatgpt-work-rollout/"
+    ]
   }
 }
