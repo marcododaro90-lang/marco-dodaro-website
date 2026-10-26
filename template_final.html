@@ -141,7 +141,7 @@
   img{filter:grayscale(1);}
   .wrap{max-width:var(--maxw); margin:0 auto; padding:0 40px;}
 
-  nav{
+  body > nav{
     position:fixed; top:0; left:0; right:0; z-index:50;
     background:rgba(10,10,10,0.78);
     backdrop-filter:blur(10px);
@@ -1062,6 +1062,11 @@
 </style>
 <meta name="robots" content="noindex, follow">
 <script defer src="assets/site-analytics.js?v=20261025-privacy2"></script>
+<style>
+.article-breadcrumb{position:static;background:transparent;backdrop-filter:none;border:0;color:#666;font-size:0.85rem;line-height:1.5;margin:0 0 20px;padding:0;overflow-wrap:anywhere;}
+.article-breadcrumb a{color:inherit;text-decoration:underline;text-underline-offset:3px;}
+.article-breadcrumb a:hover{color:#111;}
+</style>
 </head>
 <body>
 

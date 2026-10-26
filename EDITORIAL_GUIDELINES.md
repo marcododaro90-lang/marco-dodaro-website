@@ -32,3 +32,7 @@ Preservare la X che rifiuta le statistiche, la scelta Personalizza con categoria
 
 ## Unicità delle copertine — 26 ottobre 2026
 Ogni articolo deve usare una foto diversa da tutti gli altri articoli. Prima di pubblicare confrontare copertine nell'intero archivio HTML, articles_meta.json, image-manifest.json ed editorial-log.json, normalizzando URL e ID Unsplash senza parametri di ritaglio, qualità o dimensione. La stessa fotografia con ritaglio, URL o nome diverso resta un duplicato. Ispezionare visivamente la candidata e registrare ID, fonte, fotografo e articolo nei metadati. Non dichiarare superato un controllo non eseguito.
+
+
+## Menu e breadcrumb
+Gli stili del menu fisso devono selezionare `body > nav`, mai tutti gli elementi `nav`. Il percorso nell'articolo usa `nav.article-breadcrumb`, statico nel flusso dentro `.article-header .wrap`, con stile discreto e margine inferiore. Verificare che non si sovrapponga alla barra principale su desktop e mobile.
