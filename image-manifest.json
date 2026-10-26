@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -216,6 +216,16 @@
       "alt": "Smartphone su treppiede accanto a un portatile per la produzione di contenuti",
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license"
+    },
+    {
+      "article": "gmv-max-tiktok-shop-margini-costi.html",
+      "image": "https://images.unsplash.com/photo-1637317759414-4fc43302c454?auto=format&fit=crop&w=1600&q=85",
+      "source": "https://unsplash.com/photos/a-row-of-shopping-carts-with-blue-and-yellow-handles-nh6EEXF0S8U",
+      "photographer": "Markus Winkler",
+      "alt": "Carrelli della spesa con maniglie blu e dettagli gialli e rossi",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "unsplash_id": "nh6EEXF0S8U"
     }
   ]
 }

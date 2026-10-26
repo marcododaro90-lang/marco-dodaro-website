@@ -28,3 +28,7 @@ Tutte le pagine e i template caricano una sola volta `<script defer src="assets/
 
 ## Informativa e banner — versione 2026-10-25.2
 Preservare la X che rifiuta le statistiche, la scelta Personalizza con categoria statistica non preselezionata per i nuovi visitatori, i pulsanti Accetta/Rifiuta equivalenti e Preferenze cookie nel footer. Conservare il blocco preventivo Analytics, la validità delle scelte per sei mesi, revoca e cancellazione dei cookie. Non dichiarare una conformità legale assoluta né inventare la durata di conservazione impostata nell'account GA4: il dato va verificato nell'account del titolare. Usare la versione dello script presente nei template correnti, anche se vecchie istruzioni riportano una query di versione precedente.
+
+
+## Unicità delle copertine — 26 ottobre 2026
+Ogni articolo deve usare una foto diversa da tutti gli altri articoli. Prima di pubblicare confrontare copertine nell'intero archivio HTML, articles_meta.json, image-manifest.json ed editorial-log.json, normalizzando URL e ID Unsplash senza parametri di ritaglio, qualità o dimensione. La stessa fotografia con ritaglio, URL o nome diverso resta un duplicato. Ispezionare visivamente la candidata e registrare ID, fonte, fotografo e articolo nei metadati. Non dichiarare superato un controllo non eseguito.
