@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -226,6 +226,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "unsplash_id": "nh6EEXF0S8U"
+    },
+    {
+      "article": "formazione-creator-report-creative-capital-youtube.html",
+      "image": "https://images.unsplash.com/photo-1735197878057-53101cbcfa6b?auto=format&fit=crop&w=1600&q=85",
+      "source": "https://unsplash.com/photos/a-video-camera-with-a-multicolored-background-wl2LEGHE9jE",
+      "unsplash_id": "wl2LEGHE9jE",
+      "photographer": "dlxmedia.hu",
+      "alt": "Videocamera su supporto davanti a luci fucsia, viola e blu",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "16802fca18a9d019ce863bfe7e50c1f3cc0a831173fa5ea955c9415d878e5e12"
     }
   ]
 }
