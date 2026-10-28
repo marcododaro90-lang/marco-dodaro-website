@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -237,6 +237,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "16802fca18a9d019ce863bfe7e50c1f3cc0a831173fa5ea955c9415d878e5e12"
+    },
+    {
+      "article": "agent-skills-procedure-aziendali-riutilizzabili.html",
+      "image": "https://images.unsplash.com/photo-1768158989131-64cbff67f292?auto=format&fit=crop&w=1600&q=85",
+      "source": "https://unsplash.com/photos/shelves-filled-with-colorful-binders-and-folders-vT7r4YYbX0w",
+      "unsplash_id": "vT7r4YYbX0w",
+      "photographer": "Richard Heinen",
+      "alt": "Scaffali in legno con raccoglitori rossi, blu, verdi e viola",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "f73b1a86ddf70858ff9c40e5593c45bab4c150c79c89a8220ecdb6f5d8beff5c"
     }
   ]
 }

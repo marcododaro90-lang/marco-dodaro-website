@@ -441,5 +441,27 @@
       "https://blog.youtube/news-and-events/europe-creator-consultation-creative-capital-report/",
       "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/EU-Creative-Capital-Report-EN.pdf"
     ]
+  },
+  "38": {
+    "file": "agent-skills-procedure-aziendali-riutilizzabili.html",
+    "slug": "agent-skills-procedure-aziendali-riutilizzabili",
+    "title": "Agent Skills, come rendere riutilizzabili le procedure aziendali",
+    "desc": "Agent Skills passa alla Agentic AI Foundation. Cosa contiene una skill e come valutare portabilità, qualità e aggiornamento delle procedure AI in azienda.",
+    "date": "2026-10-28",
+    "category": "AI & Processi",
+    "minutes": 5,
+    "keyword": "Agent Skills aziende",
+    "search_intent": "valutare il riuso di procedure aziendali con lo standard Agent Skills",
+    "image": "https://images.unsplash.com/photo-1768158989131-64cbff67f292?auto=format&fit=crop&w=1600&q=85",
+    "image_alt": "Scaffali in legno con raccoglitori rossi, blu, verdi e viola",
+    "image_id": "vT7r4YYbX0w",
+    "image_source": "https://unsplash.com/photos/shelves-filled-with-colorful-binders-and-folders-vT7r4YYbX0w",
+    "image_credit": "Richard Heinen / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "https://agentskills.io/home",
+      "https://agentskills.io/specification"
+    ]
   }
 }
