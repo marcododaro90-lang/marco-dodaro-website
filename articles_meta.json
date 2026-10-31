@@ -485,5 +485,27 @@
       "https://newsroom.tiktok.com/whats-shaping-the-holiday-season-on-tiktok-shop?lang=en",
       "https://www.globenewswire.com/news-release/2026/10/19/3383528/0/en/tiktok-shop-announces-black-friday-and-cyber-monday-campaign-running-november-11-30.html"
     ]
+  },
+  "40": {
+    "file": "gemini-didattica-studi-apprendimento-italia-regno-unito.html",
+    "slug": "gemini-didattica-studi-apprendimento-italia-regno-unito",
+    "title": "Gemini nella didattica, cosa mostrano i nuovi studi",
+    "seo_title": "Gemini nella didattica, studi e limiti | Marco Dodaro",
+    "desc": "Gli studi su Gemini a scuola distinguono risultati nelle esercitazioni e apprendimento nei test. Dati, limiti e indicazioni per la formazione.",
+    "date": "2026-10-31",
+    "category": "Formazione digitale",
+    "minutes": 5,
+    "keyword": "Gemini didattica studi apprendimento",
+    "search_intent": "comprendere risultati e limiti degli studi Gemini nella didattica per progettare valutazioni formative",
+    "image": "https://images.unsplash.com/photo-1725030971425-e6ca11cfb0c9?auto=format&fit=max&w=1600&q=85",
+    "image_alt": "Sedie gialle e tavoli in un’aula illuminata dal sole, davanti a una lavagna",
+    "image_id": "aihI4_1lTTg",
+    "image_source": "https://unsplash.com/photos/a-classroom-with-a-whiteboard-and-yellow-chairs-aihI4_1lTTg",
+    "image_credit": "Brianna Lengacher / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+      "https://services.google.com/fh/files/misc/learnlm_oct26.pdf"
+    ]
   }
 }

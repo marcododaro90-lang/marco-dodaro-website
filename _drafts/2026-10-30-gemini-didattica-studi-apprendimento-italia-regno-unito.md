@@ -1,13 +1,13 @@
 ---
-status: draft_pending_cover_and_public_verification
+status: published
 prepared_on: 2026-10-30
 slug: gemini-didattica-studi-apprendimento-italia-regno-unito
 author: Marco Dodaro
 seo_title: "Gemini nella didattica, studi e limiti | Marco Dodaro"
 meta_description: "Gli studi su Gemini a scuola distinguono risultati nelle esercitazioni e apprendimento nei test. Dati, limiti e indicazioni per la formazione."
 primary_query: "Gemini didattica studi apprendimento"
-publication_date: null
-cover_status: "Non selezionata: download temporaneamente non disponibile; nessuna verifica visiva completata"
+publication_date: 2026-10-31
+cover_status: "Foto Unsplash verificata: aihI4_1lTTg, Brianna Lengacher"
 ---
 
 # Gemini nella didattica, cosa mostrano i nuovi studi

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -259,6 +259,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "04eccc2e586f7d5039026549e14cecce04ef7dffd000428b3384e501a5ec73c9"
+    },
+    {
+      "article": "gemini-didattica-studi-apprendimento-italia-regno-unito.html",
+      "image": "https://images.unsplash.com/photo-1725030971425-e6ca11cfb0c9?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/a-classroom-with-a-whiteboard-and-yellow-chairs-aihI4_1lTTg",
+      "unsplash_id": "aihI4_1lTTg",
+      "photographer": "Brianna Lengacher",
+      "alt": "Sedie gialle e tavoli in un’aula illuminata dal sole, davanti a una lavagna",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "4479c8d25c95826b04b7b4ac31e0924940ce4c6a2a02dd83f1b6d816f34d780e"
     }
   ]
 }
