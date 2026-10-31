@@ -81,3 +81,14 @@ Il controllo live confronta pagina pubblica e file locale e verifica blog, sitem
 Registrare nel log un campo workflow_review con brief, differenziazione dall'archivio, provenienza delle affermazioni principali, revisione editoriale, controllo copertina, controlli locali e pubblici, viewport e controlli saltati con motivo. Non compilare retroattivamente verifiche mai svolte.
 
 Per la manutenzione, segnalare documentazione superata, link rotti e pagine che trattano lo stesso evento. Aggiornare una pagina utile quando soddisfa già l'intento, invece di pubblicare una riscrittura della notizia. Usare dati reali Search Console/Analytics per valutare impressioni, query, click e risultati; se non disponibili dichiararlo. Non introdurre API a pagamento, nuove automazioni, file speciali per AI, nuove integrazioni o modifiche al consenso senza una richiesta pertinente. Nessuna garanzia di ranking, citazione AI o superamento dei rilevatori.
+
+
+## Geekout e diversificazione dei temi — 31 ottobre 2026
+
+Fonte di scoperta indicata espressamente da Marco: [Geekout di Matt Navarra, archivio](https://geekout.mattnavarra.com/archives). Consultare le edizioni più recenti per individuare novità pertinenti su Instagram, Meta, LinkedIn, YouTube, TikTok, Threads, creator economy, pubblicità e monetizzazione, oltre ai temi AI e formazione già coperti.
+
+Prima di scegliere il tema, confrontare le ultime uscite del blog per piattaforma, area e intento. Privilegiare un'area poco trattata di recente quando la notizia è verificabile e utile a imprese, professionisti o enti di formazione italiani. Non applicare una rotazione rigida e non forzare un argomento debole soltanto per cambiare piattaforma.
+
+Geekout è una fonte editoriale di selezione e contesto. Per ogni notizia risalire ai collegamenti della singola edizione e verificare l'annuncio o la documentazione primaria, data, disponibilità in Italia, requisiti e limiti. Distinguere test, rollout limitati, indiscrezioni e funzioni già disponibili. Non trasformare il titolo o l'opinione della newsletter in un fatto accertato e non contare i suoi rilanci come conferme indipendenti della stessa fonte originaria.
+
+Scrivere un approfondimento originale con un intento distinto, esempi dichiaratamente ipotetici quando necessari e implicazioni pratiche. Non tradurre o ripubblicare la newsletter. Se il suo contributo viene utilizzato nel testo, attribuirlo e collegare l'edizione pertinente. Nel registro workflow_review annotare discovery_source e discovery_issue quando Geekout ha portato alla scelta del tema, insieme alle fonti primarie usate per verificarlo. Non creare iscrizioni o inviare messaggi per consultare l'archivio pubblico.

@@ -48,3 +48,7 @@ Eliminare formule generiche, transizioni che annunciano il discorso e ripetizion
 
 ## Metodo integrato claude-seo e claude-blog — 31 ottobre 2026
 Leggere e applicare BLOG_WORKFLOW.md per brief, ricerca, controllo dell’intento e delle sovrapposizioni, revisione editoriale in due passaggi e verifica tecnica. Eseguire scripts/blog_preflight.py prima del commit e con --live dopo il deployment, correggendo gli errori e registrando separatamente verifiche manuali e limiti. Si tratta dell’adattamento specifico per marcododaro.it, non dell’installazione dei plugin Claude Code. Le preferenze di Marco, gli URL .html, il layout, le copertine Unsplash uniche e il consenso prevalgono sulle convenzioni generiche delle raccolte. Non imporre box, FAQ, PDF, quote di link, soglie di parole o punteggi SEO inventati.
+
+
+## Scoperta dei temi da Geekout — 31 ottobre 2026
+Consultare l'archivio https://geekout.mattnavarra.com/archives, indicato da Marco, per diversificare piattaforme e argomenti delle prossime uscite. Applicare la sezione Geekout di BLOG_WORKFLOW.md: confronto con le pubblicazioni recenti, rilevanza per il pubblico italiano, verifica sulle fonti primarie e attribuzione del contributo editoriale quando usato. Non limitarsi ad AI e TikTok Shop e non riscrivere notizie già pubblicate. Registrare la provenienza dello spunto quando pertinente.
