@@ -147,7 +147,19 @@
         "review": "manual_prose_and_custom_unicode_scan",
         "vendored_scripts": "unavailable",
         "stylometry_score": null
-      }
+      },
+      "dateModified": "2026-10-31T15:25:41+01:00",
+      "revisions": [
+        {
+          "date": "2026-10-31T15:25:41+01:00",
+          "reason": "Revisione editoriale richiesta da Marco: riduzione di formule ripetute, struttura schematica e ritmo uniforme",
+          "facts_and_links_preserved": true,
+          "skill": "clean-user-facing-text",
+          "vendored_scripts": "unavailable",
+          "stylometry_score": null,
+          "unicode_scan": "no_invisible_format_characters_found"
+        }
+      ]
     }
   ]
 }

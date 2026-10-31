@@ -40,3 +40,7 @@ Gli stili del menu fisso devono selezionare `body > nav`, mai tutti gli elementi
 
 ## Revisione finale dei testi — 31 ottobre 2026
 Prima di pubblicare applicare la skill clean-user-facing-text alla prosa visibile, preservando codice, URL, citazioni, dati e requisiti SEO. Leggere la versione corrente della skill e seguirne misurazione iniziale, revisione condizionata e pulizia Unicode. Non inventare punteggi o dichiarare eseguiti script non accessibili; registrare il limite e distinguere eventuali controlli locali alternativi. Conservare il tono informativo e professionale, senza prima persona nel corpo o esperienze inventate. La regola di una pubblicazione al giorno ammette articoli aggiuntivi solo su richiesta esplicita di Marco, registrando il motivo nello storico.
+
+
+## Scrittura meno schematica — richiesta del 31 ottobre 2026
+Eliminare formule generiche, transizioni che annunciano il discorso e ripetizioni di «può», «permette», «è utile», «un possibile». Non sostituirle con sinonimi ripetuti. Variare la costruzione dei periodi in base al contenuto, accorpare sezioni frammentate e sviluppare esempi concreti già documentati o dichiaratamente ipotetici. Evitare terne forzate, conclusioni intercambiabili e paragrafi costruiti tutti sullo stesso schema. Mantenere H2 utili alla lettura e alla SEO senza trasformare ogni passaggio in una mini-sezione. Conservare fatti, fonti, qualificazioni necessarie e tono professionale; non aggiungere prima persona o esperienze inventate. Valutare la qualità editoriale senza promettere esiti presso rilevatori AI.
