@@ -120,10 +120,10 @@
       "slug": "microdrama-youtube-shorts-serie-brand",
       "title": "Microdrama su YouTube Shorts, come progettare una serie per un brand",
       "seo_title": "Microdrama YouTube Shorts, serie per brand | Marco Dodaro",
-      "desc": "Come progettare un microdrama su YouTube Shorts per un brand. Storia, episodi, produzione e metriche per valutare una prima serie narrativa.",
+      "desc": "Come progettare una serie di microdrama per un brand su YouTube Shorts, con un esempio di pilota e criteri per valutare risultati e costi.",
       "date": "2026-10-31",
       "category": "Creator economy",
-      "minutes": 5,
+      "minutes": 6,
       "keyword": "microdrama YouTube Shorts brand",
       "search_intent": "progettare e valutare una serie narrativa breve per un brand su YouTube Shorts",
       "image": "https://images.unsplash.com/photo-1764581659095-ad0447049ce0?auto=format&fit=max&w=1600&q=85",
@@ -148,7 +148,7 @@
         "vendored_scripts": "unavailable",
         "stylometry_score": null
       },
-      "dateModified": "2026-10-31T15:25:41+01:00",
+      "dateModified": "2026-10-31T15:43:05+01:00",
       "revisions": [
         {
           "date": "2026-10-31T15:25:41+01:00",
@@ -158,8 +158,99 @@
           "vendored_scripts": "unavailable",
           "stylometry_score": null,
           "unicode_scan": "no_invisible_format_characters_found"
+        },
+        {
+          "date": "2026-10-31T15:43:05+01:00",
+          "reason": "Applicazione BLOG_WORKFLOW: esempio di pilota sviluppato, criteri di osservazione e attribuzione, metadati social completi",
+          "url_unchanged": true
         }
-      ]
+      ],
+      "workflow_review": {
+        "reviewed_at": "2026-10-31T15:43:05+01:00",
+        "brief": {
+          "audience": "Responsabili marketing, brand e creator italiani",
+          "primary_query": "microdrama YouTube Shorts brand",
+          "search_intent": "progettare e valutare una serie narrativa breve per un brand su YouTube Shorts",
+          "reader_outcome": "Impostare un pilota narrativo e decidere come valutarlo prima di estenderlo"
+        },
+        "archive": {
+          "articles_compared": 41,
+          "closest_pages": [
+            "come-creare-un-piano-editoriale-basato-sui-dati.html",
+            "come-trasformare-un-articolo-in-contenuti-per-tutti-i-social.html"
+          ],
+          "differentiation": "Progettazione e valutazione di una storia seriale verticale, distinta dal calendario editoriale e dal riuso di contenuti",
+          "same_event_duplicate": false
+        },
+        "evidence_summary": [
+          {
+            "claim": "6,5 miliardi di visualizzazioni nel primo semestre 2026 e annuncio Shorts series",
+            "source": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/",
+            "published": "2026-10-27",
+            "checked": "2026-10-31",
+            "upstream": "YouTube",
+            "independent_confirmation": false,
+            "treatment": "Dato attribuito alla piattaforma; non esteso al mercato italiano o ai risultati di un brand"
+          },
+          {
+            "claim": "Requisiti del video correlato e metriche Shorts",
+            "sources": [
+              "https://support.google.com/youtube/answer/11914225?co=YOUTUBE._YTVideoType%3Dshorts&hl=it",
+              "https://support.google.com/youtube/answer/14075157?hl=it",
+              "https://support.google.com/youtube/answer/12942217?co=YOUTUBE._YTVideoType%3Dshorts&hl=it"
+            ],
+            "checked": "2026-10-31",
+            "upstream": "YouTube Help",
+            "treatment": "Documentazione operativa del fornitore"
+          }
+        ],
+        "editorial_review": {
+          "lexical_and_structural": "reviewed",
+          "new_examples": "explicitly_hypothetical",
+          "new_measurement_method": "proposed_example_not_platform_threshold"
+        },
+        "text_skill": {
+          "bundled_scripts": "retrieved_and_executed",
+          "before_score": 0.235,
+          "before_density_tier": "low",
+          "interpretation": "Indicatore interno non calibrato come verdetto di paternità; nessuna promessa su rilevatori esterni",
+          "after_score": 0.235,
+          "after_density_tier": "low",
+          "unicode_removed_before": 0,
+          "unicode_removed_after": 0
+        },
+        "cover": {
+          "action": "existing_photo_preserved",
+          "id": "xZ2SOBRbENA",
+          "license_page_rechecked": "2026-10-31",
+          "cumulative_url_and_id_check": "pass_for_preserved_photo",
+          "perceptual_recheck": "not_repeated_existing_cover_not_changed"
+        },
+        "checks": {
+          "local_preflight": {
+            "status": "pass",
+            "errors": 0,
+            "warnings": 0
+          },
+          "public_preflight": {
+            "status": "pending_deployment",
+            "instruction": "Eseguire controllo live dopo il deployment; non dichiarare pubblicato prima della verifica"
+          },
+          "viewports": {
+            "desktop_existing_layout": {
+              "width": 1363,
+              "height": 936,
+              "status": "checked_in_browser",
+              "horizontal_overflow": false,
+              "breadcrumb_menu_overlap": false
+            },
+            "widths_375_768_1280": {
+              "status": "not_checked",
+              "reason": "Renderer locale senza Chromium; download del browser fallito. API del browser integrato senza ridimensionamento viewport."
+            }
+          }
+        }
+      }
     }
   ]
 }
