@@ -114,6 +114,40 @@
       ],
       "url": "https://marcododaro.it/gemini-didattica-studi-apprendimento-italia-regno-unito.html",
       "status": "published"
+    },
+    {
+      "file": "microdrama-youtube-shorts-serie-brand.html",
+      "slug": "microdrama-youtube-shorts-serie-brand",
+      "title": "Microdrama su YouTube Shorts, come progettare una serie per un brand",
+      "seo_title": "Microdrama YouTube Shorts, serie per brand | Marco Dodaro",
+      "desc": "Come progettare un microdrama su YouTube Shorts per un brand. Storia, episodi, produzione e metriche per valutare una prima serie narrativa.",
+      "date": "2026-10-31",
+      "category": "Creator economy",
+      "minutes": 5,
+      "keyword": "microdrama YouTube Shorts brand",
+      "search_intent": "progettare e valutare una serie narrativa breve per un brand su YouTube Shorts",
+      "image": "https://images.unsplash.com/photo-1764581659095-ad0447049ce0?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "Ciak cinematografico nero fotografato su uno sfondo giallo e arancione",
+      "image_id": "xZ2SOBRbENA",
+      "image_source": "https://unsplash.com/photos/a-hollywood-movie-clapperboard-on-a-yellow-background-xZ2SOBRbENA",
+      "image_credit": "Luan Fonseca / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/",
+        "https://support.google.com/youtube/answer/11914225?co=YOUTUBE._YTVideoType%3Dshorts&hl=it",
+        "https://support.google.com/youtube/answer/14075157?hl=it",
+        "https://support.google.com/youtube/answer/12942217?co=YOUTUBE._YTVideoType%3Dshorts&hl=it"
+      ],
+      "url": "https://marcododaro.it/microdrama-youtube-shorts-serie-brand.html",
+      "status": "published",
+      "published_at": "2026-10-31T14:34:18+01:00",
+      "publication_reason": "Articolo aggiuntivo richiesto espressamente da Marco il 31 ottobre 2026",
+      "text_review": {
+        "skill": "clean-user-facing-text",
+        "review": "manual_prose_and_custom_unicode_scan",
+        "vendored_scripts": "unavailable",
+        "stylometry_score": null
+      }
     }
   ]
 }

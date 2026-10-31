@@ -270,6 +270,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "4479c8d25c95826b04b7b4ac31e0924940ce4c6a2a02dd83f1b6d816f34d780e"
+    },
+    {
+      "article": "microdrama-youtube-shorts-serie-brand.html",
+      "image": "https://images.unsplash.com/photo-1764581659095-ad0447049ce0?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/a-hollywood-movie-clapperboard-on-a-yellow-background-xZ2SOBRbENA",
+      "unsplash_id": "xZ2SOBRbENA",
+      "photographer": "Luan Fonseca",
+      "alt": "Ciak cinematografico nero fotografato su uno sfondo giallo e arancione",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "4718fd5b64bdb6d68379aafaf7fc3017030c3ee67d2e25360bea215fb3994d89"
     }
   ]
 }

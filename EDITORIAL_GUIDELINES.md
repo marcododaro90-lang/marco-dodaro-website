@@ -36,3 +36,7 @@ Ogni articolo deve usare una foto diversa da tutti gli altri articoli. Prima di 
 
 ## Menu e breadcrumb
 Gli stili del menu fisso devono selezionare `body > nav`, mai tutti gli elementi `nav`. Il percorso nell'articolo usa `nav.article-breadcrumb`, statico nel flusso dentro `.article-header .wrap`, con stile discreto e margine inferiore. Verificare che non si sovrapponga alla barra principale su desktop e mobile.
+
+
+## Revisione finale dei testi — 31 ottobre 2026
+Prima di pubblicare applicare la skill clean-user-facing-text alla prosa visibile, preservando codice, URL, citazioni, dati e requisiti SEO. Leggere la versione corrente della skill e seguirne misurazione iniziale, revisione condizionata e pulizia Unicode. Non inventare punteggi o dichiarare eseguiti script non accessibili; registrare il limite e distinguere eventuali controlli locali alternativi. Conservare il tono informativo e professionale, senza prima persona nel corpo o esperienze inventate. La regola di una pubblicazione al giorno ammette articoli aggiuntivi solo su richiesta esplicita di Marco, registrando il motivo nello storico.
