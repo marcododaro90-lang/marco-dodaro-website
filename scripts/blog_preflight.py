@@ -110,7 +110,8 @@ def run(root, article, live=False):
     check('Heading order', all(b[0] <= a[0] + 1 for a, b in zip(page.headings, page.headings[1:])))
     check('Self canonical', page.canonical == [expected])
     robots = page.one('robots') or ''
-    check('Indexable robots', bool(page.one('robots')) and 'noindex' not in robots.lower() and 'max-image-preview:large' in robots.lower())
+    directives = {value.strip().lower() for value in robots.split(',')}
+    check('Indexable robots', bool(page.one('robots')) and not directives.intersection({'noindex', 'none', 'nofollow'}) and 'max-image-preview:large' in directives)
     check('No placeholders', not re.search(r'{{|\[(?:IMAGE|CHART|INTERNAL-LINK|CALLOUT|VIDEO)(?:\]|:)', source))
     check('Single shared analytics', len(re.findall(r'<script\b[^>]*src=[\'"]assets/site-analytics\.js\?', source)) == 1)
     check('No direct Google snippet', 'googletagmanager.com/gtag/js' not in source)
