@@ -233,8 +233,12 @@
             "warnings": 0
           },
           "public_preflight": {
-            "status": "pending_deployment",
-            "instruction": "Eseguire controllo live dopo il deployment; non dichiarare pubblicato prima della verifica"
+            "status": "pass",
+            "checked_at": "2026-10-31T14:48:08.529240+00:00",
+            "checks": 51,
+            "errors": [],
+            "warnings": [],
+            "article_sha256": "b3e0dd1f7b62f2fed23d0f0a1a8325247a3e855f36c7ffc0afa24364268d866e"
           },
           "viewports": {
             "desktop_existing_layout": {
@@ -243,7 +247,8 @@
               "status": "checked_in_browser",
               "horizontal_overflow": false,
               "breadcrumb_menu_overlap": false,
-              "pilot_list_contrast": "Light inherited text found in browser; explicit #2a2a2a applied, awaiting recheck"
+              "pilot_list_contrast": "verified rgb(42,42,42) in public browser after correction",
+              "updated_article": "visually_checked"
             },
             "widths_375_768_1280": {
               "status": "not_checked",
