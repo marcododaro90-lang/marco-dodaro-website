@@ -242,7 +242,8 @@
               "height": 936,
               "status": "checked_in_browser",
               "horizontal_overflow": false,
-              "breadcrumb_menu_overlap": false
+              "breadcrumb_menu_overlap": false,
+              "pilot_list_contrast": "Light inherited text found in browser; explicit #2a2a2a applied, awaiting recheck"
             },
             "widths_375_768_1280": {
               "status": "not_checked",
