@@ -339,7 +339,14 @@
             "errors": 0,
             "warnings": 0
           },
-          "live_preflight": "pending_deployment",
+          "live_preflight": {
+            "status": "pass",
+            "checked_at": "2026-11-01T09:39:52.554837+00:00",
+            "checks": 51,
+            "errors": [],
+            "warnings": [],
+            "article_sha256": "4a519e7f2254cd1a39fb0b7581dd868e03400267366b701e744f22526b812b67"
+          },
           "mobile_viewports": "not_checked_renderer_unavailable",
           "search_console": "not_accessed"
         }
