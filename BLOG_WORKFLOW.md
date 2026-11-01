@@ -97,3 +97,12 @@ Scrivere un approfondimento originale con un intento distinto, esempi dichiarata
 ### Controllo obbligatorio prima di ogni pubblicazione
 
 Prima di scegliere e pubblicare ciascun nuovo articolo, anche nelle uscite manuali o aggiuntive richieste in chat, riaprire l'archivio Geekout e controllare le edizioni e gli aggiornamenti disponibili in quel momento. Non riutilizzare soltanto la lettura della precedente esecuzione. Registrare in workflow_review geekout_checked_at e, se disponibili, latest_issue_url e latest_issue_date, oltre alla decisione editoriale. Segnalare quando non ci sono novità; non presumere una nuova edizione o una cadenza senza verificarla. Se l'archivio è inaccessibile registrare il limite e non dichiarare svolto il controllo. Questa verifica non obbliga a scegliere una notizia da Geekout né sostituisce fonti primarie e controllo duplicati.
+
+
+## Altre fonti editoriali indicate da Marco — 1 novembre 2026
+
+Consultare anche Social Media Today (https://www.socialmediatoday.com/) ed EMARKETER, sezione Advertising & Marketing (https://www.emarketer.com/articles/topics/advertising-marketing), per individuare temi, aggiornamenti delle piattaforme, trend pubblicitari e ricerche pertinenti al pubblico italiano. Usarle insieme a Geekout e alle fonti primarie, senza una quota obbligatoria di citazioni per articolo.
+
+Per gli annunci riportati da Social Media Today, risalire quando possibile alla documentazione o dichiarazione originale. Per dati e stime di EMARKETER verificare data, periodo, mercato geografico, campione o metodologia accessibile e distinguere previsioni da risultati osservati. Attribuire analisi e ricerche proprietarie alla testata; non trasformare un dato statunitense in un dato italiano. Non ricostruire contenuti dietro paywall o presumere di aver letto una ricerca completa da titolo e anteprima. Se sono visibili solo estratti, limitare le affermazioni a ciò che è verificabile e registrare il limite. Non attivare abbonamenti o servizi a pagamento.
+
+Registrare discovery_source e discovery_issue o discovery_url quando una di queste fonti ha portato alla scelta del tema, insieme alle fonti che sostengono le affermazioni. Conservare il controllo obbligatorio aggiornato di Geekout a ogni pubblicazione e il confronto con l'archivio per evitare duplicati.
