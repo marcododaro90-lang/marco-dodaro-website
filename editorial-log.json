@@ -257,6 +257,93 @@
           }
         }
       }
+    },
+    {
+      "file": "gruppi-whatsapp-corsi-community-aggiornamenti.html",
+      "slug": "gruppi-whatsapp-corsi-community-aggiornamenti",
+      "title": "Gruppi WhatsApp per corsi e community, come gestire gli aggiornamenti",
+      "seo_title": "Gruppi WhatsApp per corsi e community | Marco Dodaro",
+      "desc": "Le novità dei gruppi WhatsApp e il loro uso nei corsi. Come organizzare messaggi fissati, nuovi ingressi e promemoria senza confondere i partecipanti.",
+      "date": "2026-11-01",
+      "category": "Formazione digitale",
+      "minutes": 5,
+      "keyword": "gruppi WhatsApp corsi formazione",
+      "search_intent": "organizzare comunicazioni e ingresso dei partecipanti nei gruppi di un corso",
+      "image": "https://images.unsplash.com/photo-1643917567366-5afb8cf4bac9?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "Icona verde di WhatsApp sullo schermo di uno smartphone, accanto ad altre app",
+      "image_id": "z3jCMSm4Rrc",
+      "image_source": "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-whatsapp-on-the-screen-z3jCMSm4Rrc",
+      "image_credit": "lonely blue / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://blog.whatsapp.com/never-miss-what-matters-in-your-group-chats",
+        "https://geekout.mattnavarra.com/p/instagram-90-minute-videos-zuckerberg-shareholder-lawsuit"
+      ],
+      "url": "https://marcododaro.it/gruppi-whatsapp-corsi-community-aggiornamenti.html",
+      "status": "published",
+      "workflow_review": {
+        "brief": {
+          "audience": "Enti di formazione, tutor e community manager",
+          "primary_query": "gruppi WhatsApp corsi formazione",
+          "intent": "organizzare comunicazioni e ingresso dei partecipanti nei gruppi di un corso",
+          "distinct_from_archive": "Primo approfondimento su WhatsApp; nessuna ripresa dei precedenti eventi AI o YouTube"
+        },
+        "geekout_checked_at": "2026-11-01T10:38:00+01:00",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/instagram-90-minute-videos-zuckerberg-shareholder-lawsuit",
+        "latest_issue_date": "2026-10-30",
+        "discovery_source": "Geekout",
+        "discovery_issue": "https://geekout.mattnavarra.com/p/instagram-90-minute-videos-zuckerberg-shareholder-lawsuit",
+        "discovery_note": "Stessa edizione più recente del controllo precedente; consultata nuovamente",
+        "evidence_summary": {
+          "primary_source": "https://blog.whatsapp.com/never-miss-what-matters-in-your-group-chats",
+          "announcement_date": "2026-10-29",
+          "independent_confirmation": false,
+          "limitations": "Annuncio del fornitore senza calendario specifico Italia; esempi operativi originali dichiarati come proposte"
+        },
+        "editorial_review": "Verifica lessicale e strutturale completata; nessuna esperienza personale inventata",
+        "text_skill": {
+          "scripts_executed": true,
+          "before_score": 0.235,
+          "density_tier": "low",
+          "unicode_removed": 0,
+          "meaning": "Indicatore interno, non certificazione di paternità",
+          "after_score": 0.235
+        },
+        "cover": {
+          "remote": 31,
+          "local": 58,
+          "errors": [],
+          "closest": [
+            [
+              "publish-nov1/assets/image-61.webp",
+              0.9649351632537965
+            ],
+            [
+              "publish-nov1/assets/image-35.webp",
+              0.9649351632537965
+            ],
+            [
+              "publish-nov1/assets/image-47.webp",
+              0.9649351632537965
+            ],
+            [
+              "publish-nov1/assets/image-45.webp",
+              1.4762356737634046
+            ]
+          ],
+          "sha256": "e04f7a466937961c5d4a5c5f4321c3418ee6f65b18cec765b045153f0c3e9291"
+        },
+        "checks": {
+          "local_preflight": {
+            "status": "pass",
+            "errors": 0,
+            "warnings": 0
+          },
+          "live_preflight": "pending_deployment",
+          "mobile_viewports": "not_checked_renderer_unavailable",
+          "search_console": "not_accessed"
+        }
+      }
     }
   ]
 }
