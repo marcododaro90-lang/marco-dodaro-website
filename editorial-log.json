@@ -376,7 +376,7 @@
         "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/"
       ],
       "url": "https://marcododaro.it/linkedin-thought-leader-ads-campagne-creator-b2b.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "PMI B2B, responsabili marketing ed enti di formazione",
@@ -461,10 +461,22 @@
             "errors": 0,
             "warnings": 0
           },
-          "live_preflight": "pending",
+          "live_preflight": {
+            "status": "pass",
+            "checked_at": "2026-11-02T07:22:17.535837+00:00",
+            "errors": [],
+            "warnings": [],
+            "article_sha256": "91f37b359949c913d03b8fdb20ad6eb71bb457d418060a7b0f7576d834aff5c3",
+            "checks": 51
+          },
           "viewports": "not_checked_renderer_unavailable",
           "search_console": "not_accessed",
-          "core_web_vitals": "not_measured"
+          "core_web_vitals": "not_measured",
+          "deployment": {
+            "status": "success",
+            "commit": "b6bc59b03993d8582839099d8504a750f87de89e",
+            "run_id": 41405746069
+          }
         }
       }
     }
