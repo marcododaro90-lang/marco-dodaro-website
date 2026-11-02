@@ -351,6 +351,122 @@
           "search_console": "not_accessed"
         }
       }
+    },
+    {
+      "file": "linkedin-thought-leader-ads-campagne-creator-b2b.html",
+      "slug": "linkedin-thought-leader-ads-campagne-creator-b2b",
+      "title": "Thought Leader Ads LinkedIn, come impostare una campagna B2B",
+      "seo_title": "Thought Leader Ads LinkedIn per il B2B | Marco Dodaro",
+      "desc": "Come usare i Thought Leader Ads su LinkedIn: formati, permessi del creator e criteri per valutare una campagna B2B, con un esempio per la formazione.",
+      "date": "2026-11-02",
+      "category": "Creator economy",
+      "minutes": 5,
+      "keyword": "Thought Leader Ads LinkedIn",
+      "search_intent": "impostare e valutare una campagna B2B che sponsorizza il post di un creator",
+      "image": "https://images.unsplash.com/photo-1746014600883-57f4b16a7012?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "LinkedIn aperto su un computer portatile su una scrivania in legno, con dettagli blu e viola",
+      "image_id": "ad7EPZtxppo",
+      "image_source": "https://unsplash.com/photos/someone-is-using-a-laptop-likely-browsing-social-media-ad7EPZtxppo",
+      "image_credit": "Swello / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.linkedin.com/help/lms/answer/a1399568",
+        "https://www.linkedin.com/help/lms/answer/a5977275",
+        "https://business.linkedin.com/advertise/ads/sponsored-content/thought-leader-ads",
+        "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/"
+      ],
+      "url": "https://marcododaro.it/linkedin-thought-leader-ads-campagne-creator-b2b.html",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "audience": "PMI B2B, responsabili marketing ed enti di formazione",
+          "primary_query": "Thought Leader Ads LinkedIn",
+          "intent": "impostare e valutare una campagna B2B che sponsorizza il post di un creator",
+          "archive_count": 42,
+          "distinct_from_archive": "Nessun Thought Leader Ads nel testo dei 42 articoli. Il creator marketing B2B esistente tratta scelta e strategia; usage rights tratta contratti cross-platform. Qui requisiti del formato, autorizzazioni e valutazione della distribuzione paid."
+        },
+        "geekout_checked_at": "2026-11-02T07:19:45.019558+00:00",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/instagram-90-minute-videos-zuckerberg-shareholder-lawsuit",
+        "latest_issue_date": "2026-10-30",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/",
+        "discovery_note": "Geekout ricontrollato: stessa ultima edizione. Consultati anche listing SMT ed EMARKETER; nessuna ricerca a pagamento utilizzata.",
+        "evidence_summary": {
+          "sources": [
+            "https://www.linkedin.com/help/lms/answer/a1399568",
+            "https://www.linkedin.com/help/lms/answer/a5977275",
+            "https://business.linkedin.com/advertise/ads/sponsored-content/thought-leader-ads",
+            "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/"
+          ],
+          "access_date": "2026-11-02",
+          "help_updated_relative": "6 days ago secondo le due pagine Help",
+          "conflict_resolution": "Help corrente include documenti/eventi/newsletter; vecchia scheda specs li esclude in parte, quindi non usata come fonte dei formati",
+          "limitations": "Documentazione del fornitore; nessun test di efficacia o abilitazione account italiano. Nessun dato di crescita derivato dalla ripresa SMT."
+        },
+        "editorial_review": "Due revisioni lessicale e strutturale; tono neutro, esempio esplicitamente ipotetico, nessuna esperienza inventata.",
+        "text_skill": {
+          "scripts_executed": true,
+          "before_score": 0.235,
+          "after_score": 0.235,
+          "density_tier": "low",
+          "unicode_removed": 0,
+          "interpretation": "Indicatore interno non attribuzione di paternità"
+        },
+        "cover": {
+          "remote": 32,
+          "local": 58,
+          "errors": [],
+          "closest": [
+            [
+              "https://images.unsplash.com/photo-1780535393597-922070f9a9cc",
+              0.917468353313978
+            ],
+            [
+              "site/assets/image-61.webp",
+              0.9654577316792397
+            ],
+            [
+              "site/assets/image-47.webp",
+              0.9654577316792397
+            ],
+            [
+              "site/assets/image-35.webp",
+              0.9654577316792397
+            ],
+            [
+              "https://images.unsplash.com/photo-1676276374987-c4a89f51d8a6",
+              1.0433156837616506
+            ],
+            [
+              "https://images.unsplash.com/photo-1758691736980-c619fa4203bb",
+              1.1420211986467517
+            ],
+            [
+              "site/assets/image-18.webp",
+              1.2385860532014448
+            ],
+            [
+              "site/assets/image-50.webp",
+              1.245353770491151
+            ]
+          ],
+          "sha256": "d90cfd133e33cf9f70760639d9ae6f57b5c026d704292ea8810d8e13ea176180",
+          "visual_review": "Foto intera, ritaglio panoramico e otto immagini più vicine ispezionati; fotografie differenti",
+          "license_verified": "https://unsplash.com/photos/someone-is-using-a-laptop-likely-browsing-social-media-ad7EPZtxppo"
+        },
+        "checks": {
+          "local_preflight": {
+            "status": "pass",
+            "checks": 44,
+            "errors": 0,
+            "warnings": 0
+          },
+          "live_preflight": "pending",
+          "viewports": "not_checked_renderer_unavailable",
+          "search_console": "not_accessed",
+          "core_web_vitals": "not_measured"
+        }
+      }
     }
   ]
 }

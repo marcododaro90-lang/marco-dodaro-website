@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -292,6 +292,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "e04f7a466937961c5d4a5c5f4321c3418ee6f65b18cec765b045153f0c3e9291"
+    },
+    {
+      "article": "linkedin-thought-leader-ads-campagne-creator-b2b.html",
+      "image": "https://images.unsplash.com/photo-1746014600883-57f4b16a7012?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/someone-is-using-a-laptop-likely-browsing-social-media-ad7EPZtxppo",
+      "unsplash_id": "ad7EPZtxppo",
+      "photographer": "Swello",
+      "alt": "LinkedIn aperto su un computer portatile su una scrivania in legno, con dettagli blu e viola",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "d90cfd133e33cf9f70760639d9ae6f57b5c026d704292ea8810d8e13ea176180"
     }
   ]
 }
