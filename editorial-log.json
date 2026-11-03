@@ -503,7 +503,7 @@
         "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/"
       ],
       "url": "https://marcododaro.it/protezione-brand-tiktok-shop-strumenti-controlli.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "Aziende e merchant italiani",
@@ -537,7 +537,7 @@
         },
         "cover": {
           "remote": 33,
-          "local": 55,
+          "local": 58,
           "errors": [],
           "closest": [
             [
@@ -581,9 +581,17 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checked_at": "2026-11-03T07:09:08.585325+00:00",
+            "errors": [],
+            "warnings": [],
+            "article_sha256": "14a50b70abe954bc75355b609f61db2ddb540b8b3cf80b8fcda1e52dcba71bef",
+            "checks": 51
+          },
           "viewports": "not_checked_renderer_unavailable",
-          "search_console": "not_accessed"
+          "search_console": "not_accessed",
+          "deployment": "success run 41594251163"
         }
       }
     }
