@@ -479,6 +479,113 @@
           }
         }
       }
+    },
+    {
+      "file": "protezione-brand-tiktok-shop-strumenti-controlli.html",
+      "slug": "protezione-brand-tiktok-shop-strumenti-controlli",
+      "title": "Protezione del brand su TikTok, strumenti e controlli per le aziende",
+      "seo_title": "Protezione brand TikTok e TikTok Shop | Marco Dodaro",
+      "desc": "Le nuove risorse TikTok per proteggere brand e prodotti. Come organizzare controlli, prove e segnalazioni, verificando gli strumenti disponibili in Italia.",
+      "date": "2026-11-03",
+      "category": "Social commerce",
+      "minutes": 5,
+      "keyword": "protezione brand TikTok",
+      "search_intent": "organizzare controlli e segnalazioni per proteggere marchio e prodotti su TikTok",
+      "image": "https://images.unsplash.com/photo-1770239647673-1a0eb5d05a25?w=1600&q=85&auto=format&fit=max",
+      "image_alt": "Borse tessute con motivi e tracolle multicolori, in tonalità rosa e arancione",
+      "image_id": "J4U6Q-8vt-c",
+      "image_source": "https://unsplash.com/photos/colorful-woven-bags-with-patterned-straps-arranged-together-J4U6Q-8vt-c",
+      "image_credit": "Johanna Cedeno / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://newsroom.tiktok.com/tiktok-introduces-the-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-SG",
+        "https://ads.tiktok.com/business/en/brand-safety",
+        "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/"
+      ],
+      "url": "https://marcododaro.it/protezione-brand-tiktok-shop-strumenti-controlli.html",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "audience": "Aziende e merchant italiani",
+          "primary_query": "protezione brand TikTok",
+          "intent": "organizzare controlli e segnalazioni per proteggere marchio e prodotti su TikTok",
+          "archive_count": 43,
+          "differentiation": "Primo articolo su protezione brand, distinto da margini, campagna stagionale e guida shop"
+        },
+        "geekout_checked_at": "2026-11-03T07:06:56.433491+00:00",
+        "latest_issue_date": "2026-10-30",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/instagram-90-minute-videos-zuckerberg-shareholder-lawsuit",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/",
+        "evidence_summary": "Annuncio TikTok 28 ottobre verificato. Nessuna disponibilità italiana universale dedotta. EMARKETER consultato solo listing, nessuna ricerca a pagamento utilizzata.",
+        "editorial_review": "humanizer applicata, revisione lessicale e strutturale, esempio ipotetico",
+        "text_skill": {
+          "path": "/tmp/body.clean.html",
+          "word_count": 978,
+          "sentence_count": 54,
+          "burstiness_cv": 0.4109,
+          "lexical_diversity": 0.8806,
+          "ai_ngram_density": 0.0,
+          "matched_markers": [],
+          "score": 0.235,
+          "confidence_level": "CLEAN",
+          "density_tier": "low",
+          "status": "ok",
+          "findings": [],
+          "findings_confidence": [],
+          "notes": []
+        },
+        "cover": {
+          "remote": 33,
+          "local": 55,
+          "errors": [],
+          "closest": [
+            [
+              "site/assets/image-35.webp",
+              0.9598838335960749
+            ],
+            [
+              "site/assets/image-47.webp",
+              0.9598838335960749
+            ],
+            [
+              "site/assets/image-61.webp",
+              0.9598838335960749
+            ],
+            [
+              "site/assets/image-26.webp",
+              1.5871161255305197
+            ],
+            [
+              "https://images.unsplash.com/photo-1758876019550-7aa3910b93bc",
+              1.633022589263045
+            ],
+            [
+              "site/assets/image-41.webp",
+              1.6423876219305256
+            ],
+            [
+              "site/assets/image-51.webp",
+              1.643571249598161
+            ],
+            [
+              "site/assets/image-40.webp",
+              1.71302362297042
+            ]
+          ],
+          "sha256": "ef9788b805e824b4c8ce92c43d38332c04401b2687867a17e385483dd1554140",
+          "visual_review": "Foto, ritaglio e otto immagini più vicine ispezionati; prima candidata già usata scartata"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": "not_checked_renderer_unavailable",
+          "search_console": "not_accessed"
+        }
+      }
     }
   ]
 }

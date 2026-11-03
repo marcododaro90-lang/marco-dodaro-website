@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -303,6 +303,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "d90cfd133e33cf9f70760639d9ae6f57b5c026d704292ea8810d8e13ea176180"
+    },
+    {
+      "article": "protezione-brand-tiktok-shop-strumenti-controlli.html",
+      "image": "https://images.unsplash.com/photo-1770239647673-1a0eb5d05a25?w=1600&q=85&auto=format&fit=max",
+      "source": "https://unsplash.com/photos/colorful-woven-bags-with-patterned-straps-arranged-together-J4U6Q-8vt-c",
+      "unsplash_id": "J4U6Q-8vt-c",
+      "photographer": "Johanna Cedeno",
+      "alt": "Borse tessute con motivi e tracolle multicolori, in tonalità rosa e arancione",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "ef9788b805e824b4c8ce92c43d38332c04401b2687867a17e385483dd1554140"
     }
   ]
 }
