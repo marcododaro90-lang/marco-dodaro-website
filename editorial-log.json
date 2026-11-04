@@ -617,7 +617,7 @@
         "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/"
       ],
       "url": "https://marcododaro.it/assistenti-ai-insight-creator-decisioni-editoriali.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "Creator, aziende ed enti di formazione",
@@ -695,9 +695,17 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checked_at": "2026-11-04T07:01:24.408017+00:00",
+            "errors": [],
+            "warnings": [],
+            "article_sha256": "179ff73679ec2ca8a362ce32e33d6849105bc6edc593a9c4af998c43721961a1",
+            "checks": 51
+          },
           "viewports": "not_checked_renderer_unavailable",
-          "search_console": "not_accessed"
+          "search_console": "not_accessed",
+          "deployment": "success run 41789247105"
         }
       }
     }
