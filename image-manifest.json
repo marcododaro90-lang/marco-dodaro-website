@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -314,6 +314,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "ef9788b805e824b4c8ce92c43d38332c04401b2687867a17e385483dd1554140"
+    },
+    {
+      "article": "assistenti-ai-insight-creator-decisioni-editoriali.html",
+      "image": "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/a-person-holding-a-camera-with-a-pink-background-EkkxpwvqyKA",
+      "unsplash_id": "EkkxpwvqyKA",
+      "photographer": "Rapha Wilde",
+      "alt": "Mani che impugnano una cinepresa Super 8 su uno sfondo rosa",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "b2e4bcdc610b16f62135dd95682d4c16b442d874d7f41e87088c25c7ff80d382"
     }
   ]
 }

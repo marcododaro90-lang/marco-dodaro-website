@@ -601,5 +601,27 @@
       "https://ads.tiktok.com/business/en/brand-safety",
       "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/"
     ]
+  },
+  "45": {
+    "file": "assistenti-ai-insight-creator-decisioni-editoriali.html",
+    "slug": "assistenti-ai-insight-creator-decisioni-editoriali",
+    "title": "Assistenti AI per creator, dagli insight alle decisioni editoriali",
+    "seo_title": "Assistenti AI per creator e analisi degli insight | Marco Dodaro",
+    "desc": "Come valutare i suggerimenti AI sui dati social, confrontare contenuti e trasformare un’ipotesi in una decisione editoriale verificabile.",
+    "date": "2026-11-04",
+    "category": "AI e creator economy",
+    "minutes": 5,
+    "keyword": "assistenti AI creator insight",
+    "search_intent": "verificare i suggerimenti AI sugli insight prima di decidere quali contenuti produrre",
+    "image": "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c?auto=format&fit=max&w=1600&q=85",
+    "image_alt": "Mani che impugnano una cinepresa Super 8 su uno sfondo rosa",
+    "image_id": "EkkxpwvqyKA",
+    "image_source": "https://unsplash.com/photos/a-person-holding-a-camera-with-a-pink-background-EkkxpwvqyKA",
+    "image_credit": "Rapha Wilde / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/",
+      "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/"
+    ]
   }
 }

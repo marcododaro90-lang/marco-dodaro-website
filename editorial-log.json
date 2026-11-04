@@ -594,6 +594,112 @@
           "deployment": "success run 41594251163"
         }
       }
+    },
+    {
+      "file": "assistenti-ai-insight-creator-decisioni-editoriali.html",
+      "slug": "assistenti-ai-insight-creator-decisioni-editoriali",
+      "title": "Assistenti AI per creator, dagli insight alle decisioni editoriali",
+      "seo_title": "Assistenti AI per creator e analisi degli insight | Marco Dodaro",
+      "desc": "Come valutare i suggerimenti AI sui dati social, confrontare contenuti e trasformare un’ipotesi in una decisione editoriale verificabile.",
+      "date": "2026-11-04",
+      "category": "AI e creator economy",
+      "minutes": 5,
+      "keyword": "assistenti AI creator insight",
+      "search_intent": "verificare i suggerimenti AI sugli insight prima di decidere quali contenuti produrre",
+      "image": "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "Mani che impugnano una cinepresa Super 8 su uno sfondo rosa",
+      "image_id": "EkkxpwvqyKA",
+      "image_source": "https://unsplash.com/photos/a-person-holding-a-camera-with-a-pink-background-EkkxpwvqyKA",
+      "image_credit": "Rapha Wilde / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/",
+        "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/"
+      ],
+      "url": "https://marcododaro.it/assistenti-ai-insight-creator-decisioni-editoriali.html",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "audience": "Creator, aziende ed enti di formazione",
+          "query": "assistenti AI creator insight",
+          "intent": "verificare i suggerimenti AI sugli insight prima di decidere quali contenuti produrre",
+          "archive_count": 44,
+          "differentiation": "Verifica delle ipotesi degli assistenti sugli insight, distinta da calendario generale, riuso e misurazione campagne"
+        },
+        "geekout_checked_at": "2026-11-04T06:59:03.153823+00:00",
+        "latest_issue_date": "2026-10-30",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/instagram-90-minute-videos-zuckerberg-shareholder-lawsuit",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/",
+        "evidence_summary": "Meta giugno accessibile. Aggiornamento novembre primario reindirizza a login: non utilizzato per dettagli funzionali. Accesso italiano non confermato. EMARKETER solo listing. Geekout stessa ultima edizione.",
+        "editorial_review": "Humanizer e revisione in due passaggi, esempio ipotetico, tono neutro",
+        "text_skill": {
+          "path": "/tmp/body.clean.html",
+          "word_count": 995,
+          "sentence_count": 61,
+          "burstiness_cv": 0.3881,
+          "lexical_diversity": 0.8801,
+          "ai_ngram_density": 0.0,
+          "matched_markers": [],
+          "score": 0.235,
+          "confidence_level": "CLEAN",
+          "density_tier": "low",
+          "status": "ok",
+          "findings": [],
+          "findings_confidence": [],
+          "notes": []
+        },
+        "cover": {
+          "remote": 34,
+          "local": 58,
+          "errors": [],
+          "closest": [
+            [
+              "today/assets/image-61.webp",
+              0.95010648260276
+            ],
+            [
+              "today/assets/image-47.webp",
+              0.95010648260276
+            ],
+            [
+              "today/assets/image-35.webp",
+              0.95010648260276
+            ],
+            [
+              "today/assets/image-40.webp",
+              0.9608718299689296
+            ],
+            [
+              "today/assets/image-54.webp",
+              1.1348132763075882
+            ],
+            [
+              "https://images.unsplash.com/photo-1764664035187-e89b27d54c7b",
+              1.3522052441779944
+            ],
+            [
+              "today/assets/image-21.webp",
+              1.4281835267316045
+            ],
+            [
+              "today/assets/image-63.webp",
+              1.4753234262187935
+            ]
+          ],
+          "sha256": "b2e4bcdc610b16f62135dd95682d4c16b442d874d7f41e87088c25c7ff80d382",
+          "visual_review": "Foto intera, ritaglio e otto immagini più vicine ispezionati"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": "not_checked_renderer_unavailable",
+          "search_console": "not_accessed"
+        }
+      }
     }
   ]
 }
