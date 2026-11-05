@@ -731,7 +731,7 @@
         "https://digital-skills-jobs.europa.eu/en/initiatives/european-initiatives/digital-competence-framework-digcomp"
       ],
       "url": "https://marcododaro.it/digcomp-3-prove-competenze-digitali.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "Enti di formazione e docenti",
@@ -808,7 +808,14 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checked_at": "2026-11-05T07:04:24.130222+00:00",
+            "errors": [],
+            "warnings": [],
+            "article_sha256": "80cb9c73d0e44d561c557ba4764940bf1333db1f685dfaa2bb3fdd2cf02f15e2",
+            "checks": 51
+          },
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
