@@ -708,6 +708,111 @@
           "deployment": "success run 41789247105"
         }
       }
+    },
+    {
+      "file": "digcomp-3-prove-competenze-digitali.html",
+      "slug": "digcomp-3-prove-competenze-digitali",
+      "title": "DigComp 3.0, come progettare prove di competenza digitale",
+      "seo_title": "DigComp 3.0 e prove di competenza digitale | Marco Dodaro",
+      "desc": "Come usare DigComp 3.0 per progettare prove pratiche, costruire una griglia di valutazione e decidere cosa insegnare dopo.",
+      "date": "2026-11-05",
+      "category": "Formazione digitale",
+      "minutes": 5,
+      "keyword": "DigComp 3.0 prove competenze digitali",
+      "search_intent": "progettare prove pratiche e criteri osservabili per un corso di competenze digitali",
+      "image": "https://images.unsplash.com/photo-1759868937753-34859b641bc1?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "Foglietti adesivi colorati su una lavagna bianca",
+      "image_id": "OBOoohXBrD8",
+      "image_source": "https://unsplash.com/photos/colorful-sticky-notes-scattered-on-a-white-board-OBOoohXBrD8",
+      "image_credit": "Akinyemi Gbadamosi / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://joint-research-centre.ec.europa.eu/scientific-activities/key-competences-lifelong-learning/digital-competence-framework-digcomp/digcomp-30_en",
+        "https://digital-skills-jobs.europa.eu/en/initiatives/european-initiatives/digital-competence-framework-digcomp"
+      ],
+      "url": "https://marcododaro.it/digcomp-3-prove-competenze-digitali.html",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "audience": "Enti di formazione e docenti",
+          "query": "DigComp 3.0 prove competenze digitali",
+          "intent": "progettare prove pratiche e criteri osservabili per un corso di competenze digitali",
+          "archive_count": 45,
+          "differentiation": "Il precedente articolo sulle competenze AI cita DigComp. Qui prova digitale trasversale per segreteria, rubriche e confronto iniziale/finale."
+        },
+        "geekout_checked_at": "2026-11-05T07:02:29.835747+00:00",
+        "latest_issue_date": "2026-10-30",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/instagram-90-minute-videos-zuckerberg-shareholder-lawsuit",
+        "discovery_source": "Digital Skills & Jobs Platform",
+        "evidence_summary": "JRC e scheda europea verificati. Consultati Geekout, Social Media Today ed EMARKETER come fonti di scoperta. Nessun dato da anteprime a pagamento.",
+        "editorial_review": "Humanizer e revisione lessicale e strutturale. Esempio ipotetico e griglia locale distinti dalle indicazioni ufficiali.",
+        "text_skill": {
+          "path": "/tmp/body.clean.html",
+          "word_count": 858,
+          "sentence_count": 49,
+          "burstiness_cv": 0.4177,
+          "lexical_diversity": 0.8786,
+          "ai_ngram_density": 0.0,
+          "matched_markers": [],
+          "score": 0.235,
+          "confidence_level": "CLEAN",
+          "density_tier": "low",
+          "status": "ok",
+          "findings": [],
+          "findings_confidence": [],
+          "notes": []
+        },
+        "cover": {
+          "remote": 35,
+          "local": 68,
+          "errors": [],
+          "closest": [
+            [
+              "nov5/assets/image-61.webp",
+              0.9508727638571928
+            ],
+            [
+              "nov5/assets/image-35.webp",
+              0.9508727638571928
+            ],
+            [
+              "nov5/assets/image-47.webp",
+              0.9508727638571928
+            ],
+            [
+              "https://images.unsplash.com/photo-1763729805496-b5dbf7f00c79",
+              1.1313028097506466
+            ],
+            [
+              "https://images.unsplash.com/photo-1725030971425-e6ca11cfb0c9",
+              1.1672363790207136
+            ],
+            [
+              "nov5/assets/image-27.webp",
+              1.2452811429563662
+            ],
+            [
+              "nov5/assets/image-25.webp",
+              1.2948000597178644
+            ],
+            [
+              "nov5/blog-img-article-09.webp",
+              1.3290407638732014
+            ]
+          ],
+          "sha256": "0c4fd612918a7cace0bf765166b3ff5fac70647229f62ed032d0edc709cf5b70",
+          "visual_review": "Ritaglio e otto immagini più vicine ispezionati"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": "not_checked",
+          "search_console": "not_accessed"
+        }
+      }
     }
   ]
 }

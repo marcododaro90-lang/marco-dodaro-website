@@ -623,5 +623,27 @@
       "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/",
       "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/"
     ]
+  },
+  "46": {
+    "file": "digcomp-3-prove-competenze-digitali.html",
+    "slug": "digcomp-3-prove-competenze-digitali",
+    "title": "DigComp 3.0, come progettare prove di competenza digitale",
+    "seo_title": "DigComp 3.0 e prove di competenza digitale | Marco Dodaro",
+    "desc": "Come usare DigComp 3.0 per progettare prove pratiche, costruire una griglia di valutazione e decidere cosa insegnare dopo.",
+    "date": "2026-11-05",
+    "category": "Formazione digitale",
+    "minutes": 5,
+    "keyword": "DigComp 3.0 prove competenze digitali",
+    "search_intent": "progettare prove pratiche e criteri osservabili per un corso di competenze digitali",
+    "image": "https://images.unsplash.com/photo-1759868937753-34859b641bc1?auto=format&fit=max&w=1600&q=85",
+    "image_alt": "Foglietti adesivi colorati su una lavagna bianca",
+    "image_id": "OBOoohXBrD8",
+    "image_source": "https://unsplash.com/photos/colorful-sticky-notes-scattered-on-a-white-board-OBOoohXBrD8",
+    "image_credit": "Akinyemi Gbadamosi / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://joint-research-centre.ec.europa.eu/scientific-activities/key-competences-lifelong-learning/digital-competence-framework-digcomp/digcomp-30_en",
+      "https://digital-skills-jobs.europa.eu/en/initiatives/european-initiatives/digital-competence-framework-digcomp"
+    ]
   }
 }

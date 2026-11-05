@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -325,6 +325,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "b2e4bcdc610b16f62135dd95682d4c16b442d874d7f41e87088c25c7ff80d382"
+    },
+    {
+      "article": "digcomp-3-prove-competenze-digitali.html",
+      "image": "https://images.unsplash.com/photo-1759868937753-34859b641bc1?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/colorful-sticky-notes-scattered-on-a-white-board-OBOoohXBrD8",
+      "unsplash_id": "OBOoohXBrD8",
+      "photographer": "Akinyemi Gbadamosi",
+      "alt": "Foglietti adesivi colorati su una lavagna bianca",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "0c4fd612918a7cace0bf765166b3ff5fac70647229f62ed032d0edc709cf5b70"
     }
   ]
 }
