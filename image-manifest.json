@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -336,6 +336,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "0c4fd612918a7cace0bf765166b3ff5fac70647229f62ed032d0edc709cf5b70"
+    },
+    {
+      "article": "edits-per-mac-prova-montaggio-video.html",
+      "image": "https://images.unsplash.com/photo-1778052404716-b39eef1f17c6?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/computer-monitor-displaying-video-editing-timeline-at-night-MEPpAPCXUL8",
+      "unsplash_id": "MEPpAPCXUL8",
+      "photographer": "Rohit Kumar",
+      "alt": "Tracce di montaggio blu e verdi su un monitor illuminato da una luce calda",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "f6db18dd688bdf415335ba8a038fba96ae03566ec129d49fba2d257ba8620c05"
     }
   ]
 }

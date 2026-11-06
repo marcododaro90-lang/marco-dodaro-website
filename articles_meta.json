@@ -645,5 +645,28 @@
       "https://joint-research-centre.ec.europa.eu/scientific-activities/key-competences-lifelong-learning/digital-competence-framework-digcomp/digcomp-30_en",
       "https://digital-skills-jobs.europa.eu/en/initiatives/european-initiatives/digital-competence-framework-digcomp"
     ]
+  },
+  "47": {
+    "file": "edits-per-mac-prova-montaggio-video.html",
+    "slug": "edits-per-mac-prova-montaggio-video",
+    "title": "Edits per Mac, come provarlo su un progetto video reale",
+    "seo_title": "Edits per Mac, prova di montaggio video | Marco Dodaro",
+    "desc": "Come valutare Edits per Mac su un progetto già consegnato, confrontando formati, sottotitoli, revisioni e tempi fino alla consegna.",
+    "date": "2026-11-06",
+    "category": "Creator economy",
+    "minutes": 5,
+    "keyword": "Edits per Mac prova montaggio video",
+    "search_intent": "valutare Edits desktop su una consegna video reale",
+    "image": "https://images.unsplash.com/photo-1778052404716-b39eef1f17c6?auto=format&fit=max&w=1600&q=85",
+    "image_alt": "Tracce di montaggio blu e verdi su un monitor illuminato da una luce calda",
+    "image_id": "MEPpAPCXUL8",
+    "image_source": "https://unsplash.com/photos/computer-monitor-displaying-video-editing-timeline-at-night-MEPpAPCXUL8",
+    "image_credit": "Rohit Kumar / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.socialmediatoday.com/news/edits-launches-for-macos/873949/",
+      "https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/",
+      "https://edits.instagram.com/blog/edits-desktop-video-editor/"
+    ]
   }
 }

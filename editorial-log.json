@@ -820,6 +820,113 @@
           "search_console": "not_accessed"
         }
       }
+    },
+    {
+      "file": "edits-per-mac-prova-montaggio-video.html",
+      "slug": "edits-per-mac-prova-montaggio-video",
+      "title": "Edits per Mac, come provarlo su un progetto video reale",
+      "seo_title": "Edits per Mac, prova di montaggio video | Marco Dodaro",
+      "desc": "Come valutare Edits per Mac su un progetto già consegnato, confrontando formati, sottotitoli, revisioni e tempi fino alla consegna.",
+      "date": "2026-11-06",
+      "category": "Creator economy",
+      "minutes": 5,
+      "keyword": "Edits per Mac prova montaggio video",
+      "search_intent": "valutare Edits desktop su una consegna video reale",
+      "image": "https://images.unsplash.com/photo-1778052404716-b39eef1f17c6?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "Tracce di montaggio blu e verdi su un monitor illuminato da una luce calda",
+      "image_id": "MEPpAPCXUL8",
+      "image_source": "https://unsplash.com/photos/computer-monitor-displaying-video-editing-timeline-at-night-MEPpAPCXUL8",
+      "image_credit": "Rohit Kumar / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.socialmediatoday.com/news/edits-launches-for-macos/873949/",
+        "https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/",
+        "https://edits.instagram.com/blog/edits-desktop-video-editor/"
+      ],
+      "url": "https://marcododaro.it/edits-per-mac-prova-montaggio-video.html",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "audience": "Creator, team di produzione ed enti di formazione",
+          "query": "Edits per Mac prova montaggio video",
+          "intent": "valutare Edits desktop su una consegna video reale",
+          "archive_count": 46,
+          "differentiation": "Primo approfondimento sul lancio Edits desktop. Distinto dal riuso dei contenuti e dalle decisioni basate sugli insight."
+        },
+        "geekout_checked_at": "2026-11-06T07:05:48.451196+00:00",
+        "latest_issue_date": "2026-10-30",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/instagram-90-minute-videos-zuckerberg-shareholder-lawsuit",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/edits-launches-for-macos/873949/",
+        "evidence_summary": "Lancio riportato il 5 novembre da due testate. Pagina primaria non leggibile nel recupero web, dettagli attribuiti alle testate. EMARKETER solo listing, nessuna ricerca a pagamento.",
+        "editorial_review": "Humanizer e revisione lessicale e strutturale. Esempio ipotetico.",
+        "text_skill": {
+          "path": "/tmp/body.clean.html",
+          "word_count": 761,
+          "sentence_count": 39,
+          "burstiness_cv": 0.3585,
+          "lexical_diversity": 0.859,
+          "ai_ngram_density": 0.0,
+          "matched_markers": [],
+          "score": 0.235,
+          "confidence_level": "CLEAN",
+          "density_tier": "low",
+          "status": "ok",
+          "findings": [],
+          "findings_confidence": [],
+          "notes": []
+        },
+        "cover": {
+          "remote": 36,
+          "local": 68,
+          "errors": [],
+          "closest": [
+            [
+              "nov6/assets/image-47.webp",
+              0.9498151324823016
+            ],
+            [
+              "nov6/assets/image-61.webp",
+              0.9498151324823016
+            ],
+            [
+              "nov6/assets/image-35.webp",
+              0.9498151324823016
+            ],
+            [
+              "nov6/assets/image-54.webp",
+              1.07526355234097
+            ],
+            [
+              "nov6/assets/image-45.webp",
+              1.313519060364837
+            ],
+            [
+              "nov6/assets/image-52.webp",
+              1.387286053423876
+            ],
+            [
+              "nov6/assets/image-26.webp",
+              1.4266356187995934
+            ],
+            [
+              "nov6/assets/image-34.webp",
+              1.5260959606936237
+            ]
+          ],
+          "sha256": "f6db18dd688bdf415335ba8a038fba96ae03566ec129d49fba2d257ba8620c05",
+          "visual_review": "Foto, ritaglio e otto immagini più vicine ispezionati"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": "not_checked",
+          "search_console": "not_accessed"
+        }
+      }
     }
   ]
 }
