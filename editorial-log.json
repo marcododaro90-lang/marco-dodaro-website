@@ -844,7 +844,7 @@
         "https://edits.instagram.com/blog/edits-desktop-video-editor/"
       ],
       "url": "https://marcododaro.it/edits-per-mac-prova-montaggio-video.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "Creator, team di produzione ed enti di formazione",
@@ -922,7 +922,14 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checked_at": "2026-11-06T07:08:21.834804+00:00",
+            "errors": [],
+            "warnings": [],
+            "article_sha256": "01c5c283976e366d83673096d625fee320898332b84659af2d6f320ac415a99b",
+            "checks": 51
+          },
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
