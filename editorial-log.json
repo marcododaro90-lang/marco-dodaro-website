@@ -958,7 +958,7 @@
         "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
       ],
       "url": "https://marcododaro.it/app-tiktok-shop-catalogo-venditori.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "Venditori e brand italiani",
@@ -1036,7 +1036,14 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checked_at": "2026-11-07T07:06:29.417390+00:00",
+            "errors": [],
+            "warnings": [],
+            "article_sha256": "9c6694accbe5b8d2246fad1dde2d27d8a1ab4d0335f1b03570dff3ffdb10e878",
+            "checks": 51
+          },
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
