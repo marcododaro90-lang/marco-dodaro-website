@@ -12,10 +12,17 @@
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
   window['ga-disable-' + ID] = true;
-  window.gtag('consent', 'default', {
-    analytics_storage: 'denied', ad_storage: 'denied',
-    ad_user_data: 'denied', ad_personalization: 'denied'
-  });
+  // Consent Mode v2 (basic): Google scripts are inserted only in enableAnalytics.
+  function setGoogleConsent(command, analyticsAllowed) {
+    window.gtag('consent', command, {
+      analytics_storage: analyticsAllowed ? 'granted' : 'denied',
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied'
+    });
+  }
+
+  setGoogleConsent('default', false);
 
   function readChoice() {
     try {
@@ -47,10 +54,7 @@
 
   function enableAnalytics() {
     window['ga-disable-' + ID] = false;
-    window.gtag('consent', 'update', {
-      analytics_storage: 'granted', ad_storage: 'denied',
-      ad_user_data: 'denied', ad_personalization: 'denied'
-    });
+    setGoogleConsent('update', true);
     if (started) return;
     started = true;
     window.gtag('js', new Date());
@@ -83,23 +87,20 @@
   }
 
   function saveChoice(allow, action) {
-    stored = { version: 1, analytics: allow, at: Date.now(), notice: '2026-10-25.2', action: action || 'preferences' };
+    stored = { version: 1, analytics: allow, at: Date.now(), notice: '2026-11-07.1', action: action || 'preferences' };
     var persisted = false;
     try { localStorage.setItem(KEY, JSON.stringify(stored)); persisted = true; }
     catch (e) { if (!allow) { try { localStorage.removeItem(KEY); persisted = true; } catch (ignored) { /* Stay disabled in this page. */ } } }
     hideBanner();
     if (allow) enableAnalytics();
-    else {
-      window['ga-disable-' + ID] = true;
-      clearAnalyticsCookies();
-      if (started) {
-        window.gtag('consent', 'update', {
-          analytics_storage: 'denied', ad_storage: 'denied',
-          ad_user_data: 'denied', ad_personalization: 'denied'
-        });
-        if (persisted) location.reload();
-      }
-    }
+    else disableAnalytics(persisted);
+  }
+
+  function disableAnalytics(reload) {
+    window['ga-disable-' + ID] = true;
+    setGoogleConsent('update', false);
+    clearAnalyticsCookies();
+    if (started && reload) location.reload();
   }
 
   function openPreferences() {
@@ -122,7 +123,7 @@
     banner.hidden = true;
     banner.setAttribute('role', 'region');
     banner.setAttribute('aria-label', 'Preferenze cookie');
-    banner.innerHTML = '<button type="button" id="md-cookie-close" aria-label="Chiudi e continua senza cookie statistici">×</button><div class="md-cookie-copy"><p>Usiamo strumenti tecnici necessari e, solo se lo consenti, cookie statistici di Google Analytics per analizzare visite e utilizzo dei contenuti. Accetta, rifiuta o personalizza la scelta. Chiudendo con la X continui senza statistiche; scorrere la pagina non equivale ad accettare. Puoi cambiare scelta da “Preferenze cookie” nel footer. <a href="privacy-cookie-policy.html#cookie">Cookie Policy e dettagli</a>.</p><p id="md-cookie-status" aria-live="polite"></p></div><div id="md-cookie-actions" role="group" aria-label="Scelta dei cookie"><button type="button" id="md-cookie-reject">Rifiuta statistiche</button><button type="button" id="md-cookie-accept">Accetta statistiche</button><button type="button" id="md-cookie-customize" aria-expanded="false" aria-controls="md-cookie-details">Personalizza</button></div><section id="md-cookie-details" aria-label="Categorie di cookie" hidden><p><strong>Necessari — sempre attivi.</strong> Permettono il funzionamento del sito e memorizzano la tua scelta per sei mesi.</p><label for="md-cookie-statistics"><input type="checkbox" id="md-cookie-statistics">Cookie statistici — Google Analytics 4</label><p>Facoltativi, disattivati fino al consenso. Aiutano a comprendere quali pagine vengono visitate. Il rifiuto non limita l’accesso ai contenuti. Non utilizziamo cookie pubblicitari.</p><button type="button" id="md-cookie-save">Salva preferenze</button></section>';
+    banner.innerHTML = '<button type="button" id="md-cookie-close" aria-label="Chiudi e continua senza cookie statistici">×</button><div class="md-cookie-copy"><p>Il sito usa strumenti tecnici per funzionare e ricordare la tua scelta. Se accetti le statistiche, Google Analytics 4 usa cookie per misurare le pagine visitate e le interazioni. Google Tag Manager si attiva con la stessa scelta. Puoi rifiutare, chiudere con la X o modificare la scelta in qualsiasi momento da “Preferenze cookie” nel footer. <a href="privacy-cookie-policy.html#cookie">Cookie Policy e dettagli</a>.</p><p id="md-cookie-status" aria-live="polite"></p></div><div id="md-cookie-actions" role="group" aria-label="Scelta dei cookie"><button type="button" id="md-cookie-reject">Rifiuta statistiche</button><button type="button" id="md-cookie-accept">Accetta statistiche</button><button type="button" id="md-cookie-customize" aria-expanded="false" aria-controls="md-cookie-details">Personalizza</button></div><section id="md-cookie-details" aria-label="Categorie di cookie" hidden><p><strong>Necessari — sempre attivi.</strong> Permettono il funzionamento del sito e memorizzano la tua scelta per sei mesi.</p><label for="md-cookie-statistics"><input type="checkbox" id="md-cookie-statistics">Cookie statistici — Google Analytics 4</label><p>Facoltativi, disattivati fino al consenso. Aiutano a comprendere quali pagine vengono visitate. Puoi accedere a tutti i contenuti anche se rifiuti. Il consenso alle statistiche riguarda solo la misurazione del sito.</p><button type="button" id="md-cookie-save">Salva preferenze</button></section>';
     document.body.appendChild(banner);
     document.getElementById('md-cookie-reject').addEventListener('click', function () { saveChoice(false, 'reject'); });
     document.getElementById('md-cookie-accept').addEventListener('click', function () { saveChoice(true, 'accept'); });
@@ -160,12 +161,15 @@
   window.addEventListener('storage', function (event) {
     if (event.key !== KEY && event.key !== null) return;
     var value = readChoice();
-    if (started && (!value || !value.analytics)) {
-      window['ga-disable-' + ID] = true;
-      clearAnalyticsCookies();
-      location.reload();
-    } else if (value && value.analytics) { stored = value; hideBanner(); enableAnalytics(); }
-    else { stored = value; if (!value) openPreferences(); }
+    stored = value;
+    if (value && value.analytics) {
+      hideBanner();
+      enableAnalytics();
+    } else {
+      disableAnalytics(true);
+      if (!value) openPreferences();
+      else hideBanner();
+    }
   });
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
   else init();
