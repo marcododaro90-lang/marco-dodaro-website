@@ -2,6 +2,7 @@
   'use strict';
   if (window.marcoCookieConsent) return;
   var ID = 'G-MDB7M27NGN';
+  var GTM_ID = 'GTM-NLHC672X';
   var KEY = 'md_cookie_consent_v1';
   var TTL = 180 * 24 * 60 * 60 * 1000;
   var started = false;
@@ -68,6 +69,12 @@
     script.async = true;
     script.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID;
     document.head.appendChild(script);
+
+    window.dataLayer.push({ 'gtm.start': Date.now(), event: 'gtm.js' });
+    var tagManager = document.createElement('script');
+    tagManager.async = true;
+    tagManager.src = 'https://www.googletagmanager.com/gtm.js?id=' + GTM_ID;
+    document.head.appendChild(tagManager);
   }
 
   function hideBanner() {
