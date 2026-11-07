@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -347,6 +347,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "f6db18dd688bdf415335ba8a038fba96ae03566ec129d49fba2d257ba8620c05"
+    },
+    {
+      "article": "app-tiktok-shop-catalogo-venditori.html",
+      "image": "https://images.unsplash.com/photo-1759002258761-7493050e53c9?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/colorful-market-stall-filled-with-bags-and-crafts-FWw4dRjIAPM",
+      "unsplash_id": "FWw4dRjIAPM",
+      "photographer": "Sadia Alam",
+      "alt": "Bancarella di mercato con borse, lanterne e oggetti artigianali colorati",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "c6873ae1e23dfb664dcc5cb772e781a2911c781d17d488fc4c97b326bbc27cb9"
     }
   ]
 }

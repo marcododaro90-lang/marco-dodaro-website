@@ -668,5 +668,28 @@
       "https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/",
       "https://edits.instagram.com/blog/edits-desktop-video-editor/"
     ]
+  },
+  "48": {
+    "file": "app-tiktok-shop-catalogo-venditori.html",
+    "slug": "app-tiktok-shop-catalogo-venditori",
+    "title": "App TikTok Shop, cosa cambia per le schede prodotto",
+    "seo_title": "App TikTok Shop e schede prodotto | Marco Dodaro",
+    "desc": "L’app separata di TikTok Shop debutta in alcuni mercati asiatici. Un metodo per controllare schede, varianti e coerenza con i video dei creator.",
+    "date": "2026-11-07",
+    "category": "Social commerce",
+    "minutes": 5,
+    "keyword": "app TikTok Shop schede prodotto",
+    "search_intent": "capire il lancio dell’app separata e preparare il catalogo a ingressi diversi dal video",
+    "image": "https://images.unsplash.com/photo-1759002258761-7493050e53c9?auto=format&fit=max&w=1600&q=85",
+    "image_alt": "Bancarella di mercato con borse, lanterne e oggetti artigianali colorati",
+    "image_id": "FWw4dRjIAPM",
+    "image_source": "https://unsplash.com/photos/colorful-market-stall-filled-with-bags-and-crafts-FWw4dRjIAPM",
+    "image_credit": "Sadia Alam / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://apps.apple.com/sg/app/tiktok-shop/id6801139069",
+      "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+      "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+    ]
   }
 }

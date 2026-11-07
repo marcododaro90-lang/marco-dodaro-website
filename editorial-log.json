@@ -934,6 +934,113 @@
           "search_console": "not_accessed"
         }
       }
+    },
+    {
+      "file": "app-tiktok-shop-catalogo-venditori.html",
+      "slug": "app-tiktok-shop-catalogo-venditori",
+      "title": "App TikTok Shop, cosa cambia per le schede prodotto",
+      "seo_title": "App TikTok Shop e schede prodotto | Marco Dodaro",
+      "desc": "L’app separata di TikTok Shop debutta in alcuni mercati asiatici. Un metodo per controllare schede, varianti e coerenza con i video dei creator.",
+      "date": "2026-11-07",
+      "category": "Social commerce",
+      "minutes": 5,
+      "keyword": "app TikTok Shop schede prodotto",
+      "search_intent": "capire il lancio dell’app separata e preparare il catalogo a ingressi diversi dal video",
+      "image": "https://images.unsplash.com/photo-1759002258761-7493050e53c9?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "Bancarella di mercato con borse, lanterne e oggetti artigianali colorati",
+      "image_id": "FWw4dRjIAPM",
+      "image_source": "https://unsplash.com/photos/colorful-market-stall-filled-with-bags-and-crafts-FWw4dRjIAPM",
+      "image_credit": "Sadia Alam / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://apps.apple.com/sg/app/tiktok-shop/id6801139069",
+        "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+      ],
+      "url": "https://marcododaro.it/app-tiktok-shop-catalogo-venditori.html",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "audience": "Venditori e brand italiani",
+          "query": "app TikTok Shop schede prodotto",
+          "intent": "capire il lancio dell’app separata e preparare il catalogo a ingressi diversi dal video",
+          "archive_count": 47,
+          "differentiation": "Primo approfondimento sul lancio dell’app autonoma. Controllo qualità delle schede per chi arriva senza aver visto il video, distinto da guida generale, margini e brand safety."
+        },
+        "geekout_checked_at": "2026-11-07T07:04:18.347458+00:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "discovery_source": "Geekout",
+        "discovery_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "evidence_summary": "App Store Singapore conferma funzioni ufficiali. Mercati attribuiti a TechCrunch, accesso italiano non confermato. Social Media Today e EMARKETER consultati, nessuna stima da anteprime.",
+        "editorial_review": "Humanizer, revisione lessicale e strutturale, esempio ipotetico",
+        "text_skill": {
+          "path": "/tmp/body.clean.html",
+          "word_count": 769,
+          "sentence_count": 44,
+          "burstiness_cv": 0.383,
+          "lexical_diversity": 0.8654,
+          "ai_ngram_density": 0.0,
+          "matched_markers": [],
+          "score": 0.235,
+          "confidence_level": "CLEAN",
+          "density_tier": "low",
+          "status": "ok",
+          "findings": [],
+          "findings_confidence": [],
+          "notes": []
+        },
+        "cover": {
+          "remote": 37,
+          "local": 68,
+          "errors": [],
+          "closest": [
+            [
+              "nov7/assets/image-61.webp",
+              0.9655601746817216
+            ],
+            [
+              "nov7/assets/image-35.webp",
+              0.9655601746817216
+            ],
+            [
+              "nov7/assets/image-47.webp",
+              0.9655601746817216
+            ],
+            [
+              "https://images.unsplash.com/photo-1763729805496-b5dbf7f00c79",
+              1.0958122229724208
+            ],
+            [
+              "nov7/assets/image-50.webp",
+              1.1279711717897172
+            ],
+            [
+              "nov7/assets/image-32.webp",
+              1.1836626282539942
+            ],
+            [
+              "nov7/assets/image-24.webp",
+              1.1841931266956511
+            ],
+            [
+              "nov7/assets/image-67.webp",
+              1.1991189541863707
+            ]
+          ],
+          "sha256": "c6873ae1e23dfb664dcc5cb772e781a2911c781d17d488fc4c97b326bbc27cb9",
+          "visual_review": "Foto, ritaglio e otto immagini più vicine ispezionati"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": "not_checked",
+          "search_console": "not_accessed"
+        }
+      }
     }
   ]
 }
