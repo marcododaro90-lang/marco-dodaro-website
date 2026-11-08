@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -358,6 +358,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "c6873ae1e23dfb664dcc5cb772e781a2911c781d17d488fc4c97b326bbc27cb9"
+    },
+    {
+      "article": "images-2-6-ai-foto-prodotto.html",
+      "image": "https://images.unsplash.com/photo-1741896135490-4062a3b21abf?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/skincare-serums-and-dropper-bottles-sit-on-pink-9PnU-U7V6YE",
+      "unsplash_id": "9PnU-U7V6YE",
+      "photographer": "Maria Lupan",
+      "alt": "Quattro flaconi di siero con contagocce e etichette su fondo rosa",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "b974f4991e842b82bbdd3671117f5e652ea9a66921e948d23387b4c32d127721"
     }
   ]
 }

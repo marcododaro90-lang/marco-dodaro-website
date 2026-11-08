@@ -691,5 +691,26 @@
       "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
       "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
     ]
+  },
+  "49": {
+    "file": "images-2-6-ai-foto-prodotto.html",
+    "slug": "images-2-6-ai-foto-prodotto",
+    "title": "Images 2.6 e foto prodotto, come controllare le modifiche AI",
+    "seo_title": "Images 2.6 e foto prodotto con AI | Marco Dodaro",
+    "desc": "Come verificare etichette, varianti e ritagli quando si modifica una foto prodotto con Images 2.6 o altri strumenti AI.",
+    "date": "2026-11-08",
+    "category": "Intelligenza artificiale",
+    "minutes": 5,
+    "keyword": "Images 2.6 foto prodotto AI",
+    "search_intent": "verificare fedeltà e destinazione commerciale delle foto prodotto modificate con AI",
+    "image": "https://images.unsplash.com/photo-1741896135490-4062a3b21abf?auto=format&fit=max&w=1600&q=85",
+    "image_alt": "Quattro flaconi di siero con contagocce e etichette su fondo rosa",
+    "image_id": "9PnU-U7V6YE",
+    "image_source": "https://unsplash.com/photos/skincare-serums-and-dropper-bottles-sit-on-pink-9PnU-U7V6YE",
+    "image_credit": "Maria Lupan / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://openai.com/index/introducing-images-2-6/"
+    ]
   }
 }

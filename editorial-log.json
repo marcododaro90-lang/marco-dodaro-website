@@ -525,7 +525,7 @@
           "sentence_count": 54,
           "burstiness_cv": 0.4109,
           "lexical_diversity": 0.8806,
-          "ai_ngram_density": 0.0,
+          "ai_ngram_density": 0,
           "matched_markers": [],
           "score": 0.235,
           "confidence_level": "CLEAN",
@@ -639,7 +639,7 @@
           "sentence_count": 61,
           "burstiness_cv": 0.3881,
           "lexical_diversity": 0.8801,
-          "ai_ngram_density": 0.0,
+          "ai_ngram_density": 0,
           "matched_markers": [],
           "score": 0.235,
           "confidence_level": "CLEAN",
@@ -752,7 +752,7 @@
           "sentence_count": 49,
           "burstiness_cv": 0.4177,
           "lexical_diversity": 0.8786,
-          "ai_ngram_density": 0.0,
+          "ai_ngram_density": 0,
           "matched_markers": [],
           "score": 0.235,
           "confidence_level": "CLEAN",
@@ -866,7 +866,7 @@
           "sentence_count": 39,
           "burstiness_cv": 0.3585,
           "lexical_diversity": 0.859,
-          "ai_ngram_density": 0.0,
+          "ai_ngram_density": 0,
           "matched_markers": [],
           "score": 0.235,
           "confidence_level": "CLEAN",
@@ -980,7 +980,7 @@
           "sentence_count": 44,
           "burstiness_cv": 0.383,
           "lexical_diversity": 0.8654,
-          "ai_ngram_density": 0.0,
+          "ai_ngram_density": 0,
           "matched_markers": [],
           "score": 0.235,
           "confidence_level": "CLEAN",
@@ -1044,6 +1044,110 @@
             "article_sha256": "9c6694accbe5b8d2246fad1dde2d27d8a1ab4d0335f1b03570dff3ffdb10e878",
             "checks": 51
           },
+          "viewports": "not_checked",
+          "search_console": "not_accessed"
+        }
+      }
+    },
+    {
+      "file": "images-2-6-ai-foto-prodotto.html",
+      "slug": "images-2-6-ai-foto-prodotto",
+      "title": "Images 2.6 e foto prodotto, come controllare le modifiche AI",
+      "seo_title": "Images 2.6 e foto prodotto con AI | Marco Dodaro",
+      "desc": "Come verificare etichette, varianti e ritagli quando si modifica una foto prodotto con Images 2.6 o altri strumenti AI.",
+      "date": "2026-11-08",
+      "category": "Intelligenza artificiale",
+      "minutes": 5,
+      "keyword": "Images 2.6 foto prodotto AI",
+      "search_intent": "verificare fedeltà e destinazione commerciale delle foto prodotto modificate con AI",
+      "image": "https://images.unsplash.com/photo-1741896135490-4062a3b21abf?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "Quattro flaconi di siero con contagocce e etichette su fondo rosa",
+      "image_id": "9PnU-U7V6YE",
+      "image_source": "https://unsplash.com/photos/skincare-serums-and-dropper-bottles-sit-on-pink-9PnU-U7V6YE",
+      "image_credit": "Maria Lupan / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://openai.com/index/introducing-images-2-6/"
+      ],
+      "url": "https://marcododaro.it/images-2-6-ai-foto-prodotto.html",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "audience": "Team e-commerce e produzione visual",
+          "query": "Images 2.6 foto prodotto AI",
+          "intent": "verificare fedeltà e destinazione commerciale delle foto prodotto modificate con AI",
+          "archive_count": 48,
+          "differentiation": "Primo approfondimento su Images 2.6 e controllo fedeltà visiva, distinto da etichettatura AI e qualità generale delle schede."
+        },
+        "geekout_checked_at": "2026-11-08T06:59:30.944166+00:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "discovery_source": "OpenAI Newsroom",
+        "discovery_url": "https://openai.com/index/introducing-images-2-6/",
+        "evidence_summary": "Annuncio primario del 4 novembre. Metodo ed esempio ipotetico distinti dalle capacità dichiarate. Geekout, Social Media Today ed EMARKETER consultati per la selezione, nessuna stima da anteprime.",
+        "editorial_review": "Humanizer e revisione lessicale e strutturale",
+        "text_skill": {
+          "path": "/tmp/body.clean.html",
+          "word_count": 829,
+          "sentence_count": 50,
+          "burstiness_cv": 0.3863,
+          "lexical_diversity": 0.8696,
+          "ai_ngram_density": 0,
+          "matched_markers": [],
+          "score": 0.235,
+          "confidence_level": "CLEAN",
+          "density_tier": "low",
+          "status": "ok",
+          "findings": [],
+          "findings_confidence": [],
+          "notes": []
+        },
+        "cover": {
+          "remote": 38,
+          "local": 68,
+          "errors": [],
+          "closest": [
+            [
+              "nov8/assets/image-47.webp",
+              0.880809038668529
+            ],
+            [
+              "nov8/assets/image-61.webp",
+              0.880809038668529
+            ],
+            [
+              "nov8/assets/image-35.webp",
+              0.880809038668529
+            ],
+            [
+              "https://images.unsplash.com/photo-1782029903774-494b95ad1abc",
+              1.3606103127536047
+            ],
+            [
+              "nov8/assets/image-62.webp",
+              1.4170121289445072
+            ],
+            [
+              "nov8/assets/image-31.webp",
+              1.4545135434223502
+            ],
+            [
+              "nov8/assets/image-30.webp",
+              1.4698581649756017
+            ],
+            [
+              "nov8/assets/image-36.webp",
+              1.4836835563414457
+            ]
+          ],
+          "sha256": "b974f4991e842b82bbdd3671117f5e652ea9a66921e948d23387b4c32d127721",
+          "visual_review": "Foto, ritaglio di prova e otto immagini più vicine ispezionati"
+        },
+        "checks": {
+          "local": {
+            "status": "pass"
+          },
+          "live": "pending",
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
