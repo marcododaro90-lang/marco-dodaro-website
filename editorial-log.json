@@ -1070,7 +1070,7 @@
         "https://openai.com/index/introducing-images-2-6/"
       ],
       "url": "https://marcododaro.it/images-2-6-ai-foto-prodotto.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "Team e-commerce e produzione visual",
@@ -1147,7 +1147,12 @@
           "local": {
             "status": "pass"
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-08T07:03:16.775292+00:00",
+            "article_sha256": "6e32193f14baacbe089f0d01d26ce3b17c8d8f49a423ab361aa55ed31066eb7c"
+          },
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
