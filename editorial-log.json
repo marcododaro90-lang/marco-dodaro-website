@@ -1181,7 +1181,7 @@
         "https://developers.meta.com/vr/resources/optimize-ad-campaign/"
       ],
       "url": "https://marcododaro.it/meta-ads-controllare-sconti-promozioni.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "Team e-commerce e advertising",
@@ -1258,8 +1258,16 @@
           "local": {
             "status": "pass"
           },
-          "live": "pending",
-          "viewports": "not_checked",
+          "live": {
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-09T07:03:05.639892+00:00",
+            "article_sha256": "592c029da9628254fcb8fd78008c3db3909d90261417bc80e3c3564fb7035e0d"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Renderer locale non disponibile"
+          },
           "search_console": "not_accessed"
         }
       }
