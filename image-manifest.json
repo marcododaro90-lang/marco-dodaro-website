@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -369,6 +369,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "b974f4991e842b82bbdd3671117f5e652ea9a66921e948d23387b4c32d127721"
+    },
+    {
+      "article": "meta-ads-controllare-sconti-promozioni.html",
+      "image": "https://images.unsplash.com/photo-1741389064022-6d470321710e?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/a-grocery-store-window-displaying-price-tags-YdHEHUzI_no",
+      "unsplash_id": "YdHEHUzI_no",
+      "photographer": "Mirna Wabi-Sabi",
+      "alt": "Cartellini di prezzo colorati nella vetrina di un negozio",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "e6d8f1549598385a07c389a8d5509dfbdcb0d84a7bfa370909403d626710a8d0"
     }
   ]
 }

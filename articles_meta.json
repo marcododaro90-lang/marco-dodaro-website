@@ -712,5 +712,28 @@
     "sources": [
       "https://openai.com/index/introducing-images-2-6/"
     ]
+  },
+  "50": {
+    "file": "meta-ads-controllare-sconti-promozioni.html",
+    "slug": "meta-ads-controllare-sconti-promozioni",
+    "title": "Sconti su Meta Ads, come verificare l’offerta fino al checkout",
+    "seo_title": "Meta Ads e sconti, verifica fino al checkout | Marco Dodaro",
+    "desc": "Un metodo per controllare promozioni, varianti e prezzi negli annunci Meta, dalla creatività approvata fino al checkout.",
+    "date": "2026-11-09",
+    "category": "Social commerce",
+    "minutes": 5,
+    "keyword": "Meta Ads controllo sconti promozioni",
+    "search_intent": "verificare che le offerte negli annunci Meta coincidano con prezzo e condizioni al checkout",
+    "image": "https://images.unsplash.com/photo-1741389064022-6d470321710e?auto=format&fit=max&w=1600&q=85",
+    "image_alt": "Cartellini di prezzo colorati nella vetrina di un negozio",
+    "image_id": "YdHEHUzI_no",
+    "image_source": "https://unsplash.com/photos/a-grocery-store-window-displaying-price-tags-YdHEHUzI_no",
+    "image_credit": "Mirna Wabi-Sabi / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.linkedin.com/feed/update/urn:li:activity:7524409902740467712/",
+      "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/",
+      "https://developers.meta.com/vr/resources/optimize-ad-campaign/"
+    ]
   }
 }

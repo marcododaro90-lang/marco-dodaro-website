@@ -1157,6 +1157,112 @@
           "search_console": "not_accessed"
         }
       }
+    },
+    {
+      "file": "meta-ads-controllare-sconti-promozioni.html",
+      "slug": "meta-ads-controllare-sconti-promozioni",
+      "title": "Sconti su Meta Ads, come verificare l’offerta fino al checkout",
+      "seo_title": "Meta Ads e sconti, verifica fino al checkout | Marco Dodaro",
+      "desc": "Un metodo per controllare promozioni, varianti e prezzi negli annunci Meta, dalla creatività approvata fino al checkout.",
+      "date": "2026-11-09",
+      "category": "Social commerce",
+      "minutes": 5,
+      "keyword": "Meta Ads controllo sconti promozioni",
+      "search_intent": "verificare che le offerte negli annunci Meta coincidano con prezzo e condizioni al checkout",
+      "image": "https://images.unsplash.com/photo-1741389064022-6d470321710e?auto=format&fit=max&w=1600&q=85",
+      "image_alt": "Cartellini di prezzo colorati nella vetrina di un negozio",
+      "image_id": "YdHEHUzI_no",
+      "image_source": "https://unsplash.com/photos/a-grocery-store-window-displaying-price-tags-YdHEHUzI_no",
+      "image_credit": "Mirna Wabi-Sabi / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7524409902740467712/",
+        "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/",
+        "https://developers.meta.com/vr/resources/optimize-ad-campaign/"
+      ],
+      "url": "https://marcododaro.it/meta-ads-controllare-sconti-promozioni.html",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "audience": "Team e-commerce e advertising",
+          "query": "Meta Ads controllo sconti promozioni",
+          "intent": "verificare che le offerte negli annunci Meta coincidano con prezzo e condizioni al checkout",
+          "archive_count": 49,
+          "differentiation": "Primo approfondimento su offerte rilevate negli annunci Meta. Controllo prezzi e checkout distinto da immagini e qualità delle schede."
+        },
+        "geekout_checked_at": "2026-11-09T07:00:15.914861+00:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/",
+        "evidence_summary": "Segnalazione originale accessibile. Documentazione Meta citata solo per anteprima, nessuna conferma universale del comportamento offerte. Geekout e EMARKETER consultati, nessuna stima da anteprime.",
+        "editorial_review": "Humanizer e revisione lessicale e strutturale",
+        "text_skill": {
+          "path": "/tmp/body.clean.html",
+          "word_count": 787,
+          "sentence_count": 43,
+          "burstiness_cv": 0.3582,
+          "lexical_diversity": 0.8608,
+          "ai_ngram_density": 0,
+          "matched_markers": [],
+          "score": 0.235,
+          "confidence_level": "CLEAN",
+          "density_tier": "low",
+          "status": "ok",
+          "findings": [],
+          "findings_confidence": [],
+          "notes": []
+        },
+        "cover": {
+          "remote": 39,
+          "local": 68,
+          "errors": [],
+          "closest": [
+            [
+              "nov9/assets/image-47.webp",
+              0.9711817739961113
+            ],
+            [
+              "nov9/assets/image-61.webp",
+              0.9711817739961113
+            ],
+            [
+              "nov9/assets/image-35.webp",
+              0.9711817739961113
+            ],
+            [
+              "nov9/assets/image-40.webp",
+              1.4251133756615322
+            ],
+            [
+              "https://images.unsplash.com/photo-1745847768367-893e989d3a98",
+              1.4691418851888443
+            ],
+            [
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b",
+              1.4810528532331804
+            ],
+            [
+              "nov9/blog-img-article-08.webp",
+              1.512956747092271
+            ],
+            [
+              "nov9/assets/image-21.webp",
+              1.512956747092271
+            ]
+          ],
+          "sha256": "e6d8f1549598385a07c389a8d5509dfbdcb0d84a7bfa370909403d626710a8d0",
+          "visual_review": "Ritaglio panoramico ispezionato e confronto visivo con le immagini più simili"
+        },
+        "checks": {
+          "local": {
+            "status": "pass"
+          },
+          "live": "pending",
+          "viewports": "not_checked",
+          "search_console": "not_accessed"
+        }
+      }
     }
   ]
 }
