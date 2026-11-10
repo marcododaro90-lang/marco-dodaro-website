@@ -762,5 +762,90 @@
       "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers",
       "https://blogs.bing.com/search/2026/10/your-content-your-choice-clearer-preferences-for-training-and-grounding/"
     ]
+  },
+  "52": {
+    "file": "linkedin-feed-rilevanza-post-organici.html",
+    "slug": "linkedin-feed-rilevanza-post-organici",
+    "title": "Feed LinkedIn, come rendere rilevanti i post per un nuovo pubblico",
+    "seo_title": "Feed LinkedIn, come rendere rilevanti i post per un nuovo pubblico | Marco Dodaro",
+    "desc": "Come LinkedIn seleziona post fuori dalla rete e come verificare se un contenuto organico risponde a un problema professionale riconoscibile.",
+    "date": "2026-11-10",
+    "category": "Creator economy",
+    "minutes": 3,
+    "keyword": "feed LinkedIn post fuori dalla rete",
+    "search_intent": "Progettare e verificare post organici LinkedIn destinati a nuovi lettori.",
+    "image": "https://images.unsplash.com/photo-1758598305340-95c68b43ce49?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Persona al computer dietro una parete di vetro con post-it colorati",
+    "image_id": "xzO9iPDZkyI",
+    "image_source": "https://unsplash.com/photos/man-working-on-laptop-surrounded-by-colorful-sticky-notes-xzO9iPDZkyI",
+    "image_credit": "Vitaly Gariev / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.linkedin.com/blog/engineering/feed/profile-relevance-boosting-feed-relevance-with-llms-at-linkedin"
+    ]
+  },
+  "53": {
+    "file": "instagram-effect-builder-test-stories.html",
+    "slug": "instagram-effect-builder-test-stories",
+    "title": "Instagram Effect Builder, come testare un effetto per le Stories",
+    "seo_title": "Instagram Effect Builder, come testare un effetto per le Stories | Marco Dodaro",
+    "desc": "Come usare Effect Builder per progettare e provare un effetto nelle Stories, controllando inquadratura, leggibilità e tempi di revisione.",
+    "date": "2026-11-10",
+    "category": "Creator economy",
+    "minutes": 3,
+    "keyword": "Instagram Effect Builder Stories",
+    "search_intent": "Verificare un effetto interattivo per una Story prima di programmarla.",
+    "image": "https://images.unsplash.com/photo-1650421218675-d49994981462?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Fotocamera illuminata da luci rosse e blu",
+    "image_id": "5eSrph-WhjY",
+    "image_source": "https://unsplash.com/photos/a-red-and-blue-camera-sitting-on-top-of-a-table-5eSrph-WhjY",
+    "image_credit": "Bruno Guerrero / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://help.instagram.com/2290747514829899/",
+      "https://www.socialmediatoday.com/news/instagram-launches-visual-effects-creator-for-edits/874205/"
+    ]
+  },
+  "54": {
+    "file": "formazione-ai-per-ruoli-laboratorio.html",
+    "slug": "formazione-ai-per-ruoli-laboratorio",
+    "title": "Formazione AI per ruoli, come progettare un laboratorio",
+    "seo_title": "Formazione AI per ruoli, come progettare un laboratorio | Marco Dodaro",
+    "desc": "Dalla AI Academy di Deutsche Bank a un laboratorio per PMI. Un caso pratico per valutare chi prepara una risposta e chi la approva.",
+    "date": "2026-11-10",
+    "category": "Formazione digitale",
+    "minutes": 3,
+    "keyword": "formazione AI per ruoli",
+    "search_intent": "Progettare un laboratorio AI comune con prove differenziate per responsabilità.",
+    "image": "https://images.unsplash.com/photo-1676277757211-ebd7fdeb3d5b?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Lavagna con post-it rosa, gialli, verdi e azzurri",
+    "image_id": "BuD00MfwvFY",
+    "image_source": "https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-BuD00MfwvFY",
+    "image_credit": "Walls.io / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.db.com/news/detail/20261105-deutsche-bank-private-bank-launches-ai-academy-for-more-than-20-000-employees?language_id=1"
+    ]
+  },
+  "55": {
+    "file": "reddit-ads-ricerca-intento-acquisto.html",
+    "slug": "reddit-ads-ricerca-intento-acquisto",
+    "title": "Annunci nella ricerca Reddit, come preparare un test",
+    "seo_title": "Annunci nella ricerca Reddit, come preparare un test | Marco Dodaro",
+    "desc": "Cosa prevede il test di Reddit Ads nei risultati di ricerca e come costruire creatività e pagine di arrivo a partire dalle domande degli utenti.",
+    "date": "2026-11-10",
+    "category": "Social commerce",
+    "minutes": 3,
+    "keyword": "Reddit Ads risultati di ricerca",
+    "search_intent": "Preparare una prova di annunci Reddit coerenti con domande di acquisto e criteri di misurazione.",
+    "image": "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Smartphone nero su uno sfondo rosa, blu e giallo",
+    "image_id": "sXRVhFac_dU",
+    "image_source": "https://unsplash.com/photos/black-smartphone-on-pink-and-blue-textile-sXRVhFac_dU",
+    "image_credit": "Nick Jones / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://redditinc.com/news/we-are-testing-ad-placements-in-reddit-search-pages"
+    ]
   }
 }

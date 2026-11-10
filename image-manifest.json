@@ -391,6 +391,50 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "626c4df9335bb89dd443eaf340528ee185eac4a6195be7f0ed8b19e424e6fb4f"
+    },
+    {
+      "article": "linkedin-feed-rilevanza-post-organici.html",
+      "image": "https://images.unsplash.com/photo-1758598305340-95c68b43ce49?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/man-working-on-laptop-surrounded-by-colorful-sticky-notes-xzO9iPDZkyI",
+      "unsplash_id": "xzO9iPDZkyI",
+      "photographer": "Vitaly Gariev",
+      "alt": "Persona al computer dietro una parete di vetro con post-it colorati",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "ac752b2648576e5bd2e7db150ecef1a223216d1db8710d93eb50c46dd9d32a21"
+    },
+    {
+      "article": "instagram-effect-builder-test-stories.html",
+      "image": "https://images.unsplash.com/photo-1650421218675-d49994981462?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-red-and-blue-camera-sitting-on-top-of-a-table-5eSrph-WhjY",
+      "unsplash_id": "5eSrph-WhjY",
+      "photographer": "Bruno Guerrero",
+      "alt": "Fotocamera illuminata da luci rosse e blu",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "accc8d34613725ba4c3d1dea5c582539a1e88d06b2bbc625cd206d50fc731295"
+    },
+    {
+      "article": "formazione-ai-per-ruoli-laboratorio.html",
+      "image": "https://images.unsplash.com/photo-1676277757211-ebd7fdeb3d5b?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-BuD00MfwvFY",
+      "unsplash_id": "BuD00MfwvFY",
+      "photographer": "Walls.io",
+      "alt": "Lavagna con post-it rosa, gialli, verdi e azzurri",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "d1c11f63bef51914b22ddc302ef9d225a71e434ccb46c850d1c0e8ad8fb22922"
+    },
+    {
+      "article": "reddit-ads-ricerca-intento-acquisto.html",
+      "image": "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/black-smartphone-on-pink-and-blue-textile-sXRVhFac_dU",
+      "unsplash_id": "sXRVhFac_dU",
+      "photographer": "Nick Jones",
+      "alt": "Smartphone nero su uno sfondo rosa, blu e giallo",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "995d9d1ef2d7080e1b0d00091f250d2d27b10bccb03a8268a329a944655ae117"
     }
   ]
 }
