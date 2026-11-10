@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -380,6 +380,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "e6d8f1549598385a07c389a8d5509dfbdcb0d84a7bfa370909403d626710a8d0"
+    },
+    {
+      "article": "robots-txt-addestramento-ai.html",
+      "image": "https://images.unsplash.com/photo-1771172193679-cce75ed26588?auto=format&fit=max&w=1600&q=85",
+      "source": "https://unsplash.com/photos/wall-of-bookshelves-filled-with-colorful-books-nhj9hoKJp-U",
+      "unsplash_id": "nhj9hoKJp-U",
+      "photographer": "Ü Lõ",
+      "alt": "Scaffali di legno con file di libri dai dorsi colorati",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "626c4df9335bb89dd443eaf340528ee185eac4a6195be7f0ed8b19e424e6fb4f"
     }
   ]
 }

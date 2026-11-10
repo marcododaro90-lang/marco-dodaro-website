@@ -735,5 +735,32 @@
       "https://www.socialmediatoday.com/news/metas-ai-ads-included-unapproved-discounts/874067/",
       "https://developers.meta.com/vr/resources/optimize-ad-campaign/"
     ]
+  },
+  "51": {
+    "file": "robots-txt-addestramento-ai.html",
+    "slug": "robots-txt-addestramento-ai",
+    "title": "Robots.txt e addestramento AI, come funziona il segnale",
+    "seo_title": "Robots.txt e addestramento AI, come funziona il segnale | Marco Dodaro",
+    "desc": "Come funziona il segnale per l’addestramento AI in robots.txt, quali fornitori lo adotteranno e quali controlli restano separati dalla scansione.",
+    "date": "2026-11-10",
+    "category": "Intelligenza artificiale",
+    "minutes": 5,
+    "keyword": "robots.txt addestramento AI",
+    "search_intent": "Capire come esprimere una preferenza per l’addestramento AI dei contenuti di un sito e distinguerla dalla scansione e dalla ricerca.",
+    "image": "https://images.unsplash.com/photo-1771172193679-cce75ed26588?auto=format&fit=max&w=1600&q=85",
+    "image_alt": "Scaffali di legno con file di libri dai dorsi colorati",
+    "image_id": "nhj9hoKJp-U",
+    "image_source": "https://unsplash.com/photos/wall-of-bookshelves-filled-with-colorful-books-nhj9hoKJp-U",
+    "image_credit": "Ü Lõ / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://datatracker.ietf.org/doc/html/draft-kelley-aipref-training-preference-signal-00",
+      "https://www.rfc-editor.org/rfc/rfc9309",
+      "https://openai.com/it-IT/index/helping-websites-express-ai-training-preferences/",
+      "https://developers.openai.com/api/docs/bots",
+      "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler",
+      "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers",
+      "https://blogs.bing.com/search/2026/10/your-content-your-choice-clearer-preferences-for-training-and-grounding/"
+    ]
   }
 }
