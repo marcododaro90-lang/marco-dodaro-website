@@ -1419,7 +1419,7 @@
       ],
       "url": "https://marcododaro.it/linkedin-feed-rilevanza-post-organici.html",
       "date_published": "2026-11-10T15:33:11+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "feed LinkedIn post fuori dalla rete",
@@ -1475,7 +1475,12 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "method": "HTTP 200 e confronto byte per byte di articolo, blog, sitemap e robots.txt, con hash delle quattro foto pubbliche verificati",
+            "article_sha256": "0175317e6363fafd6bd7c00b9179a241bb90462b92b01f5b41fd513d5c0e7b15",
+            "checked_at": "2026-11-10T14:38:55.402Z"
+          },
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
@@ -1504,7 +1509,7 @@
       ],
       "url": "https://marcododaro.it/instagram-effect-builder-test-stories.html",
       "date_published": "2026-11-10T15:33:12+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Instagram Effect Builder Stories",
@@ -1560,7 +1565,12 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "method": "HTTP 200 e confronto byte per byte di articolo, blog, sitemap e robots.txt, con hash delle quattro foto pubbliche verificati",
+            "article_sha256": "2d6322e99c78920f37f93c98ebb9d498867cf482e3c9b7b4472027653f39a823",
+            "checked_at": "2026-11-10T14:38:55.402Z"
+          },
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
@@ -1588,7 +1598,7 @@
       ],
       "url": "https://marcododaro.it/formazione-ai-per-ruoli-laboratorio.html",
       "date_published": "2026-11-10T15:33:13+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "formazione AI per ruoli",
@@ -1644,7 +1654,12 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "method": "HTTP 200 e confronto byte per byte di articolo, blog, sitemap e robots.txt, con hash delle quattro foto pubbliche verificati",
+            "article_sha256": "6527023345ed82918736d50fb345388175a4a422a1af22a9b8be64ba2fb60edc",
+            "checked_at": "2026-11-10T14:38:55.402Z"
+          },
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
@@ -1672,7 +1687,7 @@
       ],
       "url": "https://marcododaro.it/reddit-ads-ricerca-intento-acquisto.html",
       "date_published": "2026-11-10T15:33:14+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Reddit Ads risultati di ricerca",
@@ -1728,7 +1743,12 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "method": "HTTP 200 e confronto byte per byte di articolo, blog, sitemap e robots.txt, con hash delle quattro foto pubbliche verificati",
+            "article_sha256": "ae8abcbc0cccb3b46285cf4c72c2e7e53b6dba3e6acd20caa4fb695fc5845de6",
+            "checked_at": "2026-11-10T14:38:55.402Z"
+          },
           "viewports": "not_checked",
           "search_console": "not_accessed"
         }
