@@ -1299,7 +1299,7 @@
         "https://blogs.bing.com/search/2026/10/your-content-your-choice-clearer-preferences-for-training-and-grounding/"
       ],
       "url": "https://marcododaro.it/robots-txt-addestramento-ai.html",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "audience": "Editori, creator con un sito proprio, aziende ed enti di formazione",
@@ -1383,7 +1383,12 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-10T07:06:29.673666+00:00",
+            "article_sha256": "53cd8b7758c2dd4bba185b943d646b42be743b96268ff35b0b9bbc95c20a6cbe"
+          },
           "viewports": {
             "status": "not_checked",
             "reason": "Il processo Chromium locale non può aprire il socket richiesto per il rendering."
