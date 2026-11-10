@@ -39,7 +39,7 @@ Gli stili del menu fisso devono selezionare `body > nav`, mai tutti gli elementi
 
 
 ## Revisione finale dei testi — 31 ottobre 2026
-Prima di pubblicare applicare la skill clean-user-facing-text alla prosa visibile, preservando codice, URL, citazioni, dati e requisiti SEO. Leggere la versione corrente della skill e seguirne misurazione iniziale, revisione condizionata e pulizia Unicode. Non inventare punteggi o dichiarare eseguiti script non accessibili; registrare il limite e distinguere eventuali controlli locali alternativi. Conservare il tono informativo e professionale, senza prima persona nel corpo o esperienze inventate. La regola di una pubblicazione al giorno ammette articoli aggiuntivi solo su richiesta esplicita di Marco, registrando il motivo nello storico.
+Prima di pubblicare applicare la skill clean-user-facing-text alla prosa visibile, preservando codice, URL, citazioni, dati e requisiti SEO. Leggere la versione corrente della skill e seguirne misurazione iniziale, revisione condizionata e pulizia Unicode. Non inventare punteggi o dichiarare eseguiti script non accessibili; registrare il limite e distinguere eventuali controlli locali alternativi. Conservare il tono informativo e professionale, senza prima persona nel corpo o esperienze inventate. La produzione ordinaria punta a cinque articoli originali per data italiana. Per conteggio, fonti e posizionamento seguire il capitolo «Cinque articoli al giorno e modello SEO» di BLOG_WORKFLOW.md.
 
 
 ## Scrittura meno schematica — richiesta del 31 ottobre 2026
