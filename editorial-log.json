@@ -1753,6 +1753,462 @@
           "search_console": "not_accessed"
         }
       }
+    },
+    {
+      "file": "tiktok-shop-plus-test-usa-riacquisto.html",
+      "slug": "tiktok-shop-plus-test-usa-riacquisto",
+      "title": "TikTok Shop Plus, cosa osservare nel test USA",
+      "seo_title": "TikTok Shop Plus, cosa osservare nel test USA | Marco Dodaro",
+      "desc": "Cosa prevede il test americano di TikTok Shop Plus e come un venditore italiano può preparare contenuti e misure per il riacquisto.",
+      "date": "2026-11-11",
+      "category": "Social commerce",
+      "minutes": 4,
+      "keyword": "TikTok Shop Plus test USA",
+      "search_intent": "Interpretare il pilota statunitense e preparare il percorso di riordino senza presumere un lancio italiano.",
+      "image": "https://images.unsplash.com/photo-1617118601021-4992c028fe5d?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Confezione regalo rossa con un nastro rosa",
+      "image_id": "EtVAsOcadU4",
+      "image_source": "https://unsplash.com/photos/red-gift-box-with-pink-ribbon-EtVAsOcadU4",
+      "image_credit": "eskay lim / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.modernretail.co/operations/exclusive-tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-us-shoppers/"
+      ],
+      "url": "https://marcododaro.it/tiktok-shop-plus-test-usa-riacquisto.html",
+      "date_published": "2026-11-11T08:16:53+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "TikTok Shop Plus test USA",
+          "intent": "Interpretare il pilota statunitense e preparare il percorso di riordino senza presumere un lancio italiano.",
+          "archive_count": 55,
+          "related_page": "app-tiktok-shop-catalogo-venditori.html",
+          "differentiation": "Pilota USA confermato da un portavoce a Modern Retail. Nessun lancio italiano verificato. Analisi propria sul riordino, distinta dai margini e dalla qualità delle schede."
+        },
+        "geekout_checked_at": "2026-11-11T08:16:57+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/tiktok-shop-plus-test-abbonamento-acquisti-usa/",
+        "discovery_date": "2026-11-11",
+        "event_date": "2026-11-09",
+        "evidence_summary": "Pilota USA confermato da un portavoce a Modern Retail. Nessun lancio italiano verificato. Analisi propria sul riordino, distinta dai margini e dalla qualità delle schede. EMARKETER pubblico consultato, senza dati tratti da ricerche a pagamento.",
+        "editorial_review": "Revisione di lessico e struttura secondo Humanizer, fonti verificate, esempi ipotetici espliciti.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low"
+        },
+        "cover": {
+          "remote": 45,
+          "local": 68,
+          "embedded": 0,
+          "sha256": "583c65884bacba85add9ec9832a9a41718d8a52973f587d1382309e072068a4a",
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1763038311036-6d18805537e5"
+            ],
+            [
+              16,
+              "nov11/assets/image-59.webp"
+            ],
+            [
+              16,
+              "nov11/assets/image-60.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1717503159960-bf398715c19e"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1760565030243-c92ed557e8da"
+            ]
+          ],
+          "visual_review": "Licenza verificata sulla pagina originale. Fotografia, ritaglio e candidati più simili esaminati."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
+          },
+          "search_console": "not_accessed"
+        }
+      }
+    },
+    {
+      "file": "soundon-la-postal-lancio-musicale-tiktok.html",
+      "slug": "soundon-la-postal-lancio-musicale-tiktok",
+      "title": "SoundOn e La Postal, come progettare un lancio musicale",
+      "seo_title": "SoundOn e La Postal, come progettare un lancio musicale | Marco Dodaro",
+      "desc": "Il caso La Postal di Daddy Yankee e SoundOn mostra come collegare distribuzione e partecipazione. Un metodo applicabile ai progetti indipendenti.",
+      "date": "2026-11-11",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "SoundOn lancio musicale TikTok",
+      "search_intent": "Progettare il percorso fra scoperta di un brano, partecipazione e ascolto completo.",
+      "image": "https://images.unsplash.com/photo-1778847195271-605a4d6a9bf7?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Artista con microfono sul palco sotto luci colorate",
+      "image_id": "EoYbJ7x7-WU",
+      "image_source": "https://unsplash.com/photos/man-on-stage-holding-microphone-under-colorful-spotlights-EoYbJ7x7-WU",
+      "image_credit": "Bemnet Mesfin / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://newsroom.tiktok.com/daddy-yankee-returns-with-new-album-la-postal-in-partnership-with-soundon?lang=en"
+      ],
+      "url": "https://marcododaro.it/soundon-la-postal-lancio-musicale-tiktok.html",
+      "date_published": "2026-11-11T08:16:54+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "SoundOn lancio musicale TikTok",
+          "intent": "Progettare il percorso fra scoperta di un brano, partecipazione e ascolto completo.",
+          "archive_count": 55,
+          "related_page": "come-scegliere-un-influencer-per-una-campagna.html",
+          "differentiation": "Annuncio del fornitore, senza inferenze sui risultati. Esempio indipendente e ipotetico. Nessuna promessa di accesso alle funzioni dedicate al grande artista."
+        },
+        "geekout_checked_at": "2026-11-11T08:16:57+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/la-postal-daddy-yankee-soundon-tiktok/",
+        "discovery_date": "2026-11-10",
+        "event_date": "2026-11-10",
+        "evidence_summary": "Annuncio del fornitore, senza inferenze sui risultati. Esempio indipendente e ipotetico. Nessuna promessa di accesso alle funzioni dedicate al grande artista. EMARKETER pubblico consultato, senza dati tratti da ricerche a pagamento.",
+        "editorial_review": "Revisione di lessico e struttura secondo Humanizer, fonti verificate, esempi ipotetici espliciti.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low"
+        },
+        "cover": {
+          "remote": 45,
+          "local": 68,
+          "embedded": 0,
+          "sha256": "a3919bb7397eda537c0ef421fa458a7c380e7c0987eeb87714de6148de8b9b1d",
+          "closest": [
+            [
+              14,
+              "nov11/assets/image-45.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1779684998897-ce5de594a5ac"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1717503159960-bf398715c19e"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1735197878057-53101cbcfa6b"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1759868937753-34859b641bc1"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1760359991731-2bcc31d0bde1"
+            ]
+          ],
+          "visual_review": "Licenza verificata sulla pagina originale. Fotografia, ritaglio e candidati più simili esaminati."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
+          },
+          "search_console": "not_accessed"
+        }
+      }
+    },
+    {
+      "file": "media-kit-youtube-risposta-brief-brand.html",
+      "slug": "media-kit-youtube-risposta-brief-brand",
+      "title": "Media kit YouTube, come rispondere al brief di un brand",
+      "seo_title": "Media kit YouTube, come rispondere al brief di un brand | Marco Dodaro",
+      "desc": "Come costruire una proposta YouTube con idea del video, dati pertinenti e condizioni leggibili, controllando anche le bozze preparate con l’AI.",
+      "date": "2026-11-11",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "media kit YouTube brand",
+      "search_intent": "Preparare una proposta di collaborazione riferita al brief, con evidenze reali e perimetro economico.",
+      "image": "https://images.unsplash.com/photo-1764162051475-992cc7346073?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Creator ripreso in uno studio con videocamera, microfono e tablet",
+      "image_id": "RNqDMIbzTxE",
+      "image_source": "https://unsplash.com/photos/man-filming-himself-with-a-camera-and-tablet-RNqDMIbzTxE",
+      "image_credit": "Detail .co / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://blog.youtube/news-and-events/made-on-youtube-creator-monetization-shopping/"
+      ],
+      "url": "https://marcododaro.it/media-kit-youtube-risposta-brief-brand.html",
+      "date_published": "2026-11-11T08:16:55+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "media kit YouTube brand",
+          "intent": "Preparare una proposta di collaborazione riferita al brief, con evidenze reali e perimetro economico.",
+          "archive_count": 55,
+          "related_page": "usage-rights-nei-contratti-con-i-creator.html",
+          "differentiation": "Guida operativa su annuncio storico verificato. Ask Studio e altre funzioni sono descritte come annunciate, con verifica nell’account. Nessuna disponibilità italiana presunta."
+        },
+        "geekout_checked_at": "2026-11-11T08:16:57+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "discovery_source": "YouTube Blog",
+        "discovery_url": "https://blog.youtube/news-and-events/made-on-youtube-creator-monetization-shopping/",
+        "discovery_date": null,
+        "event_date": "2026-09-23",
+        "evidence_summary": "Guida operativa su annuncio storico verificato. Ask Studio e altre funzioni sono descritte come annunciate, con verifica nell’account. Nessuna disponibilità italiana presunta. EMARKETER pubblico consultato, senza dati tratti da ricerche a pagamento.",
+        "editorial_review": "Revisione di lessico e struttura secondo Humanizer, fonti verificate, esempi ipotetici espliciti.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low"
+        },
+        "cover": {
+          "remote": 45,
+          "local": 68,
+          "embedded": 0,
+          "sha256": "3d8cdafa9d1b2bfb8fe801c6442ff639e6df69225c0df9681fe4fe50e0897866",
+          "closest": [
+            [
+              16,
+              "nov11/assets/image-18.webp"
+            ],
+            [
+              16,
+              "nov11/blog-img-article-05.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1741389064022-6d470321710e"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1758876019550-7aa3910b93bc"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1764581659095-ad0447049ce0"
+            ]
+          ],
+          "visual_review": "Licenza verificata sulla pagina originale. Fotografia, ritaglio e candidati più simili esaminati."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
+          },
+          "search_console": "not_accessed"
+        }
+      }
+    },
+    {
+      "file": "google-ai-educator-series-scegliere-modulo.html",
+      "slug": "google-ai-educator-series-scegliere-modulo",
+      "title": "Google AI Educator Series, come scegliere un modulo",
+      "seo_title": "Google AI Educator Series, come scegliere un modulo | Marco Dodaro",
+      "desc": "Come scegliere una risorsa della Google AI Educator Series e applicarla a un esercizio, verificando feedback, calcoli e funzionamento sul dispositivo.",
+      "date": "2026-11-11",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "Google AI Educator Series docenti",
+      "search_intent": "Selezionare un modulo di formazione AI per docenti e trasferirlo nella revisione di un materiale didattico.",
+      "image": "https://images.unsplash.com/photo-1755718669986-6a64e677420c?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Due relatori davanti a un pubblico in un’aula",
+      "image_id": "uIJJQMXda9Q",
+      "image_source": "https://unsplash.com/photos/two-men-presenting-to-an-audience-in-a-classroom-uIJJQMXda9Q",
+      "image_credit": "Frederick Shaw / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+        "https://ai.google/literacy/"
+      ],
+      "url": "https://marcododaro.it/google-ai-educator-series-scegliere-modulo.html",
+      "date_published": "2026-11-11T08:16:56+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Google AI Educator Series docenti",
+          "intent": "Selezionare un modulo di formazione AI per docenti e trasferirlo nella revisione di un materiale didattico.",
+          "archive_count": 55,
+          "related_page": "digcomp-3-prove-competenze-digitali.html",
+          "differentiation": "Novità dei moduli USA dal 4 novembre, accesso e lingua per enti italiani da verificare. Esempio ipotetico di revisione del feedback, distinto dai precedenti studi didattici e dai laboratori per ruoli."
+        },
+        "geekout_checked_at": "2026-11-11T08:16:57+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "discovery_source": "Google Blog",
+        "discovery_url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+        "discovery_date": null,
+        "event_date": "2026-11-03",
+        "evidence_summary": "Novità dei moduli USA dal 4 novembre, accesso e lingua per enti italiani da verificare. Esempio ipotetico di revisione del feedback, distinto dai precedenti studi didattici e dai laboratori per ruoli. EMARKETER pubblico consultato, senza dati tratti da ricerche a pagamento.",
+        "editorial_review": "Revisione di lessico e struttura secondo Humanizer, fonti verificate, esempi ipotetici espliciti.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low"
+        },
+        "cover": {
+          "remote": 45,
+          "local": 68,
+          "embedded": 0,
+          "sha256": "2f32c186441ded733a2baff0cd5071fc6b06e312b6be16d975a3167b03dd8a33",
+          "closest": [
+            [
+              14,
+              "nov11/assets/image-58.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1741389064022-6d470321710e"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1764664035133-0d2ca12016dd"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1764664035176-8e92ff4f128e"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1650421218675-d49994981462"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1714386819907-ce134e3bb0ff"
+            ]
+          ],
+          "visual_review": "Licenza verificata sulla pagina originale. Fotografia, ritaglio e candidati più simili esaminati."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
+          },
+          "search_console": "not_accessed"
+        }
+      }
+    },
+    {
+      "file": "spotify-memberships-podcast-abbonamento.html",
+      "slug": "spotify-memberships-podcast-abbonamento",
+      "title": "Spotify Memberships, progettare un podcast in abbonamento",
+      "seo_title": "Spotify Memberships, progettare un podcast in abbonamento | Marco Dodaro",
+      "desc": "Come definire contenuti e frequenza di una Membership Spotify, stimare il lavoro aggiuntivo e valutare adesioni e rinnovi con dati reali.",
+      "date": "2026-11-11",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "Spotify Memberships podcast abbonamento",
+      "search_intent": "Valutare una promessa editoriale e il carico produttivo di un abbonamento podcast.",
+      "image": "https://images.unsplash.com/photo-1741745978060-9add161ba2c2?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Cuffie su una tastiera musicale illuminate da luce viola",
+      "image_id": "wUcXPyX56Ug",
+      "image_source": "https://unsplash.com/photos/headphones-rest-on-a-music-production-keyboard-wUcXPyX56Ug",
+      "image_credit": "Dima Zimakov / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://newsroom.spotify.com/2026-10-20/spotify-memberships-creators/"
+      ],
+      "url": "https://marcododaro.it/spotify-memberships-podcast-abbonamento.html",
+      "date_published": "2026-11-11T08:16:57+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Spotify Memberships podcast abbonamento",
+          "intent": "Valutare una promessa editoriale e il carico produttivo di un abbonamento podcast.",
+          "archive_count": 55,
+          "related_page": "dal-creator-allimprenditore-come-costruire-un-business-sostenibile.html",
+          "differentiation": "Mercati del rollout iniziale includono l’Italia, accesso subordinato a idoneità. Guida su contenuti e capacità produttiva, distinta dalla panoramica sui ricavi dei creator."
+        },
+        "geekout_checked_at": "2026-11-11T08:16:57+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "discovery_source": "Spotify Newsroom",
+        "discovery_url": "https://newsroom.spotify.com/2026-10-20/spotify-memberships-creators/",
+        "discovery_date": null,
+        "event_date": "2026-10-20",
+        "evidence_summary": "Mercati del rollout iniziale includono l’Italia, accesso subordinato a idoneità. Guida su contenuti e capacità produttiva, distinta dalla panoramica sui ricavi dei creator. EMARKETER pubblico consultato, senza dati tratti da ricerche a pagamento.",
+        "editorial_review": "Revisione di lessico e struttura secondo Humanizer, fonti verificate, esempi ipotetici espliciti.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low"
+        },
+        "cover": {
+          "remote": 45,
+          "local": 68,
+          "embedded": 0,
+          "sha256": "d8166a3bbadf29a9e256a834f2e6210dd3783c305c44261f1c9f925ceade5107",
+          "closest": [
+            [
+              16,
+              "nov11/assets/image-48.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1637317759414-4fc43302c454"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1643917567366-5afb8cf4bac9"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1758873271772-6bbc792c1514"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1759868937753-34859b641bc1"
+            ]
+          ],
+          "visual_review": "Licenza verificata sulla pagina originale. Fotografia, ritaglio e candidati più simili esaminati."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": "pending",
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
+          },
+          "search_console": "not_accessed"
+        }
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -435,6 +435,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "995d9d1ef2d7080e1b0d00091f250d2d27b10bccb03a8268a329a944655ae117"
+    },
+    {
+      "article": "tiktok-shop-plus-test-usa-riacquisto.html",
+      "image": "https://images.unsplash.com/photo-1617118601021-4992c028fe5d?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/red-gift-box-with-pink-ribbon-EtVAsOcadU4",
+      "unsplash_id": "EtVAsOcadU4",
+      "photographer": "eskay lim",
+      "alt": "Confezione regalo rossa con un nastro rosa",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "583c65884bacba85add9ec9832a9a41718d8a52973f587d1382309e072068a4a"
+    },
+    {
+      "article": "soundon-la-postal-lancio-musicale-tiktok.html",
+      "image": "https://images.unsplash.com/photo-1778847195271-605a4d6a9bf7?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/man-on-stage-holding-microphone-under-colorful-spotlights-EoYbJ7x7-WU",
+      "unsplash_id": "EoYbJ7x7-WU",
+      "photographer": "Bemnet Mesfin",
+      "alt": "Artista con microfono sul palco sotto luci colorate",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "a3919bb7397eda537c0ef421fa458a7c380e7c0987eeb87714de6148de8b9b1d"
+    },
+    {
+      "article": "media-kit-youtube-risposta-brief-brand.html",
+      "image": "https://images.unsplash.com/photo-1764162051475-992cc7346073?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/man-filming-himself-with-a-camera-and-tablet-RNqDMIbzTxE",
+      "unsplash_id": "RNqDMIbzTxE",
+      "photographer": "Detail .co",
+      "alt": "Creator ripreso in uno studio con videocamera, microfono e tablet",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "3d8cdafa9d1b2bfb8fe801c6442ff639e6df69225c0df9681fe4fe50e0897866"
+    },
+    {
+      "article": "google-ai-educator-series-scegliere-modulo.html",
+      "image": "https://images.unsplash.com/photo-1755718669986-6a64e677420c?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/two-men-presenting-to-an-audience-in-a-classroom-uIJJQMXda9Q",
+      "unsplash_id": "uIJJQMXda9Q",
+      "photographer": "Frederick Shaw",
+      "alt": "Due relatori davanti a un pubblico in un’aula",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "2f32c186441ded733a2baff0cd5071fc6b06e312b6be16d975a3167b03dd8a33"
+    },
+    {
+      "article": "spotify-memberships-podcast-abbonamento.html",
+      "image": "https://images.unsplash.com/photo-1741745978060-9add161ba2c2?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/headphones-rest-on-a-music-production-keyboard-wUcXPyX56Ug",
+      "unsplash_id": "wUcXPyX56Ug",
+      "photographer": "Dima Zimakov",
+      "alt": "Cuffie su una tastiera musicale illuminate da luce viola",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "d8166a3bbadf29a9e256a834f2e6210dd3783c305c44261f1c9f925ceade5107"
     }
   ]
 }
