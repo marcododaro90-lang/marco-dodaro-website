@@ -1776,7 +1776,7 @@
       ],
       "url": "https://marcododaro.it/tiktok-shop-plus-test-usa-riacquisto.html",
       "date_published": "2026-11-11T08:16:53+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "TikTok Shop Plus test USA",
@@ -1836,7 +1836,13 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-11T07:19:44.746610+00:00",
+            "article_sha256": "7beac44bd2bbf3ee8f3645727e63742e38833adc146572be9cb67b1ce00a8624",
+            "exact_file_and_image_comparison": "pass"
+          },
           "viewports": {
             "status": "not_checked",
             "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
@@ -1867,7 +1873,7 @@
       ],
       "url": "https://marcododaro.it/soundon-la-postal-lancio-musicale-tiktok.html",
       "date_published": "2026-11-11T08:16:54+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "SoundOn lancio musicale TikTok",
@@ -1927,7 +1933,13 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-11T07:19:44.762394+00:00",
+            "article_sha256": "efd5ec24294e06d055b31137ec4a77d9e68a52afec9ffb971d943333bd1ac266",
+            "exact_file_and_image_comparison": "pass"
+          },
           "viewports": {
             "status": "not_checked",
             "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
@@ -1958,7 +1970,7 @@
       ],
       "url": "https://marcododaro.it/media-kit-youtube-risposta-brief-brand.html",
       "date_published": "2026-11-11T08:16:55+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "media kit YouTube brand",
@@ -2018,7 +2030,13 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-11T07:19:44.794098+00:00",
+            "article_sha256": "c42442ab09884e6ef2ff2b1cd61ed90b0b2ccf23565c5c2b593d613fc008eba8",
+            "exact_file_and_image_comparison": "pass"
+          },
           "viewports": {
             "status": "not_checked",
             "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
@@ -2050,7 +2068,7 @@
       ],
       "url": "https://marcododaro.it/google-ai-educator-series-scegliere-modulo.html",
       "date_published": "2026-11-11T08:16:56+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Google AI Educator Series docenti",
@@ -2110,7 +2128,13 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-11T07:19:44.682223+00:00",
+            "article_sha256": "9523f29332dbd002d120bc5dfb458352b110507c7db3d8a4d58a929f3d074ffc",
+            "exact_file_and_image_comparison": "pass"
+          },
           "viewports": {
             "status": "not_checked",
             "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
@@ -2141,7 +2165,7 @@
       ],
       "url": "https://marcododaro.it/spotify-memberships-podcast-abbonamento.html",
       "date_published": "2026-11-11T08:16:57+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Spotify Memberships podcast abbonamento",
@@ -2201,7 +2225,13 @@
             "status": "pass",
             "checks": 44
           },
-          "live": "pending",
+          "live": {
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-11T07:19:44.746236+00:00",
+            "article_sha256": "0e75dc2990200bf1e64c5a48a91cc232d910104f81d0e18d4b6ffaf058740943",
+            "exact_file_and_image_comparison": "pass"
+          },
           "viewports": {
             "status": "not_checked",
             "reason": "Il processo locale Chromium non si avvia nell’ambiente disponibile."
