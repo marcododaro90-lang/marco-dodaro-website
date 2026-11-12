@@ -2262,7 +2262,7 @@
       ],
       "url": "https://marcododaro.it/reddit-reviews-obiezioni-scheda-prodotto.html",
       "date_published": "2026-11-12T08:21:09+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Reddit Reviews scheda prodotto",
@@ -2331,7 +2331,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-12T07:27:12.669155+00:00",
+            "article_sha256": "f1d7cb7a831d34a5ac7524036da91c03b4175ff93ac5ed1cbf76d822224b98a3",
+            "exact_file_and_image_comparison": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43175176363",
+            "deployment_result": "success",
+            "single_latest_feature_and_previous_once_in_grid": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -2369,7 +2376,7 @@
       ],
       "url": "https://marcododaro.it/tiktok-symphony-riferimenti-video-ai.html",
       "date_published": "2026-11-12T08:21:10+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "TikTok Symphony riferimenti video AI",
@@ -2438,7 +2445,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-12T07:27:12.699302+00:00",
+            "article_sha256": "787d0e80fa4d43f32a3e209fe95a5b964fa6ca71484494fee257e12259d888dd",
+            "exact_file_and_image_comparison": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43175176363",
+            "deployment_result": "success",
+            "single_latest_feature_and_previous_once_in_grid": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -2476,7 +2490,7 @@
       ],
       "url": "https://marcododaro.it/ricerca-threads-filtri-domande-clienti.html",
       "date_published": "2026-11-12T08:21:11+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "ricerca Threads filtri",
@@ -2545,7 +2559,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-12T07:27:12.664279+00:00",
+            "article_sha256": "e43ce309303ca5a94bba4fd371c7d918069fd1431556b3ed4e6161695bdb0a64",
+            "exact_file_and_image_comparison": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43175176363",
+            "deployment_result": "success",
+            "single_latest_feature_and_previous_once_in_grid": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -2583,7 +2604,7 @@
       ],
       "url": "https://marcododaro.it/contenuti-b2b-scelta-fornitore.html",
       "date_published": "2026-11-12T08:21:12+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "contenuti B2B scelta fornitore",
@@ -2652,7 +2673,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-12T07:27:12.687814+00:00",
+            "article_sha256": "9a33f3e250624cfc2ae9b086274ff0db930a5308810c63c0934628b5b7d7c5db",
+            "exact_file_and_image_comparison": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43175176363",
+            "deployment_result": "success",
+            "single_latest_feature_and_previous_once_in_grid": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -2691,7 +2719,7 @@
       ],
       "url": "https://marcododaro.it/frontier-deployed-engineer-competenze-ai-azienda.html",
       "date_published": "2026-11-12T08:21:13+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Frontier Deployed Engineer competenze",
@@ -2760,7 +2788,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-12T07:27:12.721460+00:00",
+            "article_sha256": "c47ce294c96448b1df9a189122d83661c3a3601d28fa9e6e1efb67bbd341bcc0",
+            "exact_file_and_image_comparison": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43175176363",
+            "deployment_result": "success",
+            "single_latest_feature_and_previous_once_in_grid": "pass"
           },
           "viewports": {
             "status": "not_checked",
