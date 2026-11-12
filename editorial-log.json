@@ -2239,6 +2239,542 @@
           "search_console": "not_accessed"
         }
       }
+    },
+    {
+      "file": "reddit-reviews-obiezioni-scheda-prodotto.html",
+      "slug": "reddit-reviews-obiezioni-scheda-prodotto",
+      "title": "Reddit Reviews, leggere le obiezioni prima di vendere",
+      "seo_title": "Reddit Reviews, leggere le obiezioni prima di vendere | Marco Dodaro",
+      "desc": "Come usare le conversazioni sui prodotti per distinguere limiti e dubbi, correggere le schede e preparare brief creator coerenti.",
+      "date": "2026-11-12",
+      "category": "Social commerce",
+      "minutes": 4,
+      "keyword": "Reddit Reviews scheda prodotto",
+      "search_intent": "Leggere obiezioni di prodotto e tradurle in informazioni preacquisto verificate.",
+      "image": "https://images.unsplash.com/photo-1505751104546-4b63c93054b1?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Cuffie wireless nere fotografate su uno sfondo giallo",
+      "image_id": "oBI4NBP2Lhg",
+      "image_source": "https://unsplash.com/photos/wireless-headphones-with-yellow-background-oBI4NBP2Lhg",
+      "image_credit": "C D-X / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://redditinc.com/news/introducing-reddit-reviews"
+      ],
+      "url": "https://marcododaro.it/reddit-reviews-obiezioni-scheda-prodotto.html",
+      "date_published": "2026-11-12T08:21:09+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Reddit Reviews scheda prodotto",
+          "intent": "Leggere obiezioni di prodotto e tradurle in informazioni preacquisto verificate.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 60,
+          "related_page": "reddit-ads-ricerca-intento-acquisto.html",
+          "differentiation": "Nuovo evento Reddit Reviews del 10 novembre, distinto dal test pubblicitario del 3 novembre già trattato. Intento sul controllo delle informazioni di prodotto, non sul piano media. Rollout USA, oltre USA pianificato nel 2027."
+        },
+        "geekout_checked_at": "2026-11-12T08:21:13+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, nessuna edizione più recente del 6 novembre. Scelto evento inedito o guida documentata distinta.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/reddit-reviews-ricerca-prodotti-conversazioni/",
+        "discovery_date": "2026-11-10",
+        "event_date": "2026-11-10",
+        "evidence_summary": "Nuovo evento Reddit Reviews del 10 novembre, distinto dal test pubblicitario del 3 novembre già trattato. Intento sul controllo delle informazioni di prodotto, non sul piano media. Rollout USA, oltre USA pianificato nel 2027.",
+        "access_limits": "Consultate pagine pubbliche. EMARKETER Advertising & Marketing aperto senza utilizzo di ricerche complete o numeri da paywall. Nessun abbonamento attivato.",
+        "editorial_review": "Revisione di lessico e struttura con due passaggi. Esempi originali ipotetici, nessuna esperienza attribuita a Marco. Titoli, H2, body, fonti ed evento confrontati con 60 articoli e tra le cinque nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 50,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "3a87c63f7cddc3bafdc479cee5ad7c1134217b8cf733dabdaad8d6780ff73f68",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1714386819907-ce134e3bb0ff"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1717503159960-bf398715c19e"
+            ],
+            [
+              16,
+              "nov12/assets/image-42.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1650421218675-d49994981462"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1725030971425-e6ca11cfb0c9"
+            ]
+          ],
+          "visual_review": "Pagina foto con Unsplash License gratuita, fotografia e ritaglio esaminati, candidati percettivamente più simili confrontati visivamente. ID e URL normalizzati distinti, confronto hash e pHash multi-ritaglio su 50 immagini remote e 68 locali, nessuna incorporata. Tutte le cinque fotografie distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna verifica visiva dei viewport dichiarata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-12-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "tiktok-symphony-riferimenti-video-ai.html",
+      "slug": "tiktok-symphony-riferimenti-video-ai",
+      "title": "TikTok Symphony, preparare i riferimenti per un video AI",
+      "seo_title": "TikTok Symphony, preparare i riferimenti per un video AI | Marco Dodaro",
+      "desc": "Come organizzare immagini, video e audio per un brief TikTok Symphony, controllare il prodotto e valutare il lavoro fino alla creatività approvata.",
+      "date": "2026-11-12",
+      "category": "Intelligenza artificiale",
+      "minutes": 4,
+      "keyword": "TikTok Symphony riferimenti video AI",
+      "search_intent": "Preparare e validare input multimodali per una produzione video pubblicitaria.",
+      "image": "https://images.unsplash.com/photo-1653287805975-065859cd3d63?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Fotocamera gialla e rosa con obiettivo azzurro su uno sfondo turchese",
+      "image_id": "P_ufhuU5_nY",
+      "image_source": "https://unsplash.com/photos/a-camera-with-a-lens-attached-to-it-P_ufhuU5_nY",
+      "image_credit": "Alex Gruber / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://ads.tiktok.com/business/en/blog/tiktok-symphony-ai-creative-suite?redirected=1"
+      ],
+      "url": "https://marcododaro.it/tiktok-symphony-riferimenti-video-ai.html",
+      "date_published": "2026-11-12T08:21:10+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "TikTok Symphony riferimenti video AI",
+          "intent": "Preparare e validare input multimodali per una produzione video pubblicitaria.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 60,
+          "related_page": "images-2-6-ai-foto-prodotto.html",
+          "differentiation": "Aggiornamento Symphony 8 novembre con Seedance 2.5, limiti 50 riferimenti e 30 secondi, accesso token dal 9 novembre. Intento preparazione input video, distinto da ritocco statico Images 2.6 e filtri Stories Effect Builder."
+        },
+        "geekout_checked_at": "2026-11-12T08:21:13+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, nessuna edizione più recente del 6 novembre. Scelto evento inedito o guida documentata distinta.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/tiktok-symphony-video-ai-30-secondi-riferimenti-api/",
+        "discovery_date": "2026-11-10",
+        "event_date": "2026-11-08",
+        "evidence_summary": "Aggiornamento Symphony 8 novembre con Seedance 2.5, limiti 50 riferimenti e 30 secondi, accesso token dal 9 novembre. Intento preparazione input video, distinto da ritocco statico Images 2.6 e filtri Stories Effect Builder.",
+        "access_limits": "Consultate pagine pubbliche. EMARKETER Advertising & Marketing aperto senza utilizzo di ricerche complete o numeri da paywall. Nessun abbonamento attivato.",
+        "editorial_review": "Revisione di lessico e struttura con due passaggi. Esempi originali ipotetici, nessuna esperienza attribuita a Marco. Titoli, H2, body, fonti ed evento confrontati con 60 articoli e tra le cinque nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.1225,
+          "score_after": 0.1225
+        },
+        "cover": {
+          "remote": 50,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "ead7983a49bc8917d2b9736afd45cefc73260f34a50ca8cd2041611db34a777c",
+          "width": 1600,
+          "height": 2286,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1643917567366-5afb8cf4bac9"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1758873271772-6bbc792c1514"
+            ],
+            [
+              16,
+              "nov12/assets/image-55.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1650421218675-d49994981462"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1759002258761-7493050e53c9"
+            ]
+          ],
+          "visual_review": "Pagina foto con Unsplash License gratuita, fotografia e ritaglio esaminati, candidati percettivamente più simili confrontati visivamente. ID e URL normalizzati distinti, confronto hash e pHash multi-ritaglio su 50 immagini remote e 68 locali, nessuna incorporata. Tutte le cinque fotografie distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna verifica visiva dei viewport dichiarata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-12-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "ricerca-threads-filtri-domande-clienti.html",
+      "slug": "ricerca-threads-filtri-domande-clienti",
+      "title": "Ricerca su Threads, dai filtri alle domande dei clienti",
+      "seo_title": "Ricerca su Threads, dai filtri alle domande dei clienti | Marco Dodaro",
+      "desc": "Un metodo per cercare conversazioni su Threads, conservarne il contesto e trasformare domande pertinenti in contenuti ed esercitazioni.",
+      "date": "2026-11-12",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "ricerca Threads filtri",
+      "search_intent": "Costruire una raccolta manuale pertinente di conversazioni per progettare contenuti e formazione.",
+      "image": "https://images.unsplash.com/photo-1732437334226-e96e72272bc4?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Post-it azzurri e rosa disposti su una lavagna di lavoro",
+      "image_id": "LMsSNDJ9Hvc",
+      "image_source": "https://unsplash.com/photos/a-wall-with-sticky-notes-attached-to-it-LMsSNDJ9Hvc",
+      "image_credit": "Jakub Żerdzicki / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.socialmediatoday.com/news/threads-adds-advanced-search-filters/874339/"
+      ],
+      "url": "https://marcododaro.it/ricerca-threads-filtri-domande-clienti.html",
+      "date_published": "2026-11-12T08:21:11+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "ricerca Threads filtri",
+          "intent": "Costruire una raccolta manuale pertinente di conversazioni per progettare contenuti e formazione.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 60,
+          "related_page": "come-creare-un-piano-editoriale-basato-sui-dati.html",
+          "differentiation": "Primo articolo dedicato a Threads. Filtri attribuiti al resoconto SMT e relativa schermata; post originale https://www.threads.com/@threads/post/DfkgGO8Jedq non accessibile (429 e errore fetch). Nessuna disponibilità italiana generalizzata presunta. Metodo originale di raccolta manuale, non misura di mercato."
+        },
+        "geekout_checked_at": "2026-11-12T08:21:13+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, nessuna edizione più recente del 6 novembre. Scelto evento inedito o guida documentata distinta.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/threads-adds-advanced-search-filters/874339/",
+        "discovery_date": "2026-11-10",
+        "event_date": "2026-11-10",
+        "evidence_summary": "Primo articolo dedicato a Threads. Filtri attribuiti al resoconto SMT e relativa schermata; post originale https://www.threads.com/@threads/post/DfkgGO8Jedq non accessibile (429 e errore fetch). Nessuna disponibilità italiana generalizzata presunta. Metodo originale di raccolta manuale, non misura di mercato.",
+        "access_limits": "Consultate pagine pubbliche. EMARKETER Advertising & Marketing aperto senza utilizzo di ricerche complete o numeri da paywall. Nessun abbonamento attivato.",
+        "editorial_review": "Revisione di lessico e struttura con due passaggi. Esempi originali ipotetici, nessuna esperienza attribuita a Marco. Titoli, H2, body, fonti ed evento confrontati con 60 articoli e tra le cinque nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 50,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "26d202ace7044b2710b77fc581664b673572adf83cf6818652b1f3c0e46a2f6c",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "nov12/assets/image-50.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1758328537049-aae2d077f1dd"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1760359991731-2bcc31d0bde1"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1778847195271-605a4d6a9bf7"
+            ],
+            [
+              18,
+              "nov12/blog-img-article-10.webp"
+            ]
+          ],
+          "visual_review": "Pagina foto con Unsplash License gratuita, fotografia e ritaglio esaminati, candidati percettivamente più simili confrontati visivamente. ID e URL normalizzati distinti, confronto hash e pHash multi-ritaglio su 50 immagini remote e 68 locali, nessuna incorporata. Tutte le cinque fotografie distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna verifica visiva dei viewport dichiarata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-12-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "contenuti-b2b-scelta-fornitore.html",
+      "slug": "contenuti-b2b-scelta-fornitore",
+      "title": "Contenuti B2B per la scelta del fornitore, cosa includere",
+      "seo_title": "Contenuti B2B per la scelta del fornitore, cosa includere | Marco Dodaro",
+      "desc": "Come scrivere contenuti B2B con prove, condizioni e limiti utili al gruppo d’acquisto, distinguendo qualità editoriale e distribuzione.",
+      "date": "2026-11-12",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "contenuti B2B scelta fornitore",
+      "search_intent": "Progettare una pagina che sostenga la valutazione e discussione interna di un servizio B2B.",
+      "image": "https://images.unsplash.com/photo-1779896411954-9129882c996d?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Due colleghi che lavorano insieme a un laptop in un ufficio luminoso",
+      "image_id": "q-PLVUhxzbo",
+      "image_source": "https://unsplash.com/photos/two-colleagues-collaborating-on-a-laptop-in-a-modern-office-q-PLVUhxzbo",
+      "image_credit": "Sandisk / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.edelman.com/expertise/Business-Marketing/2026-b2b-thought-leadership-report"
+      ],
+      "url": "https://marcododaro.it/contenuti-b2b-scelta-fornitore.html",
+      "date_published": "2026-11-12T08:21:12+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "contenuti B2B scelta fornitore",
+          "intent": "Progettare una pagina che sostenga la valutazione e discussione interna di un servizio B2B.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 60,
+          "related_page": "linkedin-thought-leader-ads-campagne-creator-b2b.html",
+          "differentiation": "Nuovo rapporto Edelman-LinkedIn 2026. Solo pagina pubblica, campione oltre 1100 manager, nessuna percentuale di efficacia estrapolata e nessuna misura Italia. Intento valutazione contenuto prima della promozione, distinto da algoritmo LinkedIn e Thought Leader Ads."
+        },
+        "geekout_checked_at": "2026-11-12T08:21:13+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, nessuna edizione più recente del 6 novembre. Scelto evento inedito o guida documentata distinta.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/thought-leadership-remains-highly-valuable-for-b2b-buyers/874464/",
+        "discovery_date": "2026-11-11",
+        "event_date": "2026-11-11",
+        "evidence_summary": "Nuovo rapporto Edelman-LinkedIn 2026. Solo pagina pubblica, campione oltre 1100 manager, nessuna percentuale di efficacia estrapolata e nessuna misura Italia. Intento valutazione contenuto prima della promozione, distinto da algoritmo LinkedIn e Thought Leader Ads.",
+        "access_limits": "Consultate pagine pubbliche. EMARKETER Advertising & Marketing aperto senza utilizzo di ricerche complete o numeri da paywall. Nessun abbonamento attivato.",
+        "editorial_review": "Revisione di lessico e struttura con due passaggi. Esempi originali ipotetici, nessuna esperienza attribuita a Marco. Titoli, H2, body, fonti ed evento confrontati con 60 articoli e tra le cinque nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.1225,
+          "score_after": 0.1225
+        },
+        "cover": {
+          "remote": 50,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "9ecf8fab7847901139de86b454a6596b6ab3a7526304fbefd96124a8a7648013",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "nov12/assets/image-55.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1576072446584-4955dfe17b86"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1758691736934-e5d6d0c7f875"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1764581659095-ad0447049ce0"
+            ],
+            [
+              20,
+              "https://images.unsplash.com/photo-1617118601021-4992c028fe5d"
+            ],
+            [
+              20,
+              "https://images.unsplash.com/photo-1643917567366-5afb8cf4bac9"
+            ]
+          ],
+          "visual_review": "Pagina foto con Unsplash License gratuita, fotografia e ritaglio esaminati, candidati percettivamente più simili confrontati visivamente. ID e URL normalizzati distinti, confronto hash e pHash multi-ritaglio su 50 immagini remote e 68 locali, nessuna incorporata. Tutte le cinque fotografie distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna verifica visiva dei viewport dichiarata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-12-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "frontier-deployed-engineer-competenze-ai-azienda.html",
+      "slug": "frontier-deployed-engineer-competenze-ai-azienda",
+      "title": "Frontier Deployed Engineer, competenze per portare l’AI in azienda",
+      "seo_title": "Frontier Deployed Engineer, competenze per portare l’AI in azienda | Marco Dodaro",
+      "desc": "Cosa descrive il percorso Frontier Academy di Anthropic e quali competenze servono fra prototipo AI, verifica e consegna al team aziendale.",
+      "date": "2026-11-12",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "Frontier Deployed Engineer competenze",
+      "search_intent": "Distinguere qualifica Anthropic, formazione introduttiva e responsabilità di implementazione AI.",
+      "image": "https://images.unsplash.com/photo-1777107508771-c6b8a116859b?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Persona con cuffie davanti a un laptop e a monitor illuminati da colori vivaci",
+      "image_id": "eCV5GzmbMAE",
+      "image_source": "https://unsplash.com/photos/person-wearing-headphones-using-a-laptop-with-colorful-lights-eCV5GzmbMAE",
+      "image_credit": "Mazin Omron / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.anthropic.com/news/claude-frontier-academy",
+        "https://claude.com/programs/frontier-academy"
+      ],
+      "url": "https://marcododaro.it/frontier-deployed-engineer-competenze-ai-azienda.html",
+      "date_published": "2026-11-12T08:21:13+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Frontier Deployed Engineer competenze",
+          "intent": "Distinguere qualifica Anthropic, formazione introduttiva e responsabilità di implementazione AI.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 60,
+          "related_page": "ai-literacy-in-azienda-cosa-devono-fare-concretamente-le-imprese.html",
+          "differentiation": "Guida sul ruolo tecnico e distinzione badge Frontier/ruolo forward deployed. Annuncio del 2 ottobre e pagina programma corrente, non nuova uscita del giorno. Distinto da corsi introduttivi, AI literacy e laboratorio per reparti. Obiettivi 2027 qualificati come futuri; ingresso su nomina, non aperto a tutti."
+        },
+        "geekout_checked_at": "2026-11-12T08:21:13+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, nessuna edizione più recente del 6 novembre. Scelto evento inedito o guida documentata distinta.",
+        "discovery_source": "Anthropic Newsroom",
+        "discovery_url": "https://www.anthropic.com/news/claude-frontier-academy",
+        "discovery_date": null,
+        "event_date": "2026-10-02",
+        "evidence_summary": "Guida sul ruolo tecnico e distinzione badge Frontier/ruolo forward deployed. Annuncio del 2 ottobre e pagina programma corrente, non nuova uscita del giorno. Distinto da corsi introduttivi, AI literacy e laboratorio per reparti. Obiettivi 2027 qualificati come futuri; ingresso su nomina, non aperto a tutti.",
+        "access_limits": "Consultate pagine pubbliche. EMARKETER Advertising & Marketing aperto senza utilizzo di ricerche complete o numeri da paywall. Nessun abbonamento attivato.",
+        "editorial_review": "Revisione di lessico e struttura con due passaggi. Esempi originali ipotetici, nessuna esperienza attribuita a Marco. Titoli, H2, body, fonti ed evento confrontati con 60 articoli e tra le cinque nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 50,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "e2300e54892ce95cde1cdb6c95022ae0db2de11ff2df096568f8f62c842adbe1",
+          "width": 1600,
+          "height": 1200,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1637317759414-4fc43302c454"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1764162051475-992cc7346073"
+            ],
+            [
+              16,
+              "nov12/assets/image-54.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1643917567366-5afb8cf4bac9"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1735197878057-53101cbcfa6b"
+            ]
+          ],
+          "visual_review": "Pagina foto con Unsplash License gratuita, fotografia e ritaglio esaminati, candidati percettivamente più simili confrontati visivamente. ID e URL normalizzati distinti, confronto hash e pHash multi-ritaglio su 50 immagini remote e 68 locali, nessuna incorporata. Tutte le cinque fotografie distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna verifica visiva dei viewport dichiarata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-12-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -490,6 +490,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "d8166a3bbadf29a9e256a834f2e6210dd3783c305c44261f1c9f925ceade5107"
+    },
+    {
+      "article": "reddit-reviews-obiezioni-scheda-prodotto.html",
+      "image": "https://images.unsplash.com/photo-1505751104546-4b63c93054b1?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/wireless-headphones-with-yellow-background-oBI4NBP2Lhg",
+      "unsplash_id": "oBI4NBP2Lhg",
+      "photographer": "C D-X",
+      "alt": "Cuffie wireless nere fotografate su uno sfondo giallo",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "3a87c63f7cddc3bafdc479cee5ad7c1134217b8cf733dabdaad8d6780ff73f68"
+    },
+    {
+      "article": "tiktok-symphony-riferimenti-video-ai.html",
+      "image": "https://images.unsplash.com/photo-1653287805975-065859cd3d63?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-camera-with-a-lens-attached-to-it-P_ufhuU5_nY",
+      "unsplash_id": "P_ufhuU5_nY",
+      "photographer": "Alex Gruber",
+      "alt": "Fotocamera gialla e rosa con obiettivo azzurro su uno sfondo turchese",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "ead7983a49bc8917d2b9736afd45cefc73260f34a50ca8cd2041611db34a777c"
+    },
+    {
+      "article": "ricerca-threads-filtri-domande-clienti.html",
+      "image": "https://images.unsplash.com/photo-1732437334226-e96e72272bc4?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-wall-with-sticky-notes-attached-to-it-LMsSNDJ9Hvc",
+      "unsplash_id": "LMsSNDJ9Hvc",
+      "photographer": "Jakub Żerdzicki",
+      "alt": "Post-it azzurri e rosa disposti su una lavagna di lavoro",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "26d202ace7044b2710b77fc581664b673572adf83cf6818652b1f3c0e46a2f6c"
+    },
+    {
+      "article": "contenuti-b2b-scelta-fornitore.html",
+      "image": "https://images.unsplash.com/photo-1779896411954-9129882c996d?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/two-colleagues-collaborating-on-a-laptop-in-a-modern-office-q-PLVUhxzbo",
+      "unsplash_id": "q-PLVUhxzbo",
+      "photographer": "Sandisk",
+      "alt": "Due colleghi che lavorano insieme a un laptop in un ufficio luminoso",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "9ecf8fab7847901139de86b454a6596b6ab3a7526304fbefd96124a8a7648013"
+    },
+    {
+      "article": "frontier-deployed-engineer-competenze-ai-azienda.html",
+      "image": "https://images.unsplash.com/photo-1777107508771-c6b8a116859b?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/person-wearing-headphones-using-a-laptop-with-colorful-lights-eCV5GzmbMAE",
+      "unsplash_id": "eCV5GzmbMAE",
+      "photographer": "Mazin Omron",
+      "alt": "Persona con cuffie davanti a un laptop e a monitor illuminati da colori vivaci",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "e2300e54892ce95cde1cdb6c95022ae0db2de11ff2df096568f8f62c842adbe1"
     }
   ]
 }

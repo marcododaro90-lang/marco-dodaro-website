@@ -953,5 +953,111 @@
     "sources": [
       "https://newsroom.spotify.com/2026-10-20/spotify-memberships-creators/"
     ]
+  },
+  "61": {
+    "file": "reddit-reviews-obiezioni-scheda-prodotto.html",
+    "slug": "reddit-reviews-obiezioni-scheda-prodotto",
+    "title": "Reddit Reviews, leggere le obiezioni prima di vendere",
+    "seo_title": "Reddit Reviews, leggere le obiezioni prima di vendere | Marco Dodaro",
+    "desc": "Come usare le conversazioni sui prodotti per distinguere limiti e dubbi, correggere le schede e preparare brief creator coerenti.",
+    "date": "2026-11-12",
+    "category": "Social commerce",
+    "minutes": 4,
+    "keyword": "Reddit Reviews scheda prodotto",
+    "search_intent": "Leggere obiezioni di prodotto e tradurle in informazioni preacquisto verificate.",
+    "image": "https://images.unsplash.com/photo-1505751104546-4b63c93054b1?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Cuffie wireless nere fotografate su uno sfondo giallo",
+    "image_id": "oBI4NBP2Lhg",
+    "image_source": "https://unsplash.com/photos/wireless-headphones-with-yellow-background-oBI4NBP2Lhg",
+    "image_credit": "C D-X / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://redditinc.com/news/introducing-reddit-reviews"
+    ]
+  },
+  "62": {
+    "file": "tiktok-symphony-riferimenti-video-ai.html",
+    "slug": "tiktok-symphony-riferimenti-video-ai",
+    "title": "TikTok Symphony, preparare i riferimenti per un video AI",
+    "seo_title": "TikTok Symphony, preparare i riferimenti per un video AI | Marco Dodaro",
+    "desc": "Come organizzare immagini, video e audio per un brief TikTok Symphony, controllare il prodotto e valutare il lavoro fino alla creatività approvata.",
+    "date": "2026-11-12",
+    "category": "Intelligenza artificiale",
+    "minutes": 4,
+    "keyword": "TikTok Symphony riferimenti video AI",
+    "search_intent": "Preparare e validare input multimodali per una produzione video pubblicitaria.",
+    "image": "https://images.unsplash.com/photo-1653287805975-065859cd3d63?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Fotocamera gialla e rosa con obiettivo azzurro su uno sfondo turchese",
+    "image_id": "P_ufhuU5_nY",
+    "image_source": "https://unsplash.com/photos/a-camera-with-a-lens-attached-to-it-P_ufhuU5_nY",
+    "image_credit": "Alex Gruber / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://ads.tiktok.com/business/en/blog/tiktok-symphony-ai-creative-suite?redirected=1"
+    ]
+  },
+  "63": {
+    "file": "ricerca-threads-filtri-domande-clienti.html",
+    "slug": "ricerca-threads-filtri-domande-clienti",
+    "title": "Ricerca su Threads, dai filtri alle domande dei clienti",
+    "seo_title": "Ricerca su Threads, dai filtri alle domande dei clienti | Marco Dodaro",
+    "desc": "Un metodo per cercare conversazioni su Threads, conservarne il contesto e trasformare domande pertinenti in contenuti ed esercitazioni.",
+    "date": "2026-11-12",
+    "category": "Strategia digitale",
+    "minutes": 4,
+    "keyword": "ricerca Threads filtri",
+    "search_intent": "Costruire una raccolta manuale pertinente di conversazioni per progettare contenuti e formazione.",
+    "image": "https://images.unsplash.com/photo-1732437334226-e96e72272bc4?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Post-it azzurri e rosa disposti su una lavagna di lavoro",
+    "image_id": "LMsSNDJ9Hvc",
+    "image_source": "https://unsplash.com/photos/a-wall-with-sticky-notes-attached-to-it-LMsSNDJ9Hvc",
+    "image_credit": "Jakub Żerdzicki / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.socialmediatoday.com/news/threads-adds-advanced-search-filters/874339/"
+    ]
+  },
+  "64": {
+    "file": "contenuti-b2b-scelta-fornitore.html",
+    "slug": "contenuti-b2b-scelta-fornitore",
+    "title": "Contenuti B2B per la scelta del fornitore, cosa includere",
+    "seo_title": "Contenuti B2B per la scelta del fornitore, cosa includere | Marco Dodaro",
+    "desc": "Come scrivere contenuti B2B con prove, condizioni e limiti utili al gruppo d’acquisto, distinguendo qualità editoriale e distribuzione.",
+    "date": "2026-11-12",
+    "category": "Strategia digitale",
+    "minutes": 4,
+    "keyword": "contenuti B2B scelta fornitore",
+    "search_intent": "Progettare una pagina che sostenga la valutazione e discussione interna di un servizio B2B.",
+    "image": "https://images.unsplash.com/photo-1779896411954-9129882c996d?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Due colleghi che lavorano insieme a un laptop in un ufficio luminoso",
+    "image_id": "q-PLVUhxzbo",
+    "image_source": "https://unsplash.com/photos/two-colleagues-collaborating-on-a-laptop-in-a-modern-office-q-PLVUhxzbo",
+    "image_credit": "Sandisk / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.edelman.com/expertise/Business-Marketing/2026-b2b-thought-leadership-report"
+    ]
+  },
+  "65": {
+    "file": "frontier-deployed-engineer-competenze-ai-azienda.html",
+    "slug": "frontier-deployed-engineer-competenze-ai-azienda",
+    "title": "Frontier Deployed Engineer, competenze per portare l’AI in azienda",
+    "seo_title": "Frontier Deployed Engineer, competenze per portare l’AI in azienda | Marco Dodaro",
+    "desc": "Cosa descrive il percorso Frontier Academy di Anthropic e quali competenze servono fra prototipo AI, verifica e consegna al team aziendale.",
+    "date": "2026-11-12",
+    "category": "Formazione digitale",
+    "minutes": 4,
+    "keyword": "Frontier Deployed Engineer competenze",
+    "search_intent": "Distinguere qualifica Anthropic, formazione introduttiva e responsabilità di implementazione AI.",
+    "image": "https://images.unsplash.com/photo-1777107508771-c6b8a116859b?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Persona con cuffie davanti a un laptop e a monitor illuminati da colori vivaci",
+    "image_id": "eCV5GzmbMAE",
+    "image_source": "https://unsplash.com/photos/person-wearing-headphones-using-a-laptop-with-colorful-lights-eCV5GzmbMAE",
+    "image_credit": "Mazin Omron / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.anthropic.com/news/claude-frontier-academy",
+      "https://claude.com/programs/frontier-academy"
+    ]
   }
 }
