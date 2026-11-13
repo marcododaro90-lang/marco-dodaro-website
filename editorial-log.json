@@ -3409,7 +3409,7 @@
       ],
       "url": "https://marcododaro.it/tiktok-shop-live-report-uk-2026.html",
       "date_published": "2026-11-13T14:39:11+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "TikTok Shop LIVE report UK 2026",
@@ -3478,7 +3478,15 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-13T13:41:49.195519+00:00",
+            "article_sha256": "fa6a011936b8d2ea0ef4ea2c4d17e0332fc4dbe8de07fe6e9efbd38cab5be8d5",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43435686700",
+            "deployment_result": "success",
+            "publication_commit": "9d7b1e07a9ff09bf15b4e86a854a6b5e1ac38262"
           },
           "viewports": {
             "status": "not_checked",
