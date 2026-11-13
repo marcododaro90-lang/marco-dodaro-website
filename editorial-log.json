@@ -2833,7 +2833,7 @@
       ],
       "url": "https://marcododaro.it/social-listening-volumi-visualizzazioni-canali.html",
       "date_published": "2026-11-13T08:10:31+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "social listening volumi visualizzazioni",
@@ -2903,7 +2903,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-13T07:14:21.219431+00:00",
+            "article_sha256": "d859133d6eaf884d609b5d9729c7cf2f270e670d1beeba4a8ad4ef7dd3c30a4a",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43384144918",
+            "deployment_result": "success"
           },
           "viewports": {
             "status": "not_checked",
@@ -2941,7 +2948,7 @@
       ],
       "url": "https://marcododaro.it/eta-pubblico-social-dati-progetto.html",
       "date_published": "2026-11-13T08:10:32+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "età pubblico social dati",
@@ -3011,7 +3018,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-13T07:14:21.167431+00:00",
+            "article_sha256": "c09eb9e9e3eca271c1b7ad4374b179bcf9b65decacb065e086d7b4208ac22021",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43384144918",
+            "deployment_result": "success"
           },
           "viewports": {
             "status": "not_checked",
@@ -3049,7 +3063,7 @@
       ],
       "url": "https://marcododaro.it/pinterest-guide-regalo-confronto-prodotti.html",
       "date_published": "2026-11-13T08:10:33+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Pinterest guide regalo prodotti",
@@ -3119,7 +3133,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-13T07:14:21.183409+00:00",
+            "article_sha256": "4ca9dcf63222a8c378fade92f5764123eaf417cfa37cd99bf0d21aea68e82340",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43384144918",
+            "deployment_result": "success"
           },
           "viewports": {
             "status": "not_checked",
@@ -3157,7 +3178,7 @@
       ],
       "url": "https://marcododaro.it/edits-curve-velocita-demo-prodotto.html",
       "date_published": "2026-11-13T08:10:34+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Edits curve velocità demo prodotto",
@@ -3227,7 +3248,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-13T07:14:21.115438+00:00",
+            "article_sha256": "284885d73e5727700c914ddb0c3b7294c3ff2b44bb556dd709341b904bf9c90e",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43384144918",
+            "deployment_result": "success"
           },
           "viewports": {
             "status": "not_checked",
@@ -3265,7 +3293,7 @@
       ],
       "url": "https://marcododaro.it/notebooklm-fonti-corso-aggiornamento.html",
       "date_published": "2026-11-13T08:10:35+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "NotebookLM aggiornamento fonti corso",
@@ -3335,7 +3363,14 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-13T07:14:21.171694+00:00",
+            "article_sha256": "c7cac91f9613ef527937dc809b599a47ed7aef3a57c3fbcac5dd98a2b4ccb749",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43384144918",
+            "deployment_result": "success"
           },
           "viewports": {
             "status": "not_checked",
