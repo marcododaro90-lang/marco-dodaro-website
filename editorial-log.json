@@ -3385,6 +3385,114 @@
           "density_tier": "low"
         }
       }
+    },
+    {
+      "file": "tiktok-shop-live-report-uk-2026.html",
+      "slug": "tiktok-shop-live-report-uk-2026",
+      "title": "TikTok Shop LIVE, cosa emerge dal report UK 2026",
+      "seo_title": "TikTok Shop LIVE, cosa emerge dal report UK 2026 | Marco Dodaro",
+      "desc": "Cosa dice il report TikTok Shop LIVE UK 2026 e come leggerne dati e limiti per progettare un test sostenibile nel mercato italiano.",
+      "date": "2026-11-13",
+      "category": "Social commerce",
+      "minutes": 5,
+      "keyword": "TikTok Shop LIVE report UK 2026",
+      "search_intent": "Interpretare dati e limiti del report britannico per decidere come misurare un test LIVE di un venditore italiano.",
+      "image": "https://images.unsplash.com/photo-1781094934965-1cd18427dbb6?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Microfono nero davanti a uno sfondo illuminato di rosa e viola",
+      "image_id": "zkeZTmgENrk",
+      "image_source": "https://unsplash.com/photos/a-black-microphone-against-a-blurred-colorful-background-zkeZTmgENrk",
+      "image_credit": "Alex de Koning / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://newsroom.tiktok.com/tiktokshoplivereport?lang=en-GB",
+        "https://p16-headlessx-no.tiktokcdn-eu.com/tos-no1a-i-ypbicmctyi-no/f031a63c7c8ed6aa36455d521e85d176.pdf"
+      ],
+      "url": "https://marcododaro.it/tiktok-shop-live-report-uk-2026.html",
+      "date_published": "2026-11-13T14:39:11+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "TikTok Shop LIVE report UK 2026",
+          "intent": "Interpretare dati e limiti del report britannico per decidere come misurare un test LIVE di un venditore italiano.",
+          "archive_count": 70,
+          "differentiation": "Nuovo report UK del 12 novembre. Intento interpretazione campioni, metriche e limiti per test italiano, distinto dalla guida preparazione LIVE e da GMV Max margini. Confrontati titoli normalizzati, slug, H2, corpi, eventi e fonti di tutti i 70 articoli."
+        },
+        "authorization": "Richiesta manuale esplicita di pubblicare ora questa fonte; sesta uscita del 13 novembre autorizzata oltre le cinque giornaliere già pubblicate.",
+        "discovery_source": "Fonte primaria indicata da Marco",
+        "discovery_url": "https://newsroom.tiktok.com/tiktokshoplivereport?lang=en-GB",
+        "discovery_date": "2026-11-12",
+        "event_date": "2026-11-12",
+        "consulted_at": "2026-11-13T14:39:11+01:00",
+        "geekout_checked_at": "2026-11-13T14:39:11+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto, ultima edizione visibile 6 novembre. Tema manualmente richiesto distinto dall’archivio.",
+        "evidence_summary": "OnePoll: 2000 adulti UK 1–5 ottobre 2026; 735 decisori PMI UK già utenti LIVE 6 ottobre–6 novembre. Ready10 per TikTok. Dati piattaforma UK agosto 2025–agosto 2026. 61% confronto ricavi dichiarati, non profitti o probabilità successo. PDF pagina 8 50% demo e 42% risposte fra acquirenti durante o subito dopo LIVE. Esclusa intenzione futura discordante 77% comunicato e 80% PDF.",
+        "access_limits": "Comunicato e PDF integrale pubblici accessibili; nessun paywall aggirato. Nessun dato EMARKETER usato.",
+        "editorial_review": "Due passaggi su fatti, attribuzione, lessico, struttura e originalità. Esempio aspirapolvere dichiarato ipotetico; nessuna esperienza inventata di Marco.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.1225,
+          "score_after": 0.1225
+        },
+        "cover": {
+          "remote": 60,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "3efa8bffaf9e3c622d05d42f238c0dd1a22891ac1fc7382341d75cdf4799245f",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1717503159960-bf398715c19e"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1782029903774-494b95ad1abc"
+            ],
+            [
+              16,
+              "live-report/assets/image-52.webp"
+            ],
+            [
+              16,
+              "live-report/assets/image-31.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1714386819907-ce134e3bb0ff"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1735197878057-53101cbcfa6b"
+            ]
+          ],
+          "visual_review": "Pagina individuale verificata gratuita sotto Unsplash License, escluso Unsplash+. Foto a colori, ritaglio panoramico e sei confronti più vicini ispezionati. ID e URL normalizzati distinti in tutto archivio; SHA256 e pHash multi-ritaglio su 60 remote e 68 locali, nessuna incorporata, nessun errore."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale termina con Target page/context/browser closed."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-13-tiktok-shop-live-report-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
     }
   ]
 }

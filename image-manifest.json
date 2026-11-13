@@ -600,6 +600,17 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "12a855fdfaf8c3eedebc3963a3cad4733796d98e9f4f8c0aa30ce3b800b0d050"
+    },
+    {
+      "article": "tiktok-shop-live-report-uk-2026.html",
+      "image": "https://images.unsplash.com/photo-1781094934965-1cd18427dbb6?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-black-microphone-against-a-blurred-colorful-background-zkeZTmgENrk",
+      "unsplash_id": "zkeZTmgENrk",
+      "photographer": "Alex de Koning",
+      "alt": "Microfono nero davanti a uno sfondo illuminato di rosa e viola",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "3efa8bffaf9e3c622d05d42f238c0dd1a22891ac1fc7382341d75cdf4799245f"
     }
   ]
 }
