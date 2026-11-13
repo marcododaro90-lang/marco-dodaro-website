@@ -2810,6 +2810,546 @@
           "density_tier": "low"
         }
       }
+    },
+    {
+      "file": "social-listening-volumi-visualizzazioni-canali.html",
+      "slug": "social-listening-volumi-visualizzazioni-canali",
+      "title": "Social listening, volumi e visualizzazioni a confronto",
+      "seo_title": "Social listening, volumi e visualizzazioni a confronto | Marco Dodaro",
+      "desc": "Come distinguere conversazioni, visibilità e risultati commerciali nel social listening, partendo dal report sul caffè e progettando una prova sui canali.",
+      "date": "2026-11-13",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "social listening volumi visualizzazioni",
+      "search_intent": "Interpretare metriche di conversazione e visibilità prima di scegliere canale e budget.",
+      "image": "https://images.unsplash.com/photo-1614535552837-8865c0acfd06?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Tazza nera di caffè fotografata su uno sfondo giallo",
+      "image_id": "mil1ye4BTmY",
+      "image_source": "https://unsplash.com/photos/black-ceramic-mug-with-black-coffee-mil1ye4BTmY",
+      "image_credit": "Moon Moons / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.socialistening.it/blog/caffe-italia-social-listening/"
+      ],
+      "url": "https://marcododaro.it/social-listening-volumi-visualizzazioni-canali.html",
+      "date_published": "2026-11-13T08:10:31+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "social listening volumi visualizzazioni",
+          "intent": "Interpretare metriche di conversazione e visibilità prima di scegliere canale e budget.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 65,
+          "related_page": "come-creare-un-piano-editoriale-basato-sui-dati.html",
+          "differentiation": "Ricerca originale sul caffè, gennaio-ottobre 2026. Intento confronto dei denominatori e scelta del canale, distinto da raccolta manuale Threads e da riacquisto Shop Plus. Nessuna stima delle opinioni di tutti gli italiani o ripartizione budget derivata dalle quote."
+        },
+        "geekout_checked_at": "2026-11-13T08:10:35+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, ultima edizione visibile 6 novembre. Scelti temi inediti verificabili.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/caffe-italia-social-listening/",
+        "discovery_date": "2026-11-10",
+        "event_date": "2026-11-10",
+        "consulted_at": "2026-11-13T08:10:35+01:00",
+        "evidence_summary": "Ricerca originale sul caffè, gennaio-ottobre 2026. Intento confronto dei denominatori e scelta del canale, distinto da raccolta manuale Threads e da riacquisto Shop Plus. Nessuna stima delle opinioni di tutti gli italiani o ripartizione budget derivata dalle quote.",
+        "access_limits": "Solo pagine pubbliche. Consultata anche EMARKETER Advertising & Marketing, nessun dato da ricerche complete non accessibili o abbonamenti attivati.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Esempi originali dichiarati ipotetici, senza esperienze attribuite a Marco. Confrontati titolo normalizzato, slug, H2, body, evento, fonti e intento contro 65 pagine e le altre nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 55,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "3142215455cbf8faba97764aa7c3a80388928cf6a369360e17bee665b76654bc",
+          "width": 1600,
+          "height": 1158,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1505751104546-4b63c93054b1"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1653287805975-065859cd3d63"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1717503159960-bf398715c19e"
+            ],
+            [
+              16,
+              "nov13/assets/image-55.webp"
+            ],
+            [
+              16,
+              "nov13/assets/image-39.webp"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina della fotografia. ID e URL normalizzati distinti nell’intero archivio; confronto SHA e pHash multi-ritaglio su 55 immagini remote e 68 locali, nessuna incorporata. Candidata, ritaglio e sei immagini più simili ispezionati. Le cinque nuove foto distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna resa per viewport dichiarata verificata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-13-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "eta-pubblico-social-dati-progetto.html",
+      "slug": "eta-pubblico-social-dati-progetto",
+      "title": "Età del pubblico social, cosa dicono davvero i dati",
+      "seo_title": "Età del pubblico social, cosa dicono davvero i dati | Marco Dodaro",
+      "desc": "Come leggere le fasce d’età nei report social e distinguerle dai requisiti di un corso, alla luce dell’espansione dei controlli Meta per i teenager.",
+      "date": "2026-11-13",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "età pubblico social dati",
+      "search_intent": "Distinguere dati demografici di piattaforma e requisiti del progetto senza certificazioni anagrafiche improprie.",
+      "image": "https://images.unsplash.com/photo-1784729554014-9c64f8e49905?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Smartphone con icone social su schermo rosa accanto a un laptop",
+      "image_id": "1rQ-K2vzuHA",
+      "image_source": "https://unsplash.com/photos/a-smartphone-displaying-social-media-apps-on-a-pink-screen-1rQ-K2vzuHA",
+      "image_credit": "Swello / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"
+      ],
+      "url": "https://marcododaro.it/eta-pubblico-social-dati-progetto.html",
+      "date_published": "2026-11-13T08:10:32+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "età pubblico social dati",
+          "intent": "Distinguere dati demografici di piattaforma e requisiti del progetto senza certificazioni anagrafiche improprie.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 65,
+          "related_page": "come-costruire-una-strategia-social-per-unazienda.html",
+          "differentiation": "Primo articolo su età del pubblico e limiti dei report. Annuncio Meta: globale Instagram, rollout Facebook, Threads previsto entro anno. Nessuna equivalenza presunta fra age estimation e cambiamento degli analytics, nessun consiglio di eludere controlli o raccolta dati anagrafici improvvisata."
+        },
+        "geekout_checked_at": "2026-11-13T08:10:35+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, ultima edizione visibile 6 novembre. Scelti temi inediti verificabili.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/meta-estende-rilevamento-eta-adolescenti-facebook-threads/",
+        "discovery_date": "2026-11-10",
+        "event_date": "2026-11-09",
+        "consulted_at": "2026-11-13T08:10:35+01:00",
+        "evidence_summary": "Primo articolo su età del pubblico e limiti dei report. Annuncio Meta: globale Instagram, rollout Facebook, Threads previsto entro anno. Nessuna equivalenza presunta fra age estimation e cambiamento degli analytics, nessun consiglio di eludere controlli o raccolta dati anagrafici improvvisata.",
+        "access_limits": "Solo pagine pubbliche. Consultata anche EMARKETER Advertising & Marketing, nessun dato da ricerche complete non accessibili o abbonamenti attivati.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Esempi originali dichiarati ipotetici, senza esperienze attribuite a Marco. Confrontati titolo normalizzato, slug, H2, body, evento, fonti e intento contro 65 pagine e le altre nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 55,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "c6c201f33ac5737c86f0a80243a414b38adbaa6bde91478383ca5d9f27a31e00",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "nov13/blog-img-article-01.webp"
+            ],
+            [
+              16,
+              "nov13/assets/image-52.webp"
+            ],
+            [
+              16,
+              "nov13/assets/image-14.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1741389064022-6d470321710e"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1778847195271-605a4d6a9bf7"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina della fotografia. ID e URL normalizzati distinti nell’intero archivio; confronto SHA e pHash multi-ritaglio su 55 immagini remote e 68 locali, nessuna incorporata. Candidata, ritaglio e sei immagini più simili ispezionati. Le cinque nuove foto distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna resa per viewport dichiarata verificata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-13-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "pinterest-guide-regalo-confronto-prodotti.html",
+      "slug": "pinterest-guide-regalo-confronto-prodotti",
+      "title": "Guide regalo su Pinterest, rendere confrontabili i prodotti",
+      "seo_title": "Guide regalo su Pinterest, rendere confrontabili i prodotti | Marco Dodaro",
+      "desc": "Come preparare una guida regalo con alternative, disponibilità e consegna chiare, distinguendo le novità Pinterest per mercato e fase di rilascio.",
+      "date": "2026-11-13",
+      "category": "Social commerce",
+      "minutes": 4,
+      "keyword": "Pinterest guide regalo prodotti",
+      "search_intent": "Preparare una guida regalo e una destinazione e-commerce coerenti con il confronto fra alternative.",
+      "image": "https://images.unsplash.com/photo-1764824670491-7547d80e035b?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Pacchetti regalo con carte rosse, verdi e motivi colorati",
+      "image_id": "6q1TmsRlb0E",
+      "image_source": "https://unsplash.com/photos/stacks-of-holiday-gifts-wrapped-in-festive-paper-6q1TmsRlb0E",
+      "image_credit": "Jacob McGowin / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://newsroom.pinterest.com/en-au/news/2026-global-holiday-comms-plan-newsroom/"
+      ],
+      "url": "https://marcododaro.it/pinterest-guide-regalo-confronto-prodotti.html",
+      "date_published": "2026-11-13T08:10:33+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Pinterest guide regalo prodotti",
+          "intent": "Preparare una guida regalo e una destinazione e-commerce coerenti con il confronto fra alternative.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 65,
+          "related_page": "tiktok-shop-o-amazon-quale-piattaforma-conviene.html",
+          "differentiation": "Primo articolo Pinterest, evento 12 novembre 2026 distinto da guide festive 2025. Compare USA, Assistant iOS USA, wishlist test iOS USA/Canada, altre iniziative globali. Nessuna disponibilità generale italiana presunta. Intento scelta regalo e confronto, distinto da scheda catalogo app TikTok e piano Black Friday."
+        },
+        "geekout_checked_at": "2026-11-13T08:10:35+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, ultima edizione visibile 6 novembre. Scelti temi inediti verificabili.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/",
+        "discovery_date": "2026-11-12",
+        "event_date": "2026-11-12",
+        "consulted_at": "2026-11-13T08:10:35+01:00",
+        "evidence_summary": "Primo articolo Pinterest, evento 12 novembre 2026 distinto da guide festive 2025. Compare USA, Assistant iOS USA, wishlist test iOS USA/Canada, altre iniziative globali. Nessuna disponibilità generale italiana presunta. Intento scelta regalo e confronto, distinto da scheda catalogo app TikTok e piano Black Friday.",
+        "access_limits": "Solo pagine pubbliche. Consultata anche EMARKETER Advertising & Marketing, nessun dato da ricerche complete non accessibili o abbonamenti attivati.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Esempi originali dichiarati ipotetici, senza esperienze attribuite a Marco. Confrontati titolo normalizzato, slug, H2, body, evento, fonti e intento contro 65 pagine e le altre nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 55,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "ca0de6be8d8188a2a5e2264517778e487e29c558cd173a31c3e90e551678aa51",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              14,
+              "https://images.unsplash.com/photo-1717503159960-bf398715c19e"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1735197878057-53101cbcfa6b"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1770239647673-1a0eb5d05a25"
+            ],
+            [
+              16,
+              "nov13/blog-img-article-05.webp"
+            ],
+            [
+              16,
+              "nov13/assets/image-18.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1636647677481-f134fda3f408"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina della fotografia. ID e URL normalizzati distinti nell’intero archivio; confronto SHA e pHash multi-ritaglio su 55 immagini remote e 68 locali, nessuna incorporata. Candidata, ritaglio e sei immagini più simili ispezionati. Le cinque nuove foto distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna resa per viewport dichiarata verificata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-13-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "edits-curve-velocita-demo-prodotto.html",
+      "slug": "edits-curve-velocita-demo-prodotto",
+      "title": "Edits, usare le curve di velocità senza falsare una demo",
+      "seo_title": "Edits, usare le curve di velocità senza falsare una demo | Marco Dodaro",
+      "desc": "Come montare una dimostrazione con le curve di velocità di Edits, conservando leggibilità, audio e passaggi necessari a valutare il prodotto.",
+      "date": "2026-11-13",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "Edits curve velocità demo prodotto",
+      "search_intent": "Montare una dimostrazione con velocità variabile mantenendo interpretabile la promessa del prodotto.",
+      "image": "https://images.unsplash.com/photo-1653287805993-9a1a7ea28c20?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Mani con una fotocamera rosa e azzurra su uno sfondo turchese",
+      "image_id": "jUglg9GA-A8",
+      "image_source": "https://unsplash.com/photos/a-person-taking-a-picture-with-a-camera-jUglg9GA-A8",
+      "image_credit": "Alex Gruber / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.socialmediatoday.com/news/edits-app-gets-speed-curves-and-auto-audio-balancing/874586/"
+      ],
+      "url": "https://marcododaro.it/edits-curve-velocita-demo-prodotto.html",
+      "date_published": "2026-11-13T08:10:34+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Edits curve velocità demo prodotto",
+          "intent": "Montare una dimostrazione con velocità variabile mantenendo interpretabile la promessa del prodotto.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 65,
+          "related_page": "edits-per-mac-prova-montaggio-video.html",
+          "differentiation": "Nuovo aggiornamento del 12 novembre. Curve di velocità, audio e testo attribuiti a SMT con screenshot del post Creators; post https://www.threads.com/@creators/post/DfpcNTIG73f non accessibile, errore 429. Intento fedeltà temporale della dimostrazione, distinto da test Edits Mac 5 novembre e Effect Builder. Nessun test nell’account inventato."
+        },
+        "geekout_checked_at": "2026-11-13T08:10:35+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, ultima edizione visibile 6 novembre. Scelti temi inediti verificabili.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/edits-app-gets-speed-curves-and-auto-audio-balancing/874586/",
+        "discovery_date": "2026-11-12",
+        "event_date": "2026-11-12",
+        "consulted_at": "2026-11-13T08:10:35+01:00",
+        "evidence_summary": "Nuovo aggiornamento del 12 novembre. Curve di velocità, audio e testo attribuiti a SMT con screenshot del post Creators; post https://www.threads.com/@creators/post/DfpcNTIG73f non accessibile, errore 429. Intento fedeltà temporale della dimostrazione, distinto da test Edits Mac 5 novembre e Effect Builder. Nessun test nell’account inventato.",
+        "access_limits": "Solo pagine pubbliche. Consultata anche EMARKETER Advertising & Marketing, nessun dato da ricerche complete non accessibili o abbonamenti attivati.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Esempi originali dichiarati ipotetici, senza esperienze attribuite a Marco. Confrontati titolo normalizzato, slug, H2, body, evento, fonti e intento contro 65 pagine e le altre nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 55,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "7cd2bc62a1bbfe04e255760738621fa46180c67c5f543f845d92161b7774bdc9",
+          "width": 1600,
+          "height": 925,
+          "closest": [
+            [
+              14,
+              "nov13/blog-img-article-02.webp"
+            ],
+            [
+              14,
+              "nov13/assets/image-15.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1717503159960-bf398715c19e"
+            ],
+            [
+              16,
+              "nov13/assets/image-63.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1576072446584-4955dfe17b86"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1650421218675-d49994981462"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina della fotografia. ID e URL normalizzati distinti nell’intero archivio; confronto SHA e pHash multi-ritaglio su 55 immagini remote e 68 locali, nessuna incorporata. Candidata, ritaglio e sei immagini più simili ispezionati. Le cinque nuove foto distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna resa per viewport dichiarata verificata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-13-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "notebooklm-fonti-corso-aggiornamento.html",
+      "slug": "notebooklm-fonti-corso-aggiornamento",
+      "title": "NotebookLM, aggiornare le fonti di un corso",
+      "seo_title": "NotebookLM, aggiornare le fonti di un corso | Marco Dodaro",
+      "desc": "Come allineare fonti, esercizi e materiali di un corso dopo la modifica di una procedura, verificando sincronizzazione, versioni e accessi nei notebook AI.",
+      "date": "2026-11-13",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "NotebookLM aggiornamento fonti corso",
+      "search_intent": "Mantenere coerenti fonti correnti ed elaborati didattici quando cambia una procedura aziendale.",
+      "image": "https://images.unsplash.com/photo-1759139652263-600f34874ed7?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Laptop, tastiera, smartphone arancione e cuffie su un piano giallo",
+      "image_id": "mdrAYHeiKbU",
+      "image_source": "https://unsplash.com/photos/laptop-phone-keyboard-and-headphones-on-yellow-surface-mdrAYHeiKbU",
+      "image_credit": "Rahul Mishra / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://support.google.com/notebooklm/answer/16215270?hl=it"
+      ],
+      "url": "https://marcododaro.it/notebooklm-fonti-corso-aggiornamento.html",
+      "date_published": "2026-11-13T08:10:35+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "NotebookLM aggiornamento fonti corso",
+          "intent": "Mantenere coerenti fonti correnti ed elaborati didattici quando cambia una procedura aziendale.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 65,
+          "related_page": "google-ai-educator-series-scegliere-modulo.html",
+          "differentiation": "Prima guida dedicata a NotebookLM e manutenzione fonti. La documentazione attuale reindirizza a Gemini Notebook, con sync automatica Drive ogni pochi minuti e opzione manuale. Nessuna notizia di lancio o rinomina datata inventata. Intento coerenza versioni e materiali esportati, distinto dalla scelta di un modulo AI Educator e dal laboratorio per ruoli."
+        },
+        "geekout_checked_at": "2026-11-13T08:10:35+01:00",
+        "latest_issue_date": "2026-11-06",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom",
+        "geekout_decision": "Archivio riaperto nel run, ultima edizione visibile 6 novembre. Scelti temi inediti verificabili.",
+        "discovery_source": "Google Help",
+        "discovery_url": "https://support.google.com/notebooklm/answer/16215270?hl=it",
+        "discovery_date": null,
+        "event_date": null,
+        "consulted_at": "2026-11-13T08:10:35+01:00",
+        "evidence_summary": "Prima guida dedicata a NotebookLM e manutenzione fonti. La documentazione attuale reindirizza a Gemini Notebook, con sync automatica Drive ogni pochi minuti e opzione manuale. Nessuna notizia di lancio o rinomina datata inventata. Intento coerenza versioni e materiali esportati, distinto dalla scelta di un modulo AI Educator e dal laboratorio per ruoli.",
+        "access_limits": "Solo pagine pubbliche. Consultata anche EMARKETER Advertising & Marketing, nessun dato da ricerche complete non accessibili o abbonamenti attivati.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Esempi originali dichiarati ipotetici, senza esperienze attribuite a Marco. Confrontati titolo normalizzato, slug, H2, body, evento, fonti e intento contro 65 pagine e le altre nuove uscite.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 55,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "12a855fdfaf8c3eedebc3963a3cad4733796d98e9f4f8c0aa30ce3b800b0d050",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1717503159960-bf398715c19e"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1732437334226-e96e72272bc4"
+            ],
+            [
+              16,
+              "nov13/blog-img-article-09.webp"
+            ],
+            [
+              16,
+              "nov13/assets/image-22.webp"
+            ],
+            [
+              16,
+              "nov13/assets/image-27.webp"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina della fotografia. ID e URL normalizzati distinti nell’intero archivio; confronto SHA e pHash multi-ritaglio su 55 immagini remote e 68 locali, nessuna incorporata. Candidata, ritaglio e sei immagini più simili ispezionati. Le cinque nuove foto distinte fra loro."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale non si avvia, Target page/context/browser closed. Nessuna resa per viewport dichiarata verificata."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-13-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
     }
   ]
 }

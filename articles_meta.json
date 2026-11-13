@@ -1059,5 +1059,110 @@
       "https://www.anthropic.com/news/claude-frontier-academy",
       "https://claude.com/programs/frontier-academy"
     ]
+  },
+  "66": {
+    "file": "social-listening-volumi-visualizzazioni-canali.html",
+    "slug": "social-listening-volumi-visualizzazioni-canali",
+    "title": "Social listening, volumi e visualizzazioni a confronto",
+    "seo_title": "Social listening, volumi e visualizzazioni a confronto | Marco Dodaro",
+    "desc": "Come distinguere conversazioni, visibilità e risultati commerciali nel social listening, partendo dal report sul caffè e progettando una prova sui canali.",
+    "date": "2026-11-13",
+    "category": "Strategia digitale",
+    "minutes": 4,
+    "keyword": "social listening volumi visualizzazioni",
+    "search_intent": "Interpretare metriche di conversazione e visibilità prima di scegliere canale e budget.",
+    "image": "https://images.unsplash.com/photo-1614535552837-8865c0acfd06?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Tazza nera di caffè fotografata su uno sfondo giallo",
+    "image_id": "mil1ye4BTmY",
+    "image_source": "https://unsplash.com/photos/black-ceramic-mug-with-black-coffee-mil1ye4BTmY",
+    "image_credit": "Moon Moons / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.socialistening.it/blog/caffe-italia-social-listening/"
+    ]
+  },
+  "67": {
+    "file": "eta-pubblico-social-dati-progetto.html",
+    "slug": "eta-pubblico-social-dati-progetto",
+    "title": "Età del pubblico social, cosa dicono davvero i dati",
+    "seo_title": "Età del pubblico social, cosa dicono davvero i dati | Marco Dodaro",
+    "desc": "Come leggere le fasce d’età nei report social e distinguerle dai requisiti di un corso, alla luce dell’espansione dei controlli Meta per i teenager.",
+    "date": "2026-11-13",
+    "category": "Strategia digitale",
+    "minutes": 4,
+    "keyword": "età pubblico social dati",
+    "search_intent": "Distinguere dati demografici di piattaforma e requisiti del progetto senza certificazioni anagrafiche improprie.",
+    "image": "https://images.unsplash.com/photo-1784729554014-9c64f8e49905?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Smartphone con icone social su schermo rosa accanto a un laptop",
+    "image_id": "1rQ-K2vzuHA",
+    "image_source": "https://unsplash.com/photos/a-smartphone-displaying-social-media-apps-on-a-pink-screen-1rQ-K2vzuHA",
+    "image_credit": "Swello / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"
+    ]
+  },
+  "68": {
+    "file": "pinterest-guide-regalo-confronto-prodotti.html",
+    "slug": "pinterest-guide-regalo-confronto-prodotti",
+    "title": "Guide regalo su Pinterest, rendere confrontabili i prodotti",
+    "seo_title": "Guide regalo su Pinterest, rendere confrontabili i prodotti | Marco Dodaro",
+    "desc": "Come preparare una guida regalo con alternative, disponibilità e consegna chiare, distinguendo le novità Pinterest per mercato e fase di rilascio.",
+    "date": "2026-11-13",
+    "category": "Social commerce",
+    "minutes": 4,
+    "keyword": "Pinterest guide regalo prodotti",
+    "search_intent": "Preparare una guida regalo e una destinazione e-commerce coerenti con il confronto fra alternative.",
+    "image": "https://images.unsplash.com/photo-1764824670491-7547d80e035b?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Pacchetti regalo con carte rosse, verdi e motivi colorati",
+    "image_id": "6q1TmsRlb0E",
+    "image_source": "https://unsplash.com/photos/stacks-of-holiday-gifts-wrapped-in-festive-paper-6q1TmsRlb0E",
+    "image_credit": "Jacob McGowin / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://newsroom.pinterest.com/en-au/news/2026-global-holiday-comms-plan-newsroom/"
+    ]
+  },
+  "69": {
+    "file": "edits-curve-velocita-demo-prodotto.html",
+    "slug": "edits-curve-velocita-demo-prodotto",
+    "title": "Edits, usare le curve di velocità senza falsare una demo",
+    "seo_title": "Edits, usare le curve di velocità senza falsare una demo | Marco Dodaro",
+    "desc": "Come montare una dimostrazione con le curve di velocità di Edits, conservando leggibilità, audio e passaggi necessari a valutare il prodotto.",
+    "date": "2026-11-13",
+    "category": "Creator economy",
+    "minutes": 4,
+    "keyword": "Edits curve velocità demo prodotto",
+    "search_intent": "Montare una dimostrazione con velocità variabile mantenendo interpretabile la promessa del prodotto.",
+    "image": "https://images.unsplash.com/photo-1653287805993-9a1a7ea28c20?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Mani con una fotocamera rosa e azzurra su uno sfondo turchese",
+    "image_id": "jUglg9GA-A8",
+    "image_source": "https://unsplash.com/photos/a-person-taking-a-picture-with-a-camera-jUglg9GA-A8",
+    "image_credit": "Alex Gruber / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.socialmediatoday.com/news/edits-app-gets-speed-curves-and-auto-audio-balancing/874586/"
+    ]
+  },
+  "70": {
+    "file": "notebooklm-fonti-corso-aggiornamento.html",
+    "slug": "notebooklm-fonti-corso-aggiornamento",
+    "title": "NotebookLM, aggiornare le fonti di un corso",
+    "seo_title": "NotebookLM, aggiornare le fonti di un corso | Marco Dodaro",
+    "desc": "Come allineare fonti, esercizi e materiali di un corso dopo la modifica di una procedura, verificando sincronizzazione, versioni e accessi nei notebook AI.",
+    "date": "2026-11-13",
+    "category": "Formazione digitale",
+    "minutes": 4,
+    "keyword": "NotebookLM aggiornamento fonti corso",
+    "search_intent": "Mantenere coerenti fonti correnti ed elaborati didattici quando cambia una procedura aziendale.",
+    "image": "https://images.unsplash.com/photo-1759139652263-600f34874ed7?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Laptop, tastiera, smartphone arancione e cuffie su un piano giallo",
+    "image_id": "mdrAYHeiKbU",
+    "image_source": "https://unsplash.com/photos/laptop-phone-keyboard-and-headphones-on-yellow-surface-mdrAYHeiKbU",
+    "image_credit": "Rahul Mishra / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://support.google.com/notebooklm/answer/16215270?hl=it"
+    ]
   }
 }

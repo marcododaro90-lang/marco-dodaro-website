@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -545,6 +545,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "e2300e54892ce95cde1cdb6c95022ae0db2de11ff2df096568f8f62c842adbe1"
+    },
+    {
+      "article": "social-listening-volumi-visualizzazioni-canali.html",
+      "image": "https://images.unsplash.com/photo-1614535552837-8865c0acfd06?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/black-ceramic-mug-with-black-coffee-mil1ye4BTmY",
+      "unsplash_id": "mil1ye4BTmY",
+      "photographer": "Moon Moons",
+      "alt": "Tazza nera di caffè fotografata su uno sfondo giallo",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "3142215455cbf8faba97764aa7c3a80388928cf6a369360e17bee665b76654bc"
+    },
+    {
+      "article": "eta-pubblico-social-dati-progetto.html",
+      "image": "https://images.unsplash.com/photo-1784729554014-9c64f8e49905?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-smartphone-displaying-social-media-apps-on-a-pink-screen-1rQ-K2vzuHA",
+      "unsplash_id": "1rQ-K2vzuHA",
+      "photographer": "Swello",
+      "alt": "Smartphone con icone social su schermo rosa accanto a un laptop",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "c6c201f33ac5737c86f0a80243a414b38adbaa6bde91478383ca5d9f27a31e00"
+    },
+    {
+      "article": "pinterest-guide-regalo-confronto-prodotti.html",
+      "image": "https://images.unsplash.com/photo-1764824670491-7547d80e035b?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/stacks-of-holiday-gifts-wrapped-in-festive-paper-6q1TmsRlb0E",
+      "unsplash_id": "6q1TmsRlb0E",
+      "photographer": "Jacob McGowin",
+      "alt": "Pacchetti regalo con carte rosse, verdi e motivi colorati",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "ca0de6be8d8188a2a5e2264517778e487e29c558cd173a31c3e90e551678aa51"
+    },
+    {
+      "article": "edits-curve-velocita-demo-prodotto.html",
+      "image": "https://images.unsplash.com/photo-1653287805993-9a1a7ea28c20?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-person-taking-a-picture-with-a-camera-jUglg9GA-A8",
+      "unsplash_id": "jUglg9GA-A8",
+      "photographer": "Alex Gruber",
+      "alt": "Mani con una fotocamera rosa e azzurra su uno sfondo turchese",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "7cd2bc62a1bbfe04e255760738621fa46180c67c5f543f845d92161b7774bdc9"
+    },
+    {
+      "article": "notebooklm-fonti-corso-aggiornamento.html",
+      "image": "https://images.unsplash.com/photo-1759139652263-600f34874ed7?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/laptop-phone-keyboard-and-headphones-on-yellow-surface-mdrAYHeiKbU",
+      "unsplash_id": "mdrAYHeiKbU",
+      "photographer": "Rahul Mishra",
+      "alt": "Laptop, tastiera, smartphone arancione e cuffie su un piano giallo",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "12a855fdfaf8c3eedebc3963a3cad4733796d98e9f4f8c0aa30ce3b800b0d050"
     }
   ]
 }
