@@ -3526,7 +3526,7 @@
       ],
       "url": "https://marcododaro.it/linkedin-ctv-ads-mercato-uk.html",
       "date_published": "2026-11-14T08:15:04+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "LinkedIn CTV Ads UK",
@@ -3588,7 +3588,8 @@
               "https://images.unsplash.com/photo-1782029903774-494b95ad1abc"
             ]
           ],
-          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate.",
+          "post_publication": "ID/URL, metadati e SHA delle cinque immagini pubbliche coerenti con censimento e ispezione pre-commit."
         },
         "checks": {
           "local": {
@@ -3596,16 +3597,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-14T07:17:54.067836+00:00",
+            "article_sha256": "9c5143985d648b146cf45225e3bd574864c6c7bba1105e770463be172a14de22",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43570334200",
+            "deployment_result": "success",
+            "publication_commit": "b7a86c186fce7862bc00a7a0f981006bf5871440"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "green-skills-formazione-aziendale-dati.html",
               "prompt-injection-formazione-ai-prova-pratica.html",
               "facebook-your-algorithm-contenuti-aziendali.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -3645,7 +3655,7 @@
       ],
       "url": "https://marcododaro.it/youtube-lancio-creator-caso-gta-vi.html",
       "date_published": "2026-11-14T08:15:05+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "lancio YouTube creator",
@@ -3707,7 +3717,8 @@
               "https://images.unsplash.com/photo-1758873271772-6bbc792c1514"
             ]
           ],
-          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate.",
+          "post_publication": "ID/URL, metadati e SHA delle cinque immagini pubbliche coerenti con censimento e ispezione pre-commit."
         },
         "checks": {
           "local": {
@@ -3715,16 +3726,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-14T07:17:54.068781+00:00",
+            "article_sha256": "560da93cf7e880811e542dd46d35958820016139f620585e142cdf8f4a526614",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43570334200",
+            "deployment_result": "success",
+            "publication_commit": "b7a86c186fce7862bc00a7a0f981006bf5871440"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "green-skills-formazione-aziendale-dati.html",
               "prompt-injection-formazione-ai-prova-pratica.html",
               "facebook-your-algorithm-contenuti-aziendali.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -3763,7 +3783,7 @@
       ],
       "url": "https://marcododaro.it/facebook-your-algorithm-contenuti-aziendali.html",
       "date_published": "2026-11-14T08:15:06+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Facebook Your Algorithm aziende",
@@ -3825,7 +3845,8 @@
               "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
             ]
           ],
-          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate.",
+          "post_publication": "ID/URL, metadati e SHA delle cinque immagini pubbliche coerenti con censimento e ispezione pre-commit."
         },
         "checks": {
           "local": {
@@ -3833,16 +3854,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-14T07:17:54.071715+00:00",
+            "article_sha256": "f6e27a930741d5e33d7d27230241f366c3861b1db274aeed83c9cb7ca7a9a062",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43570334200",
+            "deployment_result": "success",
+            "publication_commit": "b7a86c186fce7862bc00a7a0f981006bf5871440"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "green-skills-formazione-aziendale-dati.html",
               "prompt-injection-formazione-ai-prova-pratica.html",
               "facebook-your-algorithm-contenuti-aziendali.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -3882,7 +3912,7 @@
       ],
       "url": "https://marcododaro.it/prompt-injection-formazione-ai-prova-pratica.html",
       "date_published": "2026-11-14T08:15:07+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "prompt injection formazione AI",
@@ -3944,7 +3974,8 @@
               "https://images.unsplash.com/photo-1653287805975-065859cd3d63"
             ]
           ],
-          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate.",
+          "post_publication": "ID/URL, metadati e SHA delle cinque immagini pubbliche coerenti con censimento e ispezione pre-commit."
         },
         "checks": {
           "local": {
@@ -3952,16 +3983,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-14T07:17:54.028548+00:00",
+            "article_sha256": "79ed9f9dd448f48f1273cd1ef32009fd12301c322d72609af9ef415f258647e2",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43570334200",
+            "deployment_result": "success",
+            "publication_commit": "b7a86c186fce7862bc00a7a0f981006bf5871440"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "green-skills-formazione-aziendale-dati.html",
               "prompt-injection-formazione-ai-prova-pratica.html",
               "facebook-your-algorithm-contenuti-aziendali.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -4000,7 +4040,7 @@
       ],
       "url": "https://marcododaro.it/green-skills-formazione-aziendale-dati.html",
       "date_published": "2026-11-14T08:15:08+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "green skills formazione aziendale dati",
@@ -4062,7 +4102,8 @@
               "https://images.unsplash.com/photo-1764664035133-0d2ca12016dd"
             ]
           ],
-          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate.",
+          "post_publication": "ID/URL, metadati e SHA delle cinque immagini pubbliche coerenti con censimento e ispezione pre-commit."
         },
         "checks": {
           "local": {
@@ -4070,16 +4111,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-14T07:17:54.031694+00:00",
+            "article_sha256": "c5ca124ad78978099a02da4b6f145bb90b401afcce6703b1872b05d58319ac92",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43570334200",
+            "deployment_result": "success",
+            "publication_commit": "b7a86c186fce7862bc00a7a0f981006bf5871440"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "green-skills-formazione-aziendale-dati.html",
               "prompt-injection-formazione-ai-prova-pratica.html",
               "facebook-your-algorithm-contenuti-aziendali.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
