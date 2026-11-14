@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -611,6 +611,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "3efa8bffaf9e3c622d05d42f238c0dd1a22891ac1fc7382341d75cdf4799245f"
+    },
+    {
+      "article": "linkedin-ctv-ads-mercato-uk.html",
+      "image": "https://images.unsplash.com/photo-1758577515339-93872db0d37e?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/smart-tv-screen-displaying-various-application-icons-eEpNhVL30Qg",
+      "unsplash_id": "eEpNhVL30Qg",
+      "photographer": "Andrey Matveev",
+      "alt": "Schermo di una smart TV con icone di applicazioni su sfondo blu e viola",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "da9e7b8412c6bb4e624e9a2be20ce12accbe94221f326f2ac64768879bdfe066"
+    },
+    {
+      "article": "youtube-lancio-creator-caso-gta-vi.html",
+      "image": "https://images.unsplash.com/photo-1651954396816-7a7a59df322e?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-video-game-controller-WBfhrZA2TAE",
+      "unsplash_id": "WBfhrZA2TAE",
+      "photographer": "Benedict Calano",
+      "alt": "Controller di gioco illuminato da luci viola e rosa",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "4f43bd1bf3d66ac8e98fba17d854b03563923b4c45e7eb2dda7af887b7b43550"
+    },
+    {
+      "article": "facebook-your-algorithm-contenuti-aziendali.html",
+      "image": "https://images.unsplash.com/photo-1703676311066-34caf2cbee33?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8",
+      "unsplash_id": "Z-vPf7KBuT8",
+      "photographer": "Jakub Żerdzicki",
+      "alt": "Smartphone su una superficie rosa e viola",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "fcbbcd8ea8b43c63d6971109178c7b351c60762ff36f35879c5459ea2c317371"
+    },
+    {
+      "article": "prompt-injection-formazione-ai-prova-pratica.html",
+      "image": "https://images.unsplash.com/photo-1772971837855-4f64761b3de1?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/closed-silver-laptop-on-a-yellow-background-R5z9feBGJ3g",
+      "unsplash_id": "R5z9feBGJ3g",
+      "photographer": "Fer Troulik",
+      "alt": "Laptop argentato chiuso su una superficie gialla",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "552a63fd1f393e77f05525307b71477792cfdc8ccd70ee0e4dd0e285264b6b42"
+    },
+    {
+      "article": "green-skills-formazione-aziendale-dati.html",
+      "image": "https://images.unsplash.com/photo-1592263904934-b00851dc93eb?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/solar-panels-on-green-grass-field-under-blue-sky-during-daytime-riFb-zdJ5QA",
+      "unsplash_id": "riFb-zdJ5QA",
+      "photographer": "Gabriel",
+      "alt": "Pannelli fotovoltaici su un prato verde sotto un cielo azzurro",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "1c1f19bf30b27b580931690c33bcf503c1de3e4abb745f389758fa081ad853d4"
     }
   ]
 }

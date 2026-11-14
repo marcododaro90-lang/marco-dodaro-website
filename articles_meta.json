@@ -1186,5 +1186,118 @@
       "https://newsroom.tiktok.com/tiktokshoplivereport?lang=en-GB",
       "https://p16-headlessx-no.tiktokcdn-eu.com/tos-no1a-i-ypbicmctyi-no/f031a63c7c8ed6aa36455d521e85d176.pdf"
     ]
+  },
+  "72": {
+    "file": "linkedin-ctv-ads-mercato-uk.html",
+    "slug": "linkedin-ctv-ads-mercato-uk",
+    "title": "LinkedIn CTV Ads, cosa preparare per il mercato UK",
+    "seo_title": "LinkedIn CTV Ads, cosa preparare per il mercato UK | Marco Dodaro",
+    "desc": "Come valutare le LinkedIn CTV Ads per il pubblico britannico, verificando disponibilità, messaggio video e criteri di misurazione B2B.",
+    "date": "2026-11-14",
+    "category": "Strategia digitale",
+    "minutes": 4,
+    "keyword": "LinkedIn CTV Ads UK",
+    "search_intent": "Valutare mercato di destinazione e preparazione creativa di una campagna CTV B2B.",
+    "image": "https://images.unsplash.com/photo-1758577515339-93872db0d37e?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Schermo di una smart TV con icone di applicazioni su sfondo blu e viola",
+    "image_id": "eEpNhVL30Qg",
+    "image_source": "https://unsplash.com/photos/smart-tv-screen-displaying-various-application-icons-eEpNhVL30Qg",
+    "image_credit": "Andrey Matveev / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://news.linkedin.com/2026/linkedin-expands-ctv-ads-to-the-uk",
+      "https://www.socialistening.it/blog/linkedin-ctv-ads-regno-unito-pubblicita-b2b/",
+      "https://www.linkedin.com/help/lms/answer/a5966603"
+    ]
+  },
+  "73": {
+    "file": "youtube-lancio-creator-caso-gta-vi.html",
+    "slug": "youtube-lancio-creator-caso-gta-vi",
+    "title": "Lanci YouTube con creator, cosa insegna il caso GTA VI",
+    "seo_title": "Lanci YouTube con creator, cosa insegna il caso GTA VI | Marco Dodaro",
+    "desc": "Dal caso YouTube e GTA VI a un lancio con creator sostenibile, collegando Shorts, evento dal vivo, registrazione e materiali successivi.",
+    "date": "2026-11-14",
+    "category": "Creator economy",
+    "minutes": 4,
+    "keyword": "lancio YouTube creator",
+    "search_intent": "Progettare il percorso editoriale prima, durante e dopo un evento con creator.",
+    "image": "https://images.unsplash.com/photo-1651954396816-7a7a59df322e?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Controller di gioco illuminato da luci viola e rosa",
+    "image_id": "WBfhrZA2TAE",
+    "image_source": "https://unsplash.com/photos/a-video-game-controller-WBfhrZA2TAE",
+    "image_credit": "Benedict Calano / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
+      "https://www.socialistening.it/blog/youtube-attivazioni-gta-vi-livestream-shorts/",
+      "https://support.google.com/youtube/answer/14075157?hl=it"
+    ]
+  },
+  "74": {
+    "file": "facebook-your-algorithm-contenuti-aziendali.html",
+    "slug": "facebook-your-algorithm-contenuti-aziendali",
+    "title": "Facebook Your Algorithm e i contenuti aziendali",
+    "seo_title": "Facebook Your Algorithm e i contenuti aziendali | Marco Dodaro",
+    "desc": "Come leggere i controlli Your Algorithm di Facebook senza confondere il feed personale con la distribuzione della pagina e i risultati aziendali.",
+    "date": "2026-11-14",
+    "category": "Strategia digitale",
+    "minutes": 4,
+    "keyword": "Facebook Your Algorithm aziende",
+    "search_intent": "Distinguere preferenze del lettore, pertinenza editoriale e dati misurabili della pagina.",
+    "image": "https://images.unsplash.com/photo-1703676311066-34caf2cbee33?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Smartphone su una superficie rosa e viola",
+    "image_id": "Z-vPf7KBuT8",
+    "image_source": "https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8",
+    "image_credit": "Jakub Żerdzicki / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+      "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
+    ]
+  },
+  "75": {
+    "file": "prompt-injection-formazione-ai-prova-pratica.html",
+    "slug": "prompt-injection-formazione-ai-prova-pratica",
+    "title": "Prompt injection, una prova pratica per la formazione AI",
+    "seo_title": "Prompt injection, una prova pratica per la formazione AI | Marco Dodaro",
+    "desc": "Come spiegare la prompt injection indiretta con un esercizio innocuo, distinguendo verifica degli output, competenze degli utenti e permessi degli agenti.",
+    "date": "2026-11-14",
+    "category": "Intelligenza artificiale",
+    "minutes": 4,
+    "keyword": "prompt injection formazione AI",
+    "search_intent": "Progettare e valutare una prova didattica innocua sul cambio di compito indotto da documenti esterni.",
+    "image": "https://images.unsplash.com/photo-1772971837855-4f64761b3de1?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Laptop argentato chiuso su una superficie gialla",
+    "image_id": "R5z9feBGJ3g",
+    "image_source": "https://unsplash.com/photos/closed-silver-laptop-on-a-yellow-background-R5z9feBGJ3g",
+    "image_credit": "Fer Troulik / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks",
+      "https://www.reddit.com/r/Artificials/comments/1xt1o69/i_tested_prompt_injection_against_an_autonomous/",
+      "https://www.anthropic.com/research/how-we-contain-claude"
+    ]
+  },
+  "76": {
+    "file": "green-skills-formazione-aziendale-dati.html",
+    "slug": "green-skills-formazione-aziendale-dati",
+    "title": "Green skills, progettare la formazione partendo dai dati",
+    "seo_title": "Green skills, progettare la formazione partendo dai dati | Marco Dodaro",
+    "desc": "Come leggere il report LinkedIn Green Skills 2026 e tradurre i bisogni dell’impresa in un esercizio che collega dati, marketing e sostenibilità.",
+    "date": "2026-11-14",
+    "category": "Formazione digitale",
+    "minutes": 4,
+    "keyword": "green skills formazione aziendale dati",
+    "search_intent": "Progettare una consegna formativa su dati e sostenibilità senza dedurre domanda locale o benefici ambientali da metriche improprie.",
+    "image": "https://images.unsplash.com/photo-1592263904934-b00851dc93eb?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Pannelli fotovoltaici su un prato verde sotto un cielo azzurro",
+    "image_id": "riFb-zdJ5QA",
+    "image_source": "https://unsplash.com/photos/solar-panels-on-green-grass-field-under-blue-sky-during-daytime-riFb-zdJ5QA",
+    "image_credit": "Gabriel / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://news.linkedin.com/2026/linkedin-global-green-skills-report-2026-workers-with-green-skills-are-getting-hired",
+      "https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn%3Aaaid%3Aaem%3A6c2ea219-03b9-4c1d-9e39-13b69f236cda/original/as/LinkedIn-Global-Green-Skills-Report-2026.pdf"
+    ]
   }
 }

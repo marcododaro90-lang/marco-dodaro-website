@@ -3501,6 +3501,599 @@
           "density_tier": "low"
         }
       }
+    },
+    {
+      "file": "linkedin-ctv-ads-mercato-uk.html",
+      "slug": "linkedin-ctv-ads-mercato-uk",
+      "title": "LinkedIn CTV Ads, cosa preparare per il mercato UK",
+      "seo_title": "LinkedIn CTV Ads, cosa preparare per il mercato UK | Marco Dodaro",
+      "desc": "Come valutare le LinkedIn CTV Ads per il pubblico britannico, verificando disponibilità, messaggio video e criteri di misurazione B2B.",
+      "date": "2026-11-14",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "LinkedIn CTV Ads UK",
+      "search_intent": "Valutare mercato di destinazione e preparazione creativa di una campagna CTV B2B.",
+      "image": "https://images.unsplash.com/photo-1758577515339-93872db0d37e?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Schermo di una smart TV con icone di applicazioni su sfondo blu e viola",
+      "image_id": "eEpNhVL30Qg",
+      "image_source": "https://unsplash.com/photos/smart-tv-screen-displaying-various-application-icons-eEpNhVL30Qg",
+      "image_credit": "Andrey Matveev / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://news.linkedin.com/2026/linkedin-expands-ctv-ads-to-the-uk",
+        "https://www.socialistening.it/blog/linkedin-ctv-ads-regno-unito-pubblicita-b2b/",
+        "https://www.linkedin.com/help/lms/answer/a5966603"
+      ],
+      "url": "https://marcododaro.it/linkedin-ctv-ads-mercato-uk.html",
+      "date_published": "2026-11-14T08:15:04+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "LinkedIn CTV Ads UK",
+          "intent": "Valutare mercato di destinazione e preparazione creativa di una campagna CTV B2B.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 71,
+          "related_page": "linkedin-thought-leader-ads-campagne-creator-b2b.html",
+          "differentiation": "Nuovo evento CTV UK e pianificazione per pubblico estero; diverso da sponsorizzazione del post di una persona e da ranking organico LinkedIn."
+        },
+        "geekout_checked_at": "2026-11-14T08:15:25+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e nuova edizione del 13 novembre consultati in questo run; scelti temi inediti e verificabili. Archivio riaperto separatamente per ciascuno dei cinque articoli prima del commit, ultima edizione sempre 13 novembre.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/linkedin-ctv-ads-regno-unito-pubblicita-b2b/",
+        "discovery_date": "2026-11-13",
+        "event_date": "2026-11-12",
+        "consulted_at": "2026-11-14T08:15:04+01:00",
+        "evidence_summary": "Annuncio primario 12 novembre: clienti globali, target US/Canada/UK. Help corrente ancora US/Canada, discrepanza resa visibile. 30% riferito a dati LinkedIn 2025 US/Canada, non rendimento italiano. Nuovo evento CTV UK e pianificazione per pubblico estero; diverso da sponsorizzazione del post di una persona e da ranking organico LinkedIn.",
+        "access_limits": "Consultati contenuti pubblici, Social Media Today ed EMARKETER. Indice EMARKETER restituito con voci di marzo, non usato per affermare novità né dati; nessun paywall aggirato o abbonamento. Reddit consultato tramite risultati indicizzati; apertura diretta del thread non disponibile, esperimento non verificato.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titoli normalizzati, slug, body, H2, eventi e fonti di tutti i 71 articoli e delle cinque nuove uscite. Nessuna prima persona nel corpo o esperienza inventata.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 61,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "da9e7b8412c6bb4e624e9a2be20ce12accbe94221f326f2ac64768879bdfe066",
+          "width": 1600,
+          "height": 1200,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1778052404716-b39eef1f17c6"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1614535552837-8865c0acfd06"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1741896135490-4062a3b21abf"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1760360059351-11e70b0025e3"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1764664035187-e89b27d54c7b"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1782029903774-494b95ad1abc"
+            ]
+          ],
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "green-skills-formazione-aziendale-dati.html",
+              "prompt-injection-formazione-ai-prova-pratica.html",
+              "facebook-your-algorithm-contenuti-aziendali.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato nel run, termina con Target page/context/browser closed."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-14-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "youtube-lancio-creator-caso-gta-vi.html",
+      "slug": "youtube-lancio-creator-caso-gta-vi",
+      "title": "Lanci YouTube con creator, cosa insegna il caso GTA VI",
+      "seo_title": "Lanci YouTube con creator, cosa insegna il caso GTA VI | Marco Dodaro",
+      "desc": "Dal caso YouTube e GTA VI a un lancio con creator sostenibile, collegando Shorts, evento dal vivo, registrazione e materiali successivi.",
+      "date": "2026-11-14",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "lancio YouTube creator",
+      "search_intent": "Progettare il percorso editoriale prima, durante e dopo un evento con creator.",
+      "image": "https://images.unsplash.com/photo-1651954396816-7a7a59df322e?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Controller di gioco illuminato da luci viola e rosa",
+      "image_id": "WBfhrZA2TAE",
+      "image_source": "https://unsplash.com/photos/a-video-game-controller-WBfhrZA2TAE",
+      "image_credit": "Benedict Calano / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
+        "https://www.socialistening.it/blog/youtube-attivazioni-gta-vi-livestream-shorts/",
+        "https://support.google.com/youtube/answer/14075157?hl=it"
+      ],
+      "url": "https://marcododaro.it/youtube-lancio-creator-caso-gta-vi.html",
+      "date_published": "2026-11-14T08:15:05+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "lancio YouTube creator",
+          "intent": "Progettare il percorso editoriale prima, durante e dopo un evento con creator.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 71,
+          "related_page": "microdrama-youtube-shorts-serie-brand.html",
+          "differentiation": "Evento GTA VI inedito, modello evento/registrazione museo. Distinto da sceneggiatura microdrama e lancio musicale SoundOn."
+        },
+        "geekout_checked_at": "2026-11-14T08:15:25+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e nuova edizione del 13 novembre consultati in questo run; scelti temi inediti e verificabili. Archivio riaperto separatamente per ciascuno dei cinque articoli prima del commit, ultima edizione sempre 13 novembre.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/youtube-attivazioni-gta-vi-livestream-shorts/",
+        "discovery_date": "2026-11-13",
+        "event_date": "2026-11-12",
+        "consulted_at": "2026-11-14T08:15:04+01:00",
+        "evidence_summary": "Evento GTA VI inedito, modello evento/registrazione museo. Distinto da sceneggiatura microdrama e lancio musicale SoundOn. Esempi operativi originali esplicitamente ipotetici.",
+        "access_limits": "Consultati contenuti pubblici, Social Media Today ed EMARKETER. Indice EMARKETER restituito con voci di marzo, non usato per affermare novità né dati; nessun paywall aggirato o abbonamento. Reddit consultato tramite risultati indicizzati; apertura diretta del thread non disponibile, esperimento non verificato.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titoli normalizzati, slug, body, H2, eventi e fonti di tutti i 71 articoli e delle cinque nuove uscite. Nessuna prima persona nel corpo o esperienza inventata.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 61,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "4f43bd1bf3d66ac8e98fba17d854b03563923b4c45e7eb2dda7af887b7b43550",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "nov14/assets/image-52.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1505751104546-4b63c93054b1"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1637317759414-4fc43302c454"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1741389064022-6d470321710e"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1758691736980-c619fa4203bb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1758873271772-6bbc792c1514"
+            ]
+          ],
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "green-skills-formazione-aziendale-dati.html",
+              "prompt-injection-formazione-ai-prova-pratica.html",
+              "facebook-your-algorithm-contenuti-aziendali.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato nel run, termina con Target page/context/browser closed."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-14-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "facebook-your-algorithm-contenuti-aziendali.html",
+      "slug": "facebook-your-algorithm-contenuti-aziendali",
+      "title": "Facebook Your Algorithm e i contenuti aziendali",
+      "seo_title": "Facebook Your Algorithm e i contenuti aziendali | Marco Dodaro",
+      "desc": "Come leggere i controlli Your Algorithm di Facebook senza confondere il feed personale con la distribuzione della pagina e i risultati aziendali.",
+      "date": "2026-11-14",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "Facebook Your Algorithm aziende",
+      "search_intent": "Distinguere preferenze del lettore, pertinenza editoriale e dati misurabili della pagina.",
+      "image": "https://images.unsplash.com/photo-1703676311066-34caf2cbee33?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Smartphone su una superficie rosa e viola",
+      "image_id": "Z-vPf7KBuT8",
+      "image_source": "https://unsplash.com/photos/a-pink-and-purple-phone-sitting-on-top-of-a-purple-and-pink-background-Z-vPf7KBuT8",
+      "image_credit": "Jakub Żerdzicki / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+        "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"
+      ],
+      "url": "https://marcododaro.it/facebook-your-algorithm-contenuti-aziendali.html",
+      "date_published": "2026-11-14T08:15:06+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Facebook Your Algorithm aziende",
+          "intent": "Distinguere preferenze del lettore, pertinenza editoriale e dati misurabili della pagina.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 71,
+          "related_page": "come-costruire-una-strategia-social-per-unazienda.html",
+          "differentiation": "Prima analisi Your Algorithm nell’archivio. Intento limiti delle osservazioni dal feed personale, diverso da strategia social generale o ranking LinkedIn."
+        },
+        "geekout_checked_at": "2026-11-14T08:15:25+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e nuova edizione del 13 novembre consultati in questo run; scelti temi inediti e verificabili. Archivio riaperto separatamente per ciascuno dei cinque articoli prima del commit, ultima edizione sempre 13 novembre.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/meta-publishes-explainer-on-your-algorithm-controls/874460/",
+        "discovery_date": "2026-11-11",
+        "event_date": "2026-11-10",
+        "consulted_at": "2026-11-14T08:15:04+01:00",
+        "evidence_summary": "Prima analisi Your Algorithm nell’archivio. Intento limiti delle osservazioni dal feed personale, diverso da strategia social generale o ranking LinkedIn. Esempi operativi originali esplicitamente ipotetici.",
+        "access_limits": "Consultati contenuti pubblici, Social Media Today ed EMARKETER. Indice EMARKETER restituito con voci di marzo, non usato per affermare novità né dati; nessun paywall aggirato o abbonamento. Reddit consultato tramite risultati indicizzati; apertura diretta del thread non disponibile, esperimento non verificato.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titoli normalizzati, slug, body, H2, eventi e fonti di tutti i 71 articoli e delle cinque nuove uscite. Nessuna prima persona nel corpo o esperienza inventata.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 61,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "fcbbcd8ea8b43c63d6971109178c7b351c60762ff36f35879c5459ea2c317371",
+          "width": 1600,
+          "height": 1079,
+          "closest": [
+            [
+              14,
+              "nov14/assets/image-65.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1763038311036-6d18805537e5"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1779684998897-ce5de594a5ac"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1505751104546-4b63c93054b1"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1617118601021-4992c028fe5d"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
+            ]
+          ],
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "green-skills-formazione-aziendale-dati.html",
+              "prompt-injection-formazione-ai-prova-pratica.html",
+              "facebook-your-algorithm-contenuti-aziendali.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato nel run, termina con Target page/context/browser closed."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-14-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "prompt-injection-formazione-ai-prova-pratica.html",
+      "slug": "prompt-injection-formazione-ai-prova-pratica",
+      "title": "Prompt injection, una prova pratica per la formazione AI",
+      "seo_title": "Prompt injection, una prova pratica per la formazione AI | Marco Dodaro",
+      "desc": "Come spiegare la prompt injection indiretta con un esercizio innocuo, distinguendo verifica degli output, competenze degli utenti e permessi degli agenti.",
+      "date": "2026-11-14",
+      "category": "Intelligenza artificiale",
+      "minutes": 4,
+      "keyword": "prompt injection formazione AI",
+      "search_intent": "Progettare e valutare una prova didattica innocua sul cambio di compito indotto da documenti esterni.",
+      "image": "https://images.unsplash.com/photo-1772971837855-4f64761b3de1?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Laptop argentato chiuso su una superficie gialla",
+      "image_id": "R5z9feBGJ3g",
+      "image_source": "https://unsplash.com/photos/closed-silver-laptop-on-a-yellow-background-R5z9feBGJ3g",
+      "image_credit": "Fer Troulik / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks",
+        "https://www.reddit.com/r/Artificials/comments/1xt1o69/i_tested_prompt_injection_against_an_autonomous/",
+        "https://www.anthropic.com/research/how-we-contain-claude"
+      ],
+      "url": "https://marcododaro.it/prompt-injection-formazione-ai-prova-pratica.html",
+      "date_published": "2026-11-14T08:15:07+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "prompt injection formazione AI",
+          "intent": "Progettare e valutare una prova didattica innocua sul cambio di compito indotto da documenti esterni.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 71,
+          "related_page": "come-valutare-le-competenze-ai-dei-dipendenti.html",
+          "differentiation": "Primo approfondimento prompt injection. Thread non verificato come spunto; meccanismo su fonti primarie. Distinto da assessment generale e formato Agent Skills."
+        },
+        "geekout_checked_at": "2026-11-14T08:15:25+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e nuova edizione del 13 novembre consultati in questo run; scelti temi inediti e verificabili. Archivio riaperto separatamente per ciascuno dei cinque articoli prima del commit, ultima edizione sempre 13 novembre.",
+        "discovery_source": "Reddit",
+        "discovery_url": "https://www.reddit.com/r/Artificials/comments/1xt1o69/i_tested_prompt_injection_against_an_autonomous/",
+        "discovery_date": "2026-11-10",
+        "event_date": null,
+        "consulted_at": "2026-11-14T08:15:04+01:00",
+        "evidence_summary": "Thread Reddit del 10 novembre come spunto, testimonianza non verificata. Verificato meccanismo in documentazione Anthropic corrente e analisi primaria del 25 maggio 2026. Nessuna nuova vulnerabilità o percentuale generale affermata.",
+        "access_limits": "Consultati contenuti pubblici, Social Media Today ed EMARKETER. Indice EMARKETER restituito con voci di marzo, non usato per affermare novità né dati; nessun paywall aggirato o abbonamento. Reddit consultato tramite risultati indicizzati; apertura diretta del thread non disponibile, esperimento non verificato.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titoli normalizzati, slug, body, H2, eventi e fonti di tutti i 71 articoli e delle cinque nuove uscite. Nessuna prima persona nel corpo o esperienza inventata.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 61,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "552a63fd1f393e77f05525307b71477792cfdc8ccd70ee0e4dd0e285264b6b42",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              4,
+              "nov14/assets/image-53.webp"
+            ],
+            [
+              10,
+              "nov14/assets/image-55.webp"
+            ],
+            [
+              12,
+              "nov14/assets/image-64.webp"
+            ],
+            [
+              14,
+              "https://images.unsplash.com/photo-1735197878057-53101cbcfa6b"
+            ],
+            [
+              14,
+              "nov14/assets/image-40.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1653287805975-065859cd3d63"
+            ]
+          ],
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "green-skills-formazione-aziendale-dati.html",
+              "prompt-injection-formazione-ai-prova-pratica.html",
+              "facebook-your-algorithm-contenuti-aziendali.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato nel run, termina con Target page/context/browser closed."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-14-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "green-skills-formazione-aziendale-dati.html",
+      "slug": "green-skills-formazione-aziendale-dati",
+      "title": "Green skills, progettare la formazione partendo dai dati",
+      "seo_title": "Green skills, progettare la formazione partendo dai dati | Marco Dodaro",
+      "desc": "Come leggere il report LinkedIn Green Skills 2026 e tradurre i bisogni dell’impresa in un esercizio che collega dati, marketing e sostenibilità.",
+      "date": "2026-11-14",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "green skills formazione aziendale dati",
+      "search_intent": "Progettare una consegna formativa su dati e sostenibilità senza dedurre domanda locale o benefici ambientali da metriche improprie.",
+      "image": "https://images.unsplash.com/photo-1592263904934-b00851dc93eb?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Pannelli fotovoltaici su un prato verde sotto un cielo azzurro",
+      "image_id": "riFb-zdJ5QA",
+      "image_source": "https://unsplash.com/photos/solar-panels-on-green-grass-field-under-blue-sky-during-daytime-riFb-zdJ5QA",
+      "image_credit": "Gabriel / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://news.linkedin.com/2026/linkedin-global-green-skills-report-2026-workers-with-green-skills-are-getting-hired",
+        "https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn%3Aaaid%3Aaem%3A6c2ea219-03b9-4c1d-9e39-13b69f236cda/original/as/LinkedIn-Global-Green-Skills-Report-2026.pdf"
+      ],
+      "url": "https://marcododaro.it/green-skills-formazione-aziendale-dati.html",
+      "date_published": "2026-11-14T08:15:08+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "green skills formazione aziendale dati",
+          "intent": "Progettare una consegna formativa su dati e sostenibilità senza dedurre domanda locale o benefici ambientali da metriche improprie.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 71,
+          "related_page": "digcomp-3-prove-competenze-digitali.html",
+          "differentiation": "Prima analisi green skills. Selezione di attività marketing e dati con vincoli di sostenibilità, distinta da catalogo competenze 2026 e progettazione generale DigComp."
+        },
+        "geekout_checked_at": "2026-11-14T08:15:25+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e nuova edizione del 13 novembre consultati in questo run; scelti temi inediti e verificabili. Archivio riaperto separatamente per ciascuno dei cinque articoli prima del commit, ultima edizione sempre 13 novembre.",
+        "discovery_source": "Ricerca su fonte primaria LinkedIn",
+        "discovery_url": "https://news.linkedin.com/2026/linkedin-global-green-skills-report-2026-workers-with-green-skills-are-getting-hired",
+        "discovery_date": "2026-10-22",
+        "event_date": "2026-10-22",
+        "consulted_at": "2026-11-14T08:15:04+01:00",
+        "evidence_summary": "Report LinkedIn 22 ottobre 2026, dati gennaio2021–luglio2026, salvo eccezioni. Metodo PDF36–38 letto e pagina36 ispezionata: soglia due green skills o green job dal2026, ricalcolata al2021. Dati profili LinkedIn non domanda formativa italiana; nessun vantaggio ambientale dedotto da vendite.",
+        "access_limits": "Consultati contenuti pubblici, Social Media Today ed EMARKETER. Indice EMARKETER restituito con voci di marzo, non usato per affermare novità né dati; nessun paywall aggirato o abbonamento. Reddit consultato tramite risultati indicizzati; apertura diretta del thread non disponibile, esperimento non verificato.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titoli normalizzati, slug, body, H2, eventi e fonti di tutti i 71 articoli e delle cinque nuove uscite. Nessuna prima persona nel corpo o esperienza inventata.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 61,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "1c1f19bf30b27b580931690c33bcf503c1de3e4abb745f389758fa081ad853d4",
+          "width": 1600,
+          "height": 1059,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1764162051475-992cc7346073"
+            ],
+            [
+              16,
+              "nov14/assets/image-45.webp"
+            ],
+            [
+              16,
+              "nov14/assets/image-67.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1758691736843-90f58dce465e"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1760565030243-c92ed557e8da"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1764664035133-0d2ca12016dd"
+            ]
+          ],
+          "visual_review": "Foto individuale verificata gratuita sotto Unsplash License; fotografia a colori. Confrontati ID e URL normalizzati contro 71 articoli, SHA256 e pHash multi-ritaglio su 61 foto remote e 68 immagini locali, nessuna incorporata, nessun errore. Le cinque nuove foto confrontate anche fra loro. Ispezionati foto, ritaglio e sei risultati più simili; scartate candidate già note o visivamente non adeguate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "green-skills-formazione-aziendale-dati.html",
+              "prompt-injection-formazione-ai-prova-pratica.html",
+              "facebook-your-algorithm-contenuti-aziendali.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato nel run, termina con Target page/context/browser closed."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-14-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
     }
   ]
 }
