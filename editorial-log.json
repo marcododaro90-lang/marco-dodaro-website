@@ -4167,7 +4167,7 @@
       ],
       "url": "https://marcododaro.it/discord-linux-condivisione-schermo-formazione.html",
       "date_published": "2026-11-15T08:17:20+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Discord Linux condivisione schermo formazione",
@@ -4229,7 +4229,8 @@
               "https://images.unsplash.com/photo-1617118601021-4992c028fe5d"
             ]
           ],
-          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate.",
+          "post_publication": "ID/URL, cover articolo/blog, metadati social e schema coerenti. SHA256 delle cinque immagini pubbliche identico alle foto censite e ispezionate prima del commit."
         },
         "checks": {
           "local": {
@@ -4237,16 +4238,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-15T07:22:46.449517+00:00",
+            "article_sha256": "a26d105d4b316d77c9475b94ccd59690a8f46226d15ff67e181e429802be3fd7",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43689586360",
+            "deployment_result": "success",
+            "publication_commit": "bf7835d1f099e62960ff3f0c3f27224f64b8bee2"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "youtube-playables-accessibilita-formazione.html",
               "report-ricerca-ai-verificare-fonti-corso.html",
               "clip-video-x-contesto-contenuti.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -4286,7 +4296,7 @@
       ],
       "url": "https://marcododaro.it/visite-profilo-linkedin-segnali-commerciali.html",
       "date_published": "2026-11-15T08:17:21+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "visite profilo LinkedIn segnali commerciali",
@@ -4348,7 +4358,8 @@
               "https://images.unsplash.com/photo-1741896135490-4062a3b21abf"
             ]
           ],
-          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate.",
+          "post_publication": "ID/URL, cover articolo/blog, metadati social e schema coerenti. SHA256 delle cinque immagini pubbliche identico alle foto censite e ispezionate prima del commit."
         },
         "checks": {
           "local": {
@@ -4356,16 +4367,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-15T07:22:46.515219+00:00",
+            "article_sha256": "1fb5d4bb235c7d44a54b9bc8feb8111ab0ef1e535c9346a9972afdf9806fdb54",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43689586360",
+            "deployment_result": "success",
+            "publication_commit": "bf7835d1f099e62960ff3f0c3f27224f64b8bee2"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "youtube-playables-accessibilita-formazione.html",
               "report-ricerca-ai-verificare-fonti-corso.html",
               "clip-video-x-contesto-contenuti.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -4404,7 +4424,7 @@
       ],
       "url": "https://marcododaro.it/clip-video-x-contesto-contenuti.html",
       "date_published": "2026-11-15T08:17:22+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "clip video X contesto",
@@ -4466,7 +4486,8 @@
               "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c"
             ]
           ],
-          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate.",
+          "post_publication": "ID/URL, cover articolo/blog, metadati social e schema coerenti. SHA256 delle cinque immagini pubbliche identico alle foto censite e ispezionate prima del commit."
         },
         "checks": {
           "local": {
@@ -4474,16 +4495,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-15T07:22:46.506526+00:00",
+            "article_sha256": "7d72413b55c14b8e93bb513eb879dbdecfb8061f46dfb38c74c2a18f0029f3a7",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43689586360",
+            "deployment_result": "success",
+            "publication_commit": "bf7835d1f099e62960ff3f0c3f27224f64b8bee2"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "youtube-playables-accessibilita-formazione.html",
               "report-ricerca-ai-verificare-fonti-corso.html",
               "clip-video-x-contesto-contenuti.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -4522,7 +4552,7 @@
       ],
       "url": "https://marcododaro.it/report-ricerca-ai-verificare-fonti-corso.html",
       "date_published": "2026-11-15T08:17:23+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "report ricerca AI verificare fonti",
@@ -4584,7 +4614,8 @@
               "https://images.unsplash.com/photo-1732437334226-e96e72272bc4"
             ]
           ],
-          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate.",
+          "post_publication": "ID/URL, cover articolo/blog, metadati social e schema coerenti. SHA256 delle cinque immagini pubbliche identico alle foto censite e ispezionate prima del commit."
         },
         "checks": {
           "local": {
@@ -4592,16 +4623,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-15T07:22:46.514539+00:00",
+            "article_sha256": "bdcfdc7a579a703686bbcfa4ecc05da510a7633b5f1b07b642a52a86a01c1f39",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43689586360",
+            "deployment_result": "success",
+            "publication_commit": "bf7835d1f099e62960ff3f0c3f27224f64b8bee2"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "youtube-playables-accessibilita-formazione.html",
               "report-ricerca-ai-verificare-fonti-corso.html",
               "clip-video-x-contesto-contenuti.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -4640,7 +4680,7 @@
       ],
       "url": "https://marcododaro.it/youtube-playables-accessibilita-formazione.html",
       "date_published": "2026-11-15T08:17:24+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "YouTube Playables accessibilità formazione",
@@ -4702,7 +4742,8 @@
               "https://images.unsplash.com/photo-1714386819907-ce134e3bb0ff"
             ]
           ],
-          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate.",
+          "post_publication": "ID/URL, cover articolo/blog, metadati social e schema coerenti. SHA256 delle cinque immagini pubbliche identico alle foto censite e ispezionate prima del commit."
         },
         "checks": {
           "local": {
@@ -4710,16 +4751,25 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-15T07:22:46.502700+00:00",
+            "article_sha256": "460bd4e828e4e851625f7a0a354f29f88ecfd8bb0f46bb59e3b45eeef836c798",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43689586360",
+            "deployment_result": "success",
+            "publication_commit": "bf7835d1f099e62960ff3f0c3f27224f64b8bee2"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "youtube-playables-accessibilita-formazione.html",
               "report-ricerca-ai-verificare-fonti-corso.html",
               "clip-video-x-contesto-contenuti.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
