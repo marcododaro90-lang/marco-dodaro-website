@@ -1299,5 +1299,115 @@
       "https://news.linkedin.com/2026/linkedin-global-green-skills-report-2026-workers-with-green-skills-are-getting-hired",
       "https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn%3Aaaid%3Aaem%3A6c2ea219-03b9-4c1d-9e39-13b69f236cda/original/as/LinkedIn-Global-Green-Skills-Report-2026.pdf"
     ]
+  },
+  "77": {
+    "file": "discord-linux-condivisione-schermo-formazione.html",
+    "slug": "discord-linux-condivisione-schermo-formazione",
+    "title": "Discord su Linux, preparare la condivisione per un corso",
+    "seo_title": "Discord su Linux, preparare la condivisione per un corso | Marco Dodaro",
+    "desc": "Le novità Discord per Linux e una prova pratica per condividere finestre, audio e materiali durante un corso, con attenzione a ciò che vede il partecipante.",
+    "date": "2026-11-15",
+    "category": "Formazione digitale",
+    "minutes": 4,
+    "keyword": "Discord Linux condivisione schermo formazione",
+    "search_intent": "Preparare una lezione su Discord da Linux verificando visibilità, leggibilità e audio sul dispositivo del partecipante.",
+    "image": "https://images.unsplash.com/photo-1549931368-b04c49887d50?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Due microfoni e una interfaccia audio rossa su una superficie azzurra",
+    "image_id": "-xsLUeciJ6I",
+    "image_source": "https://unsplash.com/photos/red-focusrite-audio-interface-and-two-black-dynamic-microphones--xsLUeciJ6I",
+    "image_credit": "James McKinven / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://discord.com/blog/discord-linux-a-year-of-upgrades"
+    ]
+  },
+  "78": {
+    "file": "visite-profilo-linkedin-segnali-commerciali.html",
+    "slug": "visite-profilo-linkedin-segnali-commerciali",
+    "title": "Visite al profilo LinkedIn, come leggere i segnali commerciali",
+    "seo_title": "Visite al profilo LinkedIn, come leggere i segnali commerciali | Marco Dodaro",
+    "desc": "Visite, apparizioni nelle ricerche e richieste di contatto su LinkedIn: come distinguerle e rendere il profilo utile a chi sta valutando un fornitore.",
+    "date": "2026-11-15",
+    "category": "Strategia digitale",
+    "minutes": 4,
+    "keyword": "visite profilo LinkedIn segnali commerciali",
+    "search_intent": "Distinguere attenzione al profilo e richiesta commerciale, migliorando i contenuti per la valutazione del fornitore.",
+    "image": "https://images.unsplash.com/photo-1671276497874-9e1bb7aeb89e?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Tastiera con tasti colorati su sfondo rosa",
+    "image_id": "xtNiAGbSUIM",
+    "image_source": "https://unsplash.com/photos/a-close-up-of-a-keyboard-on-a-pink-background-xtNiAGbSUIM",
+    "image_credit": "JL Cabrera / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://www.linkedin.com/help/linkedin/answer/a712399",
+      "https://www.linkedin.com/help/linkedin/answer/a567226/browsing-profiles-in-private-and-semi-private-mode?lang=en",
+      "https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/"
+    ]
+  },
+  "79": {
+    "file": "clip-video-x-contesto-contenuti.html",
+    "slug": "clip-video-x-contesto-contenuti",
+    "title": "Clip video su X, conservare contesto e crediti",
+    "seo_title": "Clip video su X, conservare contesto e crediti | Marco Dodaro",
+    "desc": "Come usare il clipping nativo di X per estratti comprensibili, con rimando al video originale, commento pertinente e controllo del contesto.",
+    "date": "2026-11-15",
+    "category": "Creator economy",
+    "minutes": 4,
+    "keyword": "clip video X contesto",
+    "search_intent": "Selezionare un estratto nativo su X che mantenga il significato del video e distinguerlo dal riutilizzo di file su altri canali.",
+    "image": "https://images.unsplash.com/photo-1744948961024-66baaafbb5dc?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Software di modifica fotografica aperto su un laptop, con luci gialle e rosse",
+    "image_id": "PevdsGAUrKA",
+    "image_source": "https://unsplash.com/photos/photo-editing-software-is-shown-on-a-laptop-screen-PevdsGAUrKA",
+    "image_credit": "Zulfugar Karimov / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://help.x.com/en/using-x/clipping",
+      "https://www.socialmediatoday.com/news/x-adds-video-clipping/874341/"
+    ]
+  },
+  "80": {
+    "file": "report-ricerca-ai-verificare-fonti-corso.html",
+    "slug": "report-ricerca-ai-verificare-fonti-corso",
+    "title": "Report di ricerca AI, verificare le fonti prima di un corso",
+    "seo_title": "Report di ricerca AI, verificare le fonti prima di un corso | Marco Dodaro",
+    "desc": "Un metodo per controllare affermazioni e citazioni nei report di ricerca AI prima di trasformarli in slide, esercizi e materiali per la formazione.",
+    "date": "2026-11-15",
+    "category": "Intelligenza artificiale",
+    "minutes": 4,
+    "keyword": "report ricerca AI verificare fonti",
+    "search_intent": "Verificare la corrispondenza fra affermazione e fonte prima di usare un report AI come materiale didattico.",
+    "image": "https://images.unsplash.com/photo-1775590766052-ee31110731f8?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Quaderno chiaro con penna bianca su sfondo giallo",
+    "image_id": "qvscqcd2t7c",
+    "image_source": "https://unsplash.com/photos/a-white-pen-rests-on-a-closed-notebook-qvscqcd2t7c",
+    "image_credit": "Sasun Bughdaryan / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://support.google.com/gemini/answer/15719111?hl=it",
+      "https://support.google.com/mail/answer/16813283?hl=en"
+    ]
+  },
+  "81": {
+    "file": "youtube-playables-accessibilita-formazione.html",
+    "slug": "youtube-playables-accessibilita-formazione",
+    "title": "YouTube Playables, valutare l’accessibilità per la formazione",
+    "seo_title": "YouTube Playables, valutare l’accessibilità per la formazione | Marco Dodaro",
+    "desc": "Le etichette di accessibilità dei giochi YouTube Playables e una verifica operativa per scegliere un’attività adatta a un laboratorio formativo.",
+    "date": "2026-11-15",
+    "category": "Formazione digitale",
+    "minutes": 4,
+    "keyword": "YouTube Playables accessibilità formazione",
+    "search_intent": "Usare le etichette come primo filtro e verificare sul campo un gioco proposto per un’attività formativa.",
+    "image": "https://images.unsplash.com/photo-1630051822408-b80dde2f5681?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Controller Super Nintendo con pulsanti colorati su sfondo giallo",
+    "image_id": "fOYg1lkZA7Y",
+    "image_source": "https://unsplash.com/photos/white-nintendo-game-controller-on-yellow-surface-fOYg1lkZA7Y",
+    "image_credit": "Patrick / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables/",
+      "https://developers.google.com/youtube/gaming/playables/certification/requirements_accessibility"
+    ]
   }
 }

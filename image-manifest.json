@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -666,6 +666,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "1c1f19bf30b27b580931690c33bcf503c1de3e4abb745f389758fa081ad853d4"
+    },
+    {
+      "article": "discord-linux-condivisione-schermo-formazione.html",
+      "image": "https://images.unsplash.com/photo-1549931368-b04c49887d50?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/red-focusrite-audio-interface-and-two-black-dynamic-microphones--xsLUeciJ6I",
+      "unsplash_id": "-xsLUeciJ6I",
+      "photographer": "James McKinven",
+      "alt": "Due microfoni e una interfaccia audio rossa su una superficie azzurra",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "ae65ab0cec25a804ca31ab1f30422bbbba5534a1bcdf066381357f3e4c41f1fd"
+    },
+    {
+      "article": "visite-profilo-linkedin-segnali-commerciali.html",
+      "image": "https://images.unsplash.com/photo-1671276497874-9e1bb7aeb89e?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-close-up-of-a-keyboard-on-a-pink-background-xtNiAGbSUIM",
+      "unsplash_id": "xtNiAGbSUIM",
+      "photographer": "JL Cabrera",
+      "alt": "Tastiera con tasti colorati su sfondo rosa",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "a4810dcfdc121838f3cfeae28144150f5510680e8ea57358ad959c68d3f5b8e4"
+    },
+    {
+      "article": "clip-video-x-contesto-contenuti.html",
+      "image": "https://images.unsplash.com/photo-1744948961024-66baaafbb5dc?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/photo-editing-software-is-shown-on-a-laptop-screen-PevdsGAUrKA",
+      "unsplash_id": "PevdsGAUrKA",
+      "photographer": "Zulfugar Karimov",
+      "alt": "Software di modifica fotografica aperto su un laptop, con luci gialle e rosse",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "e1e07540b96fd3937bd16fdc21761184cab53a150926184d1648cf17c7c50fa1"
+    },
+    {
+      "article": "report-ricerca-ai-verificare-fonti-corso.html",
+      "image": "https://images.unsplash.com/photo-1775590766052-ee31110731f8?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-white-pen-rests-on-a-closed-notebook-qvscqcd2t7c",
+      "unsplash_id": "qvscqcd2t7c",
+      "photographer": "Sasun Bughdaryan",
+      "alt": "Quaderno chiaro con penna bianca su sfondo giallo",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "c3829af31e2d6df283cc41cf7587e17ca6b42317cf4fd79379604c4f1c8b5ec8"
+    },
+    {
+      "article": "youtube-playables-accessibilita-formazione.html",
+      "image": "https://images.unsplash.com/photo-1630051822408-b80dde2f5681?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/white-nintendo-game-controller-on-yellow-surface-fOYg1lkZA7Y",
+      "unsplash_id": "fOYg1lkZA7Y",
+      "photographer": "Patrick",
+      "alt": "Controller Super Nintendo con pulsanti colorati su sfondo giallo",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "b124f9326a43176afe49c8e6ce62b03eb55f36567a2faa02035658d8081d57e8"
     }
   ]
 }

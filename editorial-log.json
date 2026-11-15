@@ -4144,6 +4144,596 @@
           "density_tier": "low"
         }
       }
+    },
+    {
+      "file": "discord-linux-condivisione-schermo-formazione.html",
+      "slug": "discord-linux-condivisione-schermo-formazione",
+      "title": "Discord su Linux, preparare la condivisione per un corso",
+      "seo_title": "Discord su Linux, preparare la condivisione per un corso | Marco Dodaro",
+      "desc": "Le novità Discord per Linux e una prova pratica per condividere finestre, audio e materiali durante un corso, con attenzione a ciò che vede il partecipante.",
+      "date": "2026-11-15",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "Discord Linux condivisione schermo formazione",
+      "search_intent": "Preparare una lezione su Discord da Linux verificando visibilità, leggibilità e audio sul dispositivo del partecipante.",
+      "image": "https://images.unsplash.com/photo-1549931368-b04c49887d50?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Due microfoni e una interfaccia audio rossa su una superficie azzurra",
+      "image_id": "-xsLUeciJ6I",
+      "image_source": "https://unsplash.com/photos/red-focusrite-audio-interface-and-two-black-dynamic-microphones--xsLUeciJ6I",
+      "image_credit": "James McKinven / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://discord.com/blog/discord-linux-a-year-of-upgrades"
+      ],
+      "url": "https://marcododaro.it/discord-linux-condivisione-schermo-formazione.html",
+      "date_published": "2026-11-15T08:17:20+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Discord Linux condivisione schermo formazione",
+          "intent": "Preparare una lezione su Discord da Linux verificando visibilità, leggibilità e audio sul dispositivo del partecipante.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 76,
+          "related_page": "gruppi-whatsapp-corsi-community-aggiornamenti.html",
+          "differentiation": "Prima guida Discord Linux per collaudo schermo e audio didattici; distinta dalla comunicazione asincrona nei gruppi WhatsApp."
+        },
+        "geekout_checked_at": "2026-11-15T08:17:20+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio consultato in questo run e riaperto separatamente per le cinque uscite prima del commit. Ultima edizione visibile13novembre; selezionati temi inediti e verificabili.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/discord-linux-aggiornamenti-automatici-wayland-condivisione-schermo/",
+        "discovery_date": "2026-11-12",
+        "event_date": "2026-11-12",
+        "consulted_at": "2026-11-15T08:17:20+01:00",
+        "evidence_summary": "Annuncio Discord del 12 novembre 2026: client Linux, Wayland/PipeWire, aggiornamenti e audio per-app ancora futuro. Nessun benchmark ripreso.",
+        "access_limits": "Fonti pubbliche consultate. Nessun paywall aggirato o abbonamento attivato. EMARKETER indice con voci datate marzo, non usato per dati o novità. Reddit come spunto da risultati indicizzati; nessuna testimonianza generalizzata. Per LinkedIn WIRED pubblico letto, nessun annuncio primario autonomo del test trovato; attribuzione esplicita alla testata. Tweet X non accessibile403, verificata guida ufficiale.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titolo normalizzato, slug, H1/H2, corpo, evento e fonti di tutti76articoli e delle altre4uscite del giorno. Analisi ed esempi originali, nessuna parafrasi cosmetica; indicazioni operative qualificate come applicabili o ipotetiche.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 66,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "ae65ab0cec25a804ca31ab1f30422bbbba5534a1bcdf066381357f3e4c41f1fd",
+          "width": 1600,
+          "height": 1200,
+          "closest": [
+            [
+              12,
+              "nov15/assets/image-46.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1614535552837-8865c0acfd06"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1760565030243-c92ed557e8da"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1782029903774-494b95ad1abc"
+            ],
+            [
+              16,
+              "new4"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1617118601021-4992c028fe5d"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "youtube-playables-accessibilita-formazione.html",
+              "report-ricerca-ai-verificare-fonti-corso.html",
+              "clip-video-x-contesto-contenuti.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-15-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "visite-profilo-linkedin-segnali-commerciali.html",
+      "slug": "visite-profilo-linkedin-segnali-commerciali",
+      "title": "Visite al profilo LinkedIn, come leggere i segnali commerciali",
+      "seo_title": "Visite al profilo LinkedIn, come leggere i segnali commerciali | Marco Dodaro",
+      "desc": "Visite, apparizioni nelle ricerche e richieste di contatto su LinkedIn: come distinguerle e rendere il profilo utile a chi sta valutando un fornitore.",
+      "date": "2026-11-15",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "visite profilo LinkedIn segnali commerciali",
+      "search_intent": "Distinguere attenzione al profilo e richiesta commerciale, migliorando i contenuti per la valutazione del fornitore.",
+      "image": "https://images.unsplash.com/photo-1671276497874-9e1bb7aeb89e?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Tastiera con tasti colorati su sfondo rosa",
+      "image_id": "xtNiAGbSUIM",
+      "image_source": "https://unsplash.com/photos/a-close-up-of-a-keyboard-on-a-pink-background-xtNiAGbSUIM",
+      "image_credit": "JL Cabrera / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.linkedin.com/help/linkedin/answer/a712399",
+        "https://www.linkedin.com/help/linkedin/answer/a567226/browsing-profiles-in-private-and-semi-private-mode?lang=en",
+        "https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/"
+      ],
+      "url": "https://marcododaro.it/visite-profilo-linkedin-segnali-commerciali.html",
+      "date_published": "2026-11-15T08:17:21+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "visite profilo LinkedIn segnali commerciali",
+          "intent": "Distinguere attenzione al profilo e richiesta commerciale, migliorando i contenuti per la valutazione del fornitore.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 76,
+          "related_page": "contenuti-b2b-scelta-fornitore.html",
+          "differentiation": "Lettura delle visite profilo distinta da distribuzione feed, Ads e contenuti per scelta fornitore; test frequent viewer qualificato."
+        },
+        "geekout_checked_at": "2026-11-15T08:17:20+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio consultato in questo run e riaperto separatamente per le cinque uscite prima del commit. Ultima edizione visibile13novembre; selezionati temi inediti e verificabili.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/linkedin-testa-visitatori-frequenti-profilo/",
+        "discovery_date": "2026-11-12",
+        "event_date": "2026-11-11",
+        "consulted_at": "2026-11-15T08:17:20+01:00",
+        "evidence_summary": "WIRED 11 novembre riferisce conferma LinkedIn di test per alcuni Premium. Guide LinkedIn consultate oggi per metriche e modalità privata. Nessun rollout generale/italiano dedotto.",
+        "access_limits": "Fonti pubbliche consultate. Nessun paywall aggirato o abbonamento attivato. EMARKETER indice con voci datate marzo, non usato per dati o novità. Reddit come spunto da risultati indicizzati; nessuna testimonianza generalizzata. Per LinkedIn WIRED pubblico letto, nessun annuncio primario autonomo del test trovato; attribuzione esplicita alla testata. Tweet X non accessibile403, verificata guida ufficiale.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titolo normalizzato, slug, H1/H2, corpo, evento e fonti di tutti76articoli e delle altre4uscite del giorno. Analisi ed esempi originali, nessuna parafrasi cosmetica; indicazioni operative qualificate come applicabili o ipotetiche.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 66,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "a4810dcfdc121838f3cfeae28144150f5510680e8ea57358ad959c68d3f5b8e4",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1764664035187-e89b27d54c7b"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1781094934965-1cd18427dbb6"
+            ],
+            [
+              16,
+              "nov15/assets/image-46.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1653287805975-065859cd3d63"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1703676311066-34caf2cbee33"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1741896135490-4062a3b21abf"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "youtube-playables-accessibilita-formazione.html",
+              "report-ricerca-ai-verificare-fonti-corso.html",
+              "clip-video-x-contesto-contenuti.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-15-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "clip-video-x-contesto-contenuti.html",
+      "slug": "clip-video-x-contesto-contenuti",
+      "title": "Clip video su X, conservare contesto e crediti",
+      "seo_title": "Clip video su X, conservare contesto e crediti | Marco Dodaro",
+      "desc": "Come usare il clipping nativo di X per estratti comprensibili, con rimando al video originale, commento pertinente e controllo del contesto.",
+      "date": "2026-11-15",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "clip video X contesto",
+      "search_intent": "Selezionare un estratto nativo su X che mantenga il significato del video e distinguerlo dal riutilizzo di file su altri canali.",
+      "image": "https://images.unsplash.com/photo-1744948961024-66baaafbb5dc?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Software di modifica fotografica aperto su un laptop, con luci gialle e rosse",
+      "image_id": "PevdsGAUrKA",
+      "image_source": "https://unsplash.com/photos/photo-editing-software-is-shown-on-a-laptop-screen-PevdsGAUrKA",
+      "image_credit": "Zulfugar Karimov / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://help.x.com/en/using-x/clipping",
+        "https://www.socialmediatoday.com/news/x-adds-video-clipping/874341/"
+      ],
+      "url": "https://marcododaro.it/clip-video-x-contesto-contenuti.html",
+      "date_published": "2026-11-15T08:17:22+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "clip video X contesto",
+          "intent": "Selezionare un estratto nativo su X che mantenga il significato del video e distinguerlo dal riutilizzo di file su altri canali.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 76,
+          "related_page": "come-trasformare-un-articolo-in-contenuti-per-tutti-i-social.html",
+          "differentiation": "Nuova funzione clipping X e integrità del passaggio; distinta da riadattamento articoli, montaggio Edits e accordi generali usage rights."
+        },
+        "geekout_checked_at": "2026-11-15T08:17:20+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio consultato in questo run e riaperto separatamente per le cinque uscite prima del commit. Ultima edizione visibile13novembre; selezionati temi inediti e verificabili.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/x-adds-video-clipping/874341/",
+        "discovery_date": "2026-11-10",
+        "event_date": "2026-11-10",
+        "consulted_at": "2026-11-15T08:17:20+01:00",
+        "evidence_summary": "SMT 10 novembre come scoperta; guida primaria X consultata oggi: video preregistrati almeno2min,5–60sec,max30%,mobile e web futuro, disponibilitàvariabile.",
+        "access_limits": "Fonti pubbliche consultate. Nessun paywall aggirato o abbonamento attivato. EMARKETER indice con voci datate marzo, non usato per dati o novità. Reddit come spunto da risultati indicizzati; nessuna testimonianza generalizzata. Per LinkedIn WIRED pubblico letto, nessun annuncio primario autonomo del test trovato; attribuzione esplicita alla testata. Tweet X non accessibile403, verificata guida ufficiale.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titolo normalizzato, slug, H1/H2, corpo, evento e fonti di tutti76articoli e delle altre4uscite del giorno. Analisi ed esempi originali, nessuna parafrasi cosmetica; indicazioni operative qualificate come applicabili o ipotetiche.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 66,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "e1e07540b96fd3937bd16fdc21761184cab53a150926184d1648cf17c7c50fa1",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1758691736843-90f58dce465e"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1764664035133-0d2ca12016dd"
+            ],
+            [
+              16,
+              "nov15/assets/image-65.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1617118601021-4992c028fe5d"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1637317759414-4fc43302c454"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "youtube-playables-accessibilita-formazione.html",
+              "report-ricerca-ai-verificare-fonti-corso.html",
+              "clip-video-x-contesto-contenuti.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-15-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "report-ricerca-ai-verificare-fonti-corso.html",
+      "slug": "report-ricerca-ai-verificare-fonti-corso",
+      "title": "Report di ricerca AI, verificare le fonti prima di un corso",
+      "seo_title": "Report di ricerca AI, verificare le fonti prima di un corso | Marco Dodaro",
+      "desc": "Un metodo per controllare affermazioni e citazioni nei report di ricerca AI prima di trasformarli in slide, esercizi e materiali per la formazione.",
+      "date": "2026-11-15",
+      "category": "Intelligenza artificiale",
+      "minutes": 4,
+      "keyword": "report ricerca AI verificare fonti",
+      "search_intent": "Verificare la corrispondenza fra affermazione e fonte prima di usare un report AI come materiale didattico.",
+      "image": "https://images.unsplash.com/photo-1775590766052-ee31110731f8?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Quaderno chiaro con penna bianca su sfondo giallo",
+      "image_id": "qvscqcd2t7c",
+      "image_source": "https://unsplash.com/photos/a-white-pen-rests-on-a-closed-notebook-qvscqcd2t7c",
+      "image_credit": "Sasun Bughdaryan / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://support.google.com/gemini/answer/15719111?hl=it",
+        "https://support.google.com/mail/answer/16813283?hl=en"
+      ],
+      "url": "https://marcododaro.it/report-ricerca-ai-verificare-fonti-corso.html",
+      "date_published": "2026-11-15T08:17:23+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "report ricerca AI verificare fonti",
+          "intent": "Verificare la corrispondenza fra affermazione e fonte prima di usare un report AI come materiale didattico.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 76,
+          "related_page": "notebooklm-fonti-corso-aggiornamento.html",
+          "differentiation": "Corrispondenza affermazione-fonte prima delle slide; distinta da sincronizzazione NotebookLM e sicurezza prompt injection."
+        },
+        "geekout_checked_at": "2026-11-15T08:17:20+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio consultato in questo run e riaperto separatamente per le cinque uscite prima del commit. Ultima edizione visibile13novembre; selezionati temi inediti e verificabili.",
+        "discovery_source": "Reddit, domanda individuale",
+        "discovery_url": "https://www.reddit.com/r/ChatGPT/comments/1xdwbie/how_can_i_get_those_popup_sources/",
+        "discovery_date": "2026-10-24",
+        "event_date": null,
+        "consulted_at": "2026-11-15T08:17:20+01:00",
+        "evidence_summary": "Thread Reddit24ottobre come domanda individuale, non prova generalizzata. Guide Google consultate15novembre: piano DeepResearch e cautele fonti Workspace; scope esplicitamente distinto.",
+        "access_limits": "Fonti pubbliche consultate. Nessun paywall aggirato o abbonamento attivato. EMARKETER indice con voci datate marzo, non usato per dati o novità. Reddit come spunto da risultati indicizzati; nessuna testimonianza generalizzata. Per LinkedIn WIRED pubblico letto, nessun annuncio primario autonomo del test trovato; attribuzione esplicita alla testata. Tweet X non accessibile403, verificata guida ufficiale.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titolo normalizzato, slug, H1/H2, corpo, evento e fonti di tutti76articoli e delle altre4uscite del giorno. Analisi ed esempi originali, nessuna parafrasi cosmetica; indicazioni operative qualificate come applicabili o ipotetiche.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 66,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "c3829af31e2d6df283cc41cf7587e17ca6b42317cf4fd79379604c4f1c8b5ec8",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1764162051475-992cc7346073"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1764581659095-ad0447049ce0"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1764664035176-8e92ff4f128e"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1614535552837-8865c0acfd06"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1636647677481-f134fda3f408"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1732437334226-e96e72272bc4"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "youtube-playables-accessibilita-formazione.html",
+              "report-ricerca-ai-verificare-fonti-corso.html",
+              "clip-video-x-contesto-contenuti.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-15-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "youtube-playables-accessibilita-formazione.html",
+      "slug": "youtube-playables-accessibilita-formazione",
+      "title": "YouTube Playables, valutare l’accessibilità per la formazione",
+      "seo_title": "YouTube Playables, valutare l’accessibilità per la formazione | Marco Dodaro",
+      "desc": "Le etichette di accessibilità dei giochi YouTube Playables e una verifica operativa per scegliere un’attività adatta a un laboratorio formativo.",
+      "date": "2026-11-15",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "YouTube Playables accessibilità formazione",
+      "search_intent": "Usare le etichette come primo filtro e verificare sul campo un gioco proposto per un’attività formativa.",
+      "image": "https://images.unsplash.com/photo-1630051822408-b80dde2f5681?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Controller Super Nintendo con pulsanti colorati su sfondo giallo",
+      "image_id": "fOYg1lkZA7Y",
+      "image_source": "https://unsplash.com/photos/white-nintendo-game-controller-on-yellow-surface-fOYg1lkZA7Y",
+      "image_credit": "Patrick / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables/",
+        "https://developers.google.com/youtube/gaming/playables/certification/requirements_accessibility"
+      ],
+      "url": "https://marcododaro.it/youtube-playables-accessibilita-formazione.html",
+      "date_published": "2026-11-15T08:17:24+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "YouTube Playables accessibilità formazione",
+          "intent": "Usare le etichette come primo filtro e verificare sul campo un gioco proposto per un’attività formativa.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 76,
+          "related_page": "digcomp-3-prove-competenze-digitali.html",
+          "differentiation": "Accessibilità della selezione e consegna con Playables; distinta da valutazione generale DigComp e lanci creator YouTube."
+        },
+        "geekout_checked_at": "2026-11-15T08:17:20+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio consultato in questo run e riaperto separatamente per le cinque uscite prima del commit. Ultima edizione visibile13novembre; selezionati temi inediti e verificabili.",
+        "discovery_source": "YouTube Blog",
+        "discovery_url": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables/",
+        "discovery_date": "2026-11-02",
+        "event_date": "2026-11-02",
+        "consulted_at": "2026-11-15T08:17:20+01:00",
+        "evidence_summary": "Annuncio YouTube2novembre24etichette. Requisiti sviluppatori26ottobre distinguono raccomandazioni e divieto tag inaccurati. Nessun beneficio didattico o certificazione universale dedotto.",
+        "access_limits": "Fonti pubbliche consultate. Nessun paywall aggirato o abbonamento attivato. EMARKETER indice con voci datate marzo, non usato per dati o novità. Reddit come spunto da risultati indicizzati; nessuna testimonianza generalizzata. Per LinkedIn WIRED pubblico letto, nessun annuncio primario autonomo del test trovato; attribuzione esplicita alla testata. Tweet X non accessibile403, verificata guida ufficiale.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi. Confrontati titolo normalizzato, slug, H1/H2, corpo, evento e fonti di tutti76articoli e delle altre4uscite del giorno. Analisi ed esempi originali, nessuna parafrasi cosmetica; indicazioni operative qualificate come applicabili o ipotetiche.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 66,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "b124f9326a43176afe49c8e6ce62b03eb55f36567a2faa02035658d8081d57e8",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1764581659095-ad0447049ce0"
+            ],
+            [
+              16,
+              "nov15/assets/image-39.webp"
+            ],
+            [
+              16,
+              "nov15/assets/image-63.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1714386819907-ce134e3bb0ff"
+            ]
+          ],
+          "visual_review": "Licenza gratuita verificata sulla pagina individuale. ID e URL normalizzati confrontati con tutti76articoli e file HTML/meta/log/manifest. SHA256 e pHash multi-ritaglio sulle66foto remote e68immagini locali, nessuna incorporata, nessun errore. Confronto anche fra le cinque candidate finali. Ispezionate fotografia, sei immagini più vicine e ritaglio panoramico; candidate scure o poco vivaci scartate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "youtube-playables-accessibilita-formazione.html",
+              "report-ricerca-ai-verificare-fonti-corso.html",
+              "clip-video-x-contesto-contenuti.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-15-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
     }
   ]
 }
