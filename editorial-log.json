@@ -4807,7 +4807,7 @@
       ],
       "url": "https://marcododaro.it/muse-spaces-prototipo-attivita-ricorrente.html",
       "date_published": "2026-11-16T08:14:46+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Muse Spaces prototipo attività ricorrente",
@@ -4869,7 +4869,8 @@
               "https://images.unsplash.com/photo-1630051822408-b80dde2f5681"
             ]
           ],
-          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate.",
+          "post_publication": "ID/URL, fotografie articolo/blog/home, OG/Twitter e schema coerenti. SHA256 delle cinque foto pubbliche identico al censimento pre-commit; confronto completo dei file pubblici riuscito."
         },
         "checks": {
           "local": {
@@ -4877,22 +4878,36 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-16T07:19:01.809226+00:00",
+            "article_sha256": "c62f7421cfe88c562a1a2fb0e3f252d68958667af451ef726c3c80d9c15533f5",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43822849469",
+            "deployment_result": "success",
+            "publication_commit": "79a94ec44786fb7cf6d1a236d1e45d6cc241ee73"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "credenziali-digitali-europass-verificare-attestato.html",
               "utm-webinar-ga4-acquisizione-traffico.html",
               "youtube-hype-gemme-valutare-sostegno-pubblico.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
             "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
           },
-          "search_console": "not_accessed"
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 41372,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
         },
         "instagram": {
           "status": "draft_not_published",
@@ -4926,7 +4941,7 @@
       ],
       "url": "https://marcododaro.it/app-store-retention-messages-abbonamenti.html",
       "date_published": "2026-11-16T08:14:47+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "App Store Retention Messages abbonamenti",
@@ -4988,7 +5003,8 @@
               "https://images.unsplash.com/photo-1760565030243-c92ed557e8da"
             ]
           ],
-          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate.",
+          "post_publication": "ID/URL, fotografie articolo/blog/home, OG/Twitter e schema coerenti. SHA256 delle cinque foto pubbliche identico al censimento pre-commit; confronto completo dei file pubblici riuscito."
         },
         "checks": {
           "local": {
@@ -4996,22 +5012,36 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-16T07:19:01.788818+00:00",
+            "article_sha256": "e78f14768bd15196aa72ad99697d082b6fc3613cab2a79ad7684a12b3290ef50",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43822849469",
+            "deployment_result": "success",
+            "publication_commit": "79a94ec44786fb7cf6d1a236d1e45d6cc241ee73"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "credenziali-digitali-europass-verificare-attestato.html",
               "utm-webinar-ga4-acquisizione-traffico.html",
               "youtube-hype-gemme-valutare-sostegno-pubblico.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
             "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
           },
-          "search_console": "not_accessed"
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 41599,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
         },
         "instagram": {
           "status": "draft_not_published",
@@ -5046,7 +5076,7 @@
       ],
       "url": "https://marcododaro.it/youtube-hype-gemme-valutare-sostegno-pubblico.html",
       "date_published": "2026-11-16T08:14:48+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "YouTube Hype Gemme Italia",
@@ -5108,7 +5138,8 @@
               "https://images.unsplash.com/photo-1671276497874-9e1bb7aeb89e"
             ]
           ],
-          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate.",
+          "post_publication": "ID/URL, fotografie articolo/blog/home, OG/Twitter e schema coerenti. SHA256 delle cinque foto pubbliche identico al censimento pre-commit; confronto completo dei file pubblici riuscito."
         },
         "checks": {
           "local": {
@@ -5116,22 +5147,36 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-16T07:19:01.829106+00:00",
+            "article_sha256": "0d3697efcee08960c0e786b21b95bf93e3f55d71443ec76c718dddedad7cbaa8",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43822849469",
+            "deployment_result": "success",
+            "publication_commit": "79a94ec44786fb7cf6d1a236d1e45d6cc241ee73"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "credenziali-digitali-europass-verificare-attestato.html",
               "utm-webinar-ga4-acquisizione-traffico.html",
               "youtube-hype-gemme-valutare-sostegno-pubblico.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
             "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
           },
-          "search_console": "not_accessed"
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 41687,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
         },
         "instagram": {
           "status": "draft_not_published",
@@ -5164,7 +5209,7 @@
       ],
       "url": "https://marcododaro.it/utm-webinar-ga4-acquisizione-traffico.html",
       "date_published": "2026-11-16T08:14:49+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "UTM webinar GA4 acquisizione traffico",
@@ -5226,7 +5271,8 @@
               "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c"
             ]
           ],
-          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate.",
+          "post_publication": "ID/URL, fotografie articolo/blog/home, OG/Twitter e schema coerenti. SHA256 delle cinque foto pubbliche identico al censimento pre-commit; confronto completo dei file pubblici riuscito."
         },
         "checks": {
           "local": {
@@ -5234,22 +5280,36 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-16T07:19:01.809327+00:00",
+            "article_sha256": "5253e8ea94d17c54f92e635be98f89a259da628b85453bbc50c38d41d44ee2d9",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43822849469",
+            "deployment_result": "success",
+            "publication_commit": "79a94ec44786fb7cf6d1a236d1e45d6cc241ee73"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "credenziali-digitali-europass-verificare-attestato.html",
               "utm-webinar-ga4-acquisizione-traffico.html",
               "youtube-hype-gemme-valutare-sostegno-pubblico.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
             "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
           },
-          "search_console": "not_accessed"
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 41380,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
         },
         "instagram": {
           "status": "draft_not_published",
@@ -5283,7 +5343,7 @@
       ],
       "url": "https://marcododaro.it/credenziali-digitali-europass-verificare-attestato.html",
       "date_published": "2026-11-16T08:14:50+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "credenziali digitali Europass verificare attestato",
@@ -5345,7 +5405,8 @@
               "NEW3"
             ]
           ],
-          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate.",
+          "post_publication": "ID/URL, fotografie articolo/blog/home, OG/Twitter e schema coerenti. SHA256 delle cinque foto pubbliche identico al censimento pre-commit; confronto completo dei file pubblici riuscito."
         },
         "checks": {
           "local": {
@@ -5353,22 +5414,36 @@
             "checks": 44
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-16T07:19:01.817904+00:00",
+            "article_sha256": "cd87ebddc6e8c0135fe21e384f9f1bb62f2ec14a26d77570b810da27899c130b",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/43822849469",
+            "deployment_result": "success",
+            "publication_commit": "79a94ec44786fb7cf6d1a236d1e45d6cc241ee73"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "credenziali-digitali-europass-verificare-attestato.html",
               "utm-webinar-ga4-acquisizione-traffico.html",
               "youtube-hype-gemme-valutare-sostegno-pubblico.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
             "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
           },
-          "search_console": "not_accessed"
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 42325,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
         },
         "instagram": {
           "status": "draft_not_published",
