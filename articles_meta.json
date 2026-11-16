@@ -1409,5 +1409,118 @@
       "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables/",
       "https://developers.google.com/youtube/gaming/playables/certification/requirements_accessibility"
     ]
+  },
+  "82": {
+    "file": "muse-spaces-prototipo-attivita-ricorrente.html",
+    "slug": "muse-spaces-prototipo-attivita-ricorrente",
+    "title": "Muse Spaces, progettare un prototipo per un’attività ricorrente",
+    "seo_title": "Muse Spaces, progettare un prototipo per un’attività ricorrente | Marco Dodaro",
+    "desc": "Come valutare gli Spaces di Meta Muse su un compito circoscritto, distinguendo interfaccia personale, dati da controllare e requisiti di lavoro del team.",
+    "date": "2026-11-16",
+    "category": "Intelligenza artificiale",
+    "minutes": 4,
+    "keyword": "Muse Spaces prototipo attività ricorrente",
+    "search_intent": "Definire e collaudare un prototipo personale per una routine, senza dedurre capacità collaborative o integrazioni aziendali non verificate.",
+    "image": "https://images.unsplash.com/photo-1705907014767-1c1a4d8ce6be?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Laptop con tastiera e mouse su una scrivania rosa",
+    "image_id": "MjxjFpYk-_w",
+    "image_source": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-pink-desk-MjxjFpYk-_w",
+    "image_credit": "Jakub Żerdzicki / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
+    ]
+  },
+  "83": {
+    "file": "app-store-retention-messages-abbonamenti.html",
+    "slug": "app-store-retention-messages-abbonamenti",
+    "title": "App Store Retention Messages, valutare le cancellazioni",
+    "seo_title": "App Store Retention Messages, valutare le cancellazioni | Marco Dodaro",
+    "desc": "I messaggi di retention dell’App Store e un metodo per distinguere chiarezza dell’offerta, sconti e continuità effettiva degli abbonamenti digitali.",
+    "date": "2026-11-16",
+    "category": "Creator economy",
+    "minutes": 4,
+    "keyword": "App Store Retention Messages abbonamenti",
+    "search_intent": "Valutare un messaggio nel percorso di cancellazione di un abbonamento in-app, senza scambiare una risposta immediata con un rinnovo.",
+    "image": "https://images.unsplash.com/photo-1779094041686-80b6fbde953c?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Retro di uno smartphone azzurro su sfondo arancione",
+    "image_id": "Kvcst06CY1M",
+    "image_source": "https://unsplash.com/photos/a-light-blue-smartphone-on-an-orange-background-Kvcst06CY1M",
+    "image_credit": "Georgiy Lyamin / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://developer.apple.com/news/?id=fk9ps3gv",
+      "https://developer.apple.com/documentation/retentionmessaging",
+      "https://developer.apple.com/documentation/analytics-reports/app-store-retention-messaging"
+    ]
+  },
+  "84": {
+    "file": "youtube-hype-gemme-valutare-sostegno-pubblico.html",
+    "slug": "youtube-hype-gemme-valutare-sostegno-pubblico",
+    "title": "YouTube Hype con Gemme, come valutare il sostegno del pubblico",
+    "seo_title": "YouTube Hype con Gemme, come valutare il sostegno del pubblico | Marco Dodaro",
+    "desc": "Hype con Gemme arriva anche in Italia per i canali idonei. Come distinguere punti, sostegno economico e risultati editoriali senza promettere visibilità.",
+    "date": "2026-11-16",
+    "category": "Creator economy",
+    "minutes": 4,
+    "keyword": "YouTube Hype Gemme Italia",
+    "search_intent": "Valutare l’idoneità e leggere il sostegno a pagamento separatamente dalla fruizione del contenuto e dai risultati commerciali.",
+    "image": "https://images.unsplash.com/photo-1739742473336-97631515d5eb?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Fotocamera vista dall’alto su sfondo arancione",
+    "image_id": "u67GBtLNt2k",
+    "image_source": "https://unsplash.com/photos/a-camera-on-a-yellow-background-with-a-black-lens-u67GBtLNt2k",
+    "image_credit": "Cemrecan Yurtman / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://support.google.com/youtube/blog/476738871/expanding-the-ability-to-hype-with-jewels-to-more-markets",
+      "https://support.google.com/youtube/answer/15509925?hl=it",
+      "https://support.google.com/youtube/answer/15333704?hl=it",
+      "https://support.google.com/youtube/answer/15334500?hl=it"
+    ]
+  },
+  "85": {
+    "file": "utm-webinar-ga4-acquisizione-traffico.html",
+    "slug": "utm-webinar-ga4-acquisizione-traffico",
+    "title": "UTM per un webinar, leggere la provenienza in GA4",
+    "seo_title": "UTM per un webinar, leggere la provenienza in GA4 | Marco Dodaro",
+    "desc": "Come organizzare i link UTM di un webinar e controllare sorgente, mezzo e campagna in GA4, distinguendo visite, invii del modulo e iscrizioni confermate.",
+    "date": "2026-11-16",
+    "category": "Strategia digitale",
+    "minutes": 4,
+    "keyword": "UTM webinar GA4 acquisizione traffico",
+    "search_intent": "Preparare nomi coerenti per link esterni e controllare la provenienza delle sessioni senza equiparare visite e iscrizioni confermate.",
+    "image": "https://images.unsplash.com/photo-1754928661583-d04a5f4d9f7f?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Mouse bianco su una superficie gialla",
+    "image_id": "7eZeXqKAywU",
+    "image_source": "https://unsplash.com/photos/white-computer-mouse-on-a-yellow-background-7eZeXqKAywU",
+    "image_credit": "Andrey Matveev / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://support.google.com/analytics/answer/10917952?hl=it",
+      "https://support.google.com/analytics/answer/12923437?hl=it"
+    ]
+  },
+  "86": {
+    "file": "credenziali-digitali-europass-verificare-attestato.html",
+    "slug": "credenziali-digitali-europass-verificare-attestato",
+    "title": "Credenziali digitali Europass, come verificare un attestato",
+    "seo_title": "Credenziali digitali Europass, come verificare un attestato | Marco Dodaro",
+    "desc": "Come leggere una credenziale digitale Europass, distinguendo verifica tecnica, contenuti dichiarati e prove di apprendimento utili per aziende ed enti.",
+    "date": "2026-11-16",
+    "category": "Formazione digitale",
+    "minutes": 4,
+    "keyword": "credenziali digitali Europass verificare attestato",
+    "search_intent": "Controllare origine e contenuto di una credenziale EDC e capire quali evidenze servono per valutare il risultato formativo.",
+    "image": "https://images.unsplash.com/photo-1646318591979-1f5f1ffec11c?auto=format&fit=max&w=1600&q=82",
+    "image_alt": "Matite colorate disposte su una scrivania",
+    "image_id": "AWxDuxOIOkM",
+    "image_source": "https://unsplash.com/photos/a-group-of-colored-pencils-sitting-on-top-of-each-other-AWxDuxOIOkM",
+    "image_credit": "Josephina Kolpachnikof / Unsplash",
+    "image_license": "Unsplash License",
+    "sources": [
+      "https://europass.europa.eu/en/european-digital-credentials",
+      "https://europass.europa.eu/en/stakeholders/european-digital-credentials/using-european-digital-credentials-learning",
+      "https://europass.europa.eu/en/european-digital-credentials-learning"
+    ]
   }
 }

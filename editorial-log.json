@@ -4784,6 +4784,599 @@
           "density_tier": "low"
         }
       }
+    },
+    {
+      "file": "muse-spaces-prototipo-attivita-ricorrente.html",
+      "slug": "muse-spaces-prototipo-attivita-ricorrente",
+      "title": "Muse Spaces, progettare un prototipo per un’attività ricorrente",
+      "seo_title": "Muse Spaces, progettare un prototipo per un’attività ricorrente | Marco Dodaro",
+      "desc": "Come valutare gli Spaces di Meta Muse su un compito circoscritto, distinguendo interfaccia personale, dati da controllare e requisiti di lavoro del team.",
+      "date": "2026-11-16",
+      "category": "Intelligenza artificiale",
+      "minutes": 4,
+      "keyword": "Muse Spaces prototipo attività ricorrente",
+      "search_intent": "Definire e collaudare un prototipo personale per una routine, senza dedurre capacità collaborative o integrazioni aziendali non verificate.",
+      "image": "https://images.unsplash.com/photo-1705907014767-1c1a4d8ce6be?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Laptop con tastiera e mouse su una scrivania rosa",
+      "image_id": "MjxjFpYk-_w",
+      "image_source": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-pink-desk-MjxjFpYk-_w",
+      "image_credit": "Jakub Żerdzicki / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
+      ],
+      "url": "https://marcododaro.it/muse-spaces-prototipo-attivita-ricorrente.html",
+      "date_published": "2026-11-16T08:14:46+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Muse Spaces prototipo attività ricorrente",
+          "intent": "Definire e collaudare un prototipo personale per una routine, senza dedurre capacità collaborative o integrazioni aziendali non verificate.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 81,
+          "related_page": "agent-skills-procedure-aziendali-riutilizzabili.html",
+          "differentiation": "Primo articolo sugli Spaces di Muse. Intento di prototipazione di una interfaccia personale, distinto dal formato Agent Skills e dal ruolo ingegneristico Frontier Deployed Engineer."
+        },
+        "geekout_checked_at": "2026-11-16T08:14:46+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e ultima edizione13novembre consultati in questo run. Archivio riaperto separatamente per ciascuna delle5uscite prima del commit; nessuna edizione più recente visibile.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/meta-muse-spaces-mini-app-gestione-attivita/",
+        "discovery_date": "2026-11-09",
+        "event_date": "2026-11-06",
+        "consulted_at": "2026-11-16T08:14:46+01:00",
+        "evidence_summary": "Meta6novembre: interfacce personalizzate create descrivendo idea, collocabili sidebar/tab; connessioni app per aggiornamenti secondo fornitore. Condivisione con altri esplorata, non dichiarata disponibile. Nessun dato prestazionale o rollout italiano presunto.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento attivato o paywall aggirato. EMARKETER indice restituito con articoli datati marzo, non usato per dati attuali. Social Media Today e Geekout controllati; fonte primaria usata per fatti. Thread Reddit letto nei risultati indicizzati, non generalizzato. Annuncio YouTube6novembre restituisce shell all’apertura: testo ufficiale indicizzato e guide italiane correnti come riscontro. Documentazione Apple letta anche tramite JSON pubblico ufficiale del report per superare il rendering JavaScript, senza aggirare accessi.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi, confronto cumulativo titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti di tutti81articoli e delle altre4uscite. Intenti distinti; esempi dichiarati ipotetici, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 71,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "7ca4369f820feb934b2b09328413d48ead91fccf60fdf8afe9c8494fbd4ab19e",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              14,
+              "nov16/assets/image-63.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1614535552837-8865c0acfd06"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1758577515339-93872db0d37e"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1779896411954-9129882c996d"
+            ],
+            [
+              16,
+              "nov16/assets/image-55.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1630051822408-b80dde2f5681"
+            ]
+          ],
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "credenziali-digitali-europass-verificare-attestato.html",
+              "utm-webinar-ga4-acquisizione-traffico.html",
+              "youtube-hype-gemme-valutare-sostegno-pubblico.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-16-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "medium"
+        }
+      }
+    },
+    {
+      "file": "app-store-retention-messages-abbonamenti.html",
+      "slug": "app-store-retention-messages-abbonamenti",
+      "title": "App Store Retention Messages, valutare le cancellazioni",
+      "seo_title": "App Store Retention Messages, valutare le cancellazioni | Marco Dodaro",
+      "desc": "I messaggi di retention dell’App Store e un metodo per distinguere chiarezza dell’offerta, sconti e continuità effettiva degli abbonamenti digitali.",
+      "date": "2026-11-16",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "App Store Retention Messages abbonamenti",
+      "search_intent": "Valutare un messaggio nel percorso di cancellazione di un abbonamento in-app, senza scambiare una risposta immediata con un rinnovo.",
+      "image": "https://images.unsplash.com/photo-1779094041686-80b6fbde953c?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Retro di uno smartphone azzurro su sfondo arancione",
+      "image_id": "Kvcst06CY1M",
+      "image_source": "https://unsplash.com/photos/a-light-blue-smartphone-on-an-orange-background-Kvcst06CY1M",
+      "image_credit": "Georgiy Lyamin / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://developer.apple.com/news/?id=fk9ps3gv",
+        "https://developer.apple.com/documentation/retentionmessaging",
+        "https://developer.apple.com/documentation/analytics-reports/app-store-retention-messaging"
+      ],
+      "url": "https://marcododaro.it/app-store-retention-messages-abbonamenti.html",
+      "date_published": "2026-11-16T08:14:47+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "App Store Retention Messages abbonamenti",
+          "intent": "Valutare un messaggio nel percorso di cancellazione di un abbonamento in-app, senza scambiare una risposta immediata con un rinnovo.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 81,
+          "related_page": "spotify-memberships-podcast-abbonamento.html",
+          "differentiation": "Prima guida al momento di cancellazione per abbonamenti App Store. Distinta dalla progettazione del podcast in membership e dalla scelta iniziale dei benefit."
+        },
+        "geekout_checked_at": "2026-11-16T08:14:46+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e ultima edizione13novembre consultati in questo run. Archivio riaperto separatamente per ciascuna delle5uscite prima del commit; nessuna edizione più recente visibile.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/apple-messaggi-retention-cancellazione-abbonamenti-app-store/",
+        "discovery_date": "2026-11-05",
+        "event_date": "2026-11-04",
+        "consulted_at": "2026-11-16T08:14:46+01:00",
+        "evidence_summary": "Apple4novembre: messaggi testuali/immagini/offerta nel flusso cancellazione auto-renewable, configurazioneAppStoreConnect eAPI accessosu richiesta. Reportdocumentato distingue azioni; nessun uplift presunto.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento attivato o paywall aggirato. EMARKETER indice restituito con articoli datati marzo, non usato per dati attuali. Social Media Today e Geekout controllati; fonte primaria usata per fatti. Thread Reddit letto nei risultati indicizzati, non generalizzato. Annuncio YouTube6novembre restituisce shell all’apertura: testo ufficiale indicizzato e guide italiane correnti come riscontro. Documentazione Apple letta anche tramite JSON pubblico ufficiale del report per superare il rendering JavaScript, senza aggirare accessi.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi, confronto cumulativo titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti di tutti81articoli e delle altre4uscite. Intenti distinti; esempi dichiarati ipotetici, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 71,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "679e23d97ff36c0250823f2443940e525451bfceb96cb1d09cfc3d68e8b2e2ca",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1760359991731-2bcc31d0bde1"
+            ],
+            [
+              16,
+              "nov16/assets/image-15.webp"
+            ],
+            [
+              16,
+              "nov16/blog-img-article-02.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1549931368-b04c49887d50"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1741745978060-9add161ba2c2"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1760565030243-c92ed557e8da"
+            ]
+          ],
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "credenziali-digitali-europass-verificare-attestato.html",
+              "utm-webinar-ga4-acquisizione-traffico.html",
+              "youtube-hype-gemme-valutare-sostegno-pubblico.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-16-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "youtube-hype-gemme-valutare-sostegno-pubblico.html",
+      "slug": "youtube-hype-gemme-valutare-sostegno-pubblico",
+      "title": "YouTube Hype con Gemme, come valutare il sostegno del pubblico",
+      "seo_title": "YouTube Hype con Gemme, come valutare il sostegno del pubblico | Marco Dodaro",
+      "desc": "Hype con Gemme arriva anche in Italia per i canali idonei. Come distinguere punti, sostegno economico e risultati editoriali senza promettere visibilità.",
+      "date": "2026-11-16",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "YouTube Hype Gemme Italia",
+      "search_intent": "Valutare l’idoneità e leggere il sostegno a pagamento separatamente dalla fruizione del contenuto e dai risultati commerciali.",
+      "image": "https://images.unsplash.com/photo-1739742473336-97631515d5eb?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Fotocamera vista dall’alto su sfondo arancione",
+      "image_id": "u67GBtLNt2k",
+      "image_source": "https://unsplash.com/photos/a-camera-on-a-yellow-background-with-a-black-lens-u67GBtLNt2k",
+      "image_credit": "Cemrecan Yurtman / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://support.google.com/youtube/blog/476738871/expanding-the-ability-to-hype-with-jewels-to-more-markets",
+        "https://support.google.com/youtube/answer/15509925?hl=it",
+        "https://support.google.com/youtube/answer/15333704?hl=it",
+        "https://support.google.com/youtube/answer/15334500?hl=it"
+      ],
+      "url": "https://marcododaro.it/youtube-hype-gemme-valutare-sostegno-pubblico.html",
+      "date_published": "2026-11-16T08:14:48+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "YouTube Hype Gemme Italia",
+          "intent": "Valutare l’idoneità e leggere il sostegno a pagamento separatamente dalla fruizione del contenuto e dai risultati commerciali.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 81,
+          "related_page": "come-guadagnano-i-content-creator.html",
+          "differentiation": "Prima analisi Hype/Gemme. Sostegno del pubblico e lettura risultati, distinta da media kit per brand, lanci YouTube e accessibilità Playables."
+        },
+        "geekout_checked_at": "2026-11-16T08:14:46+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e ultima edizione13novembre consultati in questo run. Archivio riaperto separatamente per ciascuna delle5uscite prima del commit; nessuna edizione più recente visibile.",
+        "discovery_source": "Ricerca su fonte primaria YouTube",
+        "discovery_url": "https://support.google.com/youtube/blog/476738871/expanding-the-ability-to-hype-with-jewels-to-more-markets",
+        "discovery_date": "2026-11-06",
+        "event_date": "2026-11-06",
+        "consulted_at": "2026-11-16T08:14:46+01:00",
+        "evidence_summary": "Annuncio ufficiale indicizzato6novembre includeItalia. Guidehelp correnti confermano paesi/idoneità,500–500000YPP,primi7giorni,Shortsesclusi,diretteesclusementrelive. L’annuncio aperto restituisce shell: testo da risultato ufficiale indicizzato, riscontro nelle guide italiane. Nessun rapporto punti→vendite o reach garantita.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento attivato o paywall aggirato. EMARKETER indice restituito con articoli datati marzo, non usato per dati attuali. Social Media Today e Geekout controllati; fonte primaria usata per fatti. Thread Reddit letto nei risultati indicizzati, non generalizzato. Annuncio YouTube6novembre restituisce shell all’apertura: testo ufficiale indicizzato e guide italiane correnti come riscontro. Documentazione Apple letta anche tramite JSON pubblico ufficiale del report per superare il rendering JavaScript, senza aggirare accessi.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi, confronto cumulativo titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti di tutti81articoli e delle altre4uscite. Intenti distinti; esempi dichiarati ipotetici, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 71,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "5bd757296bc2d499c18b18f67251a4e333bb2e565d789961928414228990e057",
+          "width": 1600,
+          "height": 2400,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1650421218675-d49994981462"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1653287805993-9a1a7ea28c20"
+            ],
+            [
+              16,
+              "nov16/assets/image-37.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1549931368-b04c49887d50"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1592263904934-b00851dc93eb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1671276497874-9e1bb7aeb89e"
+            ]
+          ],
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "credenziali-digitali-europass-verificare-attestato.html",
+              "utm-webinar-ga4-acquisizione-traffico.html",
+              "youtube-hype-gemme-valutare-sostegno-pubblico.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-16-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "utm-webinar-ga4-acquisizione-traffico.html",
+      "slug": "utm-webinar-ga4-acquisizione-traffico",
+      "title": "UTM per un webinar, leggere la provenienza in GA4",
+      "seo_title": "UTM per un webinar, leggere la provenienza in GA4 | Marco Dodaro",
+      "desc": "Come organizzare i link UTM di un webinar e controllare sorgente, mezzo e campagna in GA4, distinguendo visite, invii del modulo e iscrizioni confermate.",
+      "date": "2026-11-16",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "UTM webinar GA4 acquisizione traffico",
+      "search_intent": "Preparare nomi coerenti per link esterni e controllare la provenienza delle sessioni senza equiparare visite e iscrizioni confermate.",
+      "image": "https://images.unsplash.com/photo-1754928661583-d04a5f4d9f7f?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Mouse bianco su una superficie gialla",
+      "image_id": "7eZeXqKAywU",
+      "image_source": "https://unsplash.com/photos/white-computer-mouse-on-a-yellow-background-7eZeXqKAywU",
+      "image_credit": "Andrey Matveev / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://support.google.com/analytics/answer/10917952?hl=it",
+        "https://support.google.com/analytics/answer/12923437?hl=it"
+      ],
+      "url": "https://marcododaro.it/utm-webinar-ga4-acquisizione-traffico.html",
+      "date_published": "2026-11-16T08:14:49+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "UTM webinar GA4 acquisizione traffico",
+          "intent": "Preparare nomi coerenti per link esterni e controllare la provenienza delle sessioni senza equiparare visite e iscrizioni confermate.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 81,
+          "related_page": "come-creare-un-piano-editoriale-basato-sui-dati.html",
+          "differentiation": "Prima guida UTM e webinar. Distinta da piano editoriale generale, interpretazione volumi social e visite profilo LinkedIn."
+        },
+        "geekout_checked_at": "2026-11-16T08:14:46+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e ultima edizione13novembre consultati in questo run. Archivio riaperto separatamente per ciascuna delle5uscite prima del commit; nessuna edizione più recente visibile.",
+        "discovery_source": "Reddit, domanda individuale",
+        "discovery_url": "https://www.reddit.com/r/GoogleAnalytics/comments/1x0xhtz/how_do_you_guys_keep_track_of_utm_links/",
+        "discovery_date": "2026-10-08",
+        "event_date": null,
+        "consulted_at": "2026-11-16T08:14:46+01:00",
+        "evidence_summary": "ThreadReddit8ottobre: domanda su linkincoerenti, non dati di mercato. Googlehelp consultato16novembre: source/medium/campaign econtent, case-sensitive, Acquisizionetraffico dimensionisessione. Nessun accessoaccountGA4 o misura reale. Non ripreso erroreReddit UTMinterni nuova sessione.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento attivato o paywall aggirato. EMARKETER indice restituito con articoli datati marzo, non usato per dati attuali. Social Media Today e Geekout controllati; fonte primaria usata per fatti. Thread Reddit letto nei risultati indicizzati, non generalizzato. Annuncio YouTube6novembre restituisce shell all’apertura: testo ufficiale indicizzato e guide italiane correnti come riscontro. Documentazione Apple letta anche tramite JSON pubblico ufficiale del report per superare il rendering JavaScript, senza aggirare accessi.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi, confronto cumulativo titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti di tutti81articoli e delle altre4uscite. Intenti distinti; esempi dichiarati ipotetici, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 71,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "56a8f5d10042e3c3646d728651b7b1ac4e792482544ea36f04fb51eaaa8231fe",
+          "width": 1600,
+          "height": 1200,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1746014600883-57f4b16a7012"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1780535393597-922070f9a9cc"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1781606989289-c0b535eac348"
+            ],
+            [
+              16,
+              "nov16/assets/image-32.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1592263904934-b00851dc93eb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c"
+            ]
+          ],
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "credenziali-digitali-europass-verificare-attestato.html",
+              "utm-webinar-ga4-acquisizione-traffico.html",
+              "youtube-hype-gemme-valutare-sostegno-pubblico.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-16-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "credenziali-digitali-europass-verificare-attestato.html",
+      "slug": "credenziali-digitali-europass-verificare-attestato",
+      "title": "Credenziali digitali Europass, come verificare un attestato",
+      "seo_title": "Credenziali digitali Europass, come verificare un attestato | Marco Dodaro",
+      "desc": "Come leggere una credenziale digitale Europass, distinguendo verifica tecnica, contenuti dichiarati e prove di apprendimento utili per aziende ed enti.",
+      "date": "2026-11-16",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "credenziali digitali Europass verificare attestato",
+      "search_intent": "Controllare origine e contenuto di una credenziale EDC e capire quali evidenze servono per valutare il risultato formativo.",
+      "image": "https://images.unsplash.com/photo-1646318591979-1f5f1ffec11c?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Matite colorate disposte su una scrivania",
+      "image_id": "AWxDuxOIOkM",
+      "image_source": "https://unsplash.com/photos/a-group-of-colored-pencils-sitting-on-top-of-each-other-AWxDuxOIOkM",
+      "image_credit": "Josephina Kolpachnikof / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://europass.europa.eu/en/european-digital-credentials",
+        "https://europass.europa.eu/en/stakeholders/european-digital-credentials/using-european-digital-credentials-learning",
+        "https://europass.europa.eu/en/european-digital-credentials-learning"
+      ],
+      "url": "https://marcododaro.it/credenziali-digitali-europass-verificare-attestato.html",
+      "date_published": "2026-11-16T08:14:50+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "credenziali digitali Europass verificare attestato",
+          "intent": "Controllare origine e contenuto di una credenziale EDC e capire quali evidenze servono per valutare il risultato formativo.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 81,
+          "related_page": "digcomp-3-prove-competenze-digitali.html",
+          "differentiation": "Primo approfondimento EDC. Lettura di attestato e verifiche, distinto da progettazione delle prove DigComp e dal badge specifico del programma Anthropic."
+        },
+        "geekout_checked_at": "2026-11-16T08:14:46+01:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio e ultima edizione13novembre consultati in questo run. Archivio riaperto separatamente per ciascuna delle5uscite prima del commit; nessuna edizione più recente visibile.",
+        "discovery_source": "Ricerca su documentazione primaria Europass",
+        "discovery_url": "https://europass.europa.eu/en/european-digital-credentials",
+        "discovery_date": null,
+        "event_date": null,
+        "consulted_at": "2026-11-16T08:14:46+01:00",
+        "evidence_summary": "GuideEuropass consultate16novembre, non nuovoannuncio. EDCViewer verificaformato/origine/validità; campi di risultati apprendimento eassessment da leggere. Nessun riconoscimento automatico, equivalenza legale o prova di competenza dedotti dal formato digitale.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento attivato o paywall aggirato. EMARKETER indice restituito con articoli datati marzo, non usato per dati attuali. Social Media Today e Geekout controllati; fonte primaria usata per fatti. Thread Reddit letto nei risultati indicizzati, non generalizzato. Annuncio YouTube6novembre restituisce shell all’apertura: testo ufficiale indicizzato e guide italiane correnti come riscontro. Documentazione Apple letta anche tramite JSON pubblico ufficiale del report per superare il rendering JavaScript, senza aggirare accessi.",
+        "editorial_review": "Revisione lessicale e strutturale in due passaggi, confronto cumulativo titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti di tutti81articoli e delle altre4uscite. Intenti distinti; esempi dichiarati ipotetici, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 71,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "7198f392fe5920bca4fd19af8929c5a1005dc8e000e28f60eef8e07b73c0a79e",
+          "width": 1600,
+          "height": 1063,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1576072446584-4955dfe17b86"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1735197878057-53101cbcfa6b"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1746014600883-57f4b16a7012"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1763729805496-b5dbf7f00c79"
+            ],
+            [
+              16,
+              "nov16/assets/image-46.webp"
+            ],
+            [
+              18,
+              "NEW3"
+            ]
+          ],
+          "visual_review": "Pagina della singola fotografia verificata gratuita sotto Unsplash License, esclusiPlus/premium. ID eURL normalizzati contro tutti81articoli eHTML/meta/log/manifest. SHA256 e pHash multi-ritaglio su71foto remote e68file locali, nessuna incorporata, nessun errore. Confrontate anche le5candidate fra loro; ispezionate immagini, ritagli e6risultati più simili. Scartata una foto già in archivio e candidate scure o poco colorate."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "credenziali-digitali-europass-verificare-attestato.html",
+              "utm-webinar-ga4-acquisizione-traffico.html",
+              "youtube-hype-gemme-valutare-sostegno-pubblico.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "Chromium locale provato in questo run, termina con TargetClosedError prima di aprire le pagine."
+          },
+          "search_console": "not_accessed"
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-16-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
     }
   ]
 }

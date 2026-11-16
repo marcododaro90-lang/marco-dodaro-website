@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -721,6 +721,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "b124f9326a43176afe49c8e6ce62b03eb55f36567a2faa02035658d8081d57e8"
+    },
+    {
+      "article": "muse-spaces-prototipo-attivita-ricorrente.html",
+      "image": "https://images.unsplash.com/photo-1705907014767-1c1a4d8ce6be?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-pink-desk-MjxjFpYk-_w",
+      "unsplash_id": "MjxjFpYk-_w",
+      "photographer": "Jakub Żerdzicki",
+      "alt": "Laptop con tastiera e mouse su una scrivania rosa",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "7ca4369f820feb934b2b09328413d48ead91fccf60fdf8afe9c8494fbd4ab19e"
+    },
+    {
+      "article": "app-store-retention-messages-abbonamenti.html",
+      "image": "https://images.unsplash.com/photo-1779094041686-80b6fbde953c?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-light-blue-smartphone-on-an-orange-background-Kvcst06CY1M",
+      "unsplash_id": "Kvcst06CY1M",
+      "photographer": "Georgiy Lyamin",
+      "alt": "Retro di uno smartphone azzurro su sfondo arancione",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "679e23d97ff36c0250823f2443940e525451bfceb96cb1d09cfc3d68e8b2e2ca"
+    },
+    {
+      "article": "youtube-hype-gemme-valutare-sostegno-pubblico.html",
+      "image": "https://images.unsplash.com/photo-1739742473336-97631515d5eb?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-camera-on-a-yellow-background-with-a-black-lens-u67GBtLNt2k",
+      "unsplash_id": "u67GBtLNt2k",
+      "photographer": "Cemrecan Yurtman",
+      "alt": "Fotocamera vista dall’alto su sfondo arancione",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "5bd757296bc2d499c18b18f67251a4e333bb2e565d789961928414228990e057"
+    },
+    {
+      "article": "utm-webinar-ga4-acquisizione-traffico.html",
+      "image": "https://images.unsplash.com/photo-1754928661583-d04a5f4d9f7f?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/white-computer-mouse-on-a-yellow-background-7eZeXqKAywU",
+      "unsplash_id": "7eZeXqKAywU",
+      "photographer": "Andrey Matveev",
+      "alt": "Mouse bianco su una superficie gialla",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "56a8f5d10042e3c3646d728651b7b1ac4e792482544ea36f04fb51eaaa8231fe"
+    },
+    {
+      "article": "credenziali-digitali-europass-verificare-attestato.html",
+      "image": "https://images.unsplash.com/photo-1646318591979-1f5f1ffec11c?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-group-of-colored-pencils-sitting-on-top-of-each-other-AWxDuxOIOkM",
+      "unsplash_id": "AWxDuxOIOkM",
+      "photographer": "Josephina Kolpachnikof",
+      "alt": "Matite colorate disposte su una scrivania",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "7198f392fe5920bca4fd19af8929c5a1005dc8e000e28f60eef8e07b73c0a79e"
     }
   ]
 }
