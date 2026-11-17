@@ -5477,7 +5477,7 @@
       ],
       "url": "https://marcododaro.it/commenti-linkedin-ai-contributo-utile.html",
       "date_published": "2026-11-17T08:12:53+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "commenti LinkedIn AI",
@@ -5541,7 +5541,7 @@
           ],
           "focal": "50% 32%",
           "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
-          "post_publication": "pending"
+          "post_publication": "Confronto completo dei file pubblici e delle cinque fotografie riuscito. HTML articolo/blog/home, OpenGraph/Twitter e JSON-LD coerenti con le foto verificate. SHA256 delle copertine pubbliche identico al censimento pre-commit; unicità cumulativa e incrociata confermata."
         },
         "checks": {
           "local": {
@@ -5551,16 +5551,25 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-17T07:19:46.952298+00:00",
+            "article_sha256": "59e87566e942f9258cc1cb436b1cb33ccdb17c35d9ccb85cbddcdd8ed8f7b4c6",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44037676178",
+            "deployment_result": "success",
+            "publication_commit": "4669bb352e7040f425c3324279fd74fddf1e16df"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "google-trends-corsi-interesse-domanda.html",
               "youtube-video-ab-test-introduzioni.html",
               "link-amazon-instagram-contenuto-affiliato.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -5606,7 +5615,7 @@
       ],
       "url": "https://marcododaro.it/facebook-profili-aggiuntivi-gruppi-transizione.html",
       "date_published": "2026-11-17T08:12:53+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Facebook profili aggiuntivi eliminazione",
@@ -5670,7 +5679,7 @@
           ],
           "focal": "50% 27%",
           "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
-          "post_publication": "pending"
+          "post_publication": "Confronto completo dei file pubblici e delle cinque fotografie riuscito. HTML articolo/blog/home, OpenGraph/Twitter e JSON-LD coerenti con le foto verificate. SHA256 delle copertine pubbliche identico al censimento pre-commit; unicità cumulativa e incrociata confermata."
         },
         "checks": {
           "local": {
@@ -5680,16 +5689,25 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-17T07:19:45.117883+00:00",
+            "article_sha256": "a2ebb2d3853f052ea86013a6cec449526244c2c7ee3ee773e767cdf3bac4103d",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44037676178",
+            "deployment_result": "success",
+            "publication_commit": "4669bb352e7040f425c3324279fd74fddf1e16df"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "google-trends-corsi-interesse-domanda.html",
               "youtube-video-ab-test-introduzioni.html",
               "link-amazon-instagram-contenuto-affiliato.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -5736,7 +5754,7 @@
       ],
       "url": "https://marcododaro.it/link-amazon-instagram-contenuto-affiliato.html",
       "date_published": "2026-11-17T08:12:53+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "link Amazon Instagram affiliazione",
@@ -5800,7 +5818,7 @@
           ],
           "focal": "50% 40%",
           "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
-          "post_publication": "pending"
+          "post_publication": "Confronto completo dei file pubblici e delle cinque fotografie riuscito. HTML articolo/blog/home, OpenGraph/Twitter e JSON-LD coerenti con le foto verificate. SHA256 delle copertine pubbliche identico al censimento pre-commit; unicità cumulativa e incrociata confermata."
         },
         "checks": {
           "local": {
@@ -5810,16 +5828,25 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-17T07:19:45.569051+00:00",
+            "article_sha256": "dd87ce606f723d958c2de2dbe2ef1ae81014d6e7bfdd75e9cf40bdbaa636ca7b",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44037676178",
+            "deployment_result": "success",
+            "publication_commit": "4669bb352e7040f425c3324279fd74fddf1e16df"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "google-trends-corsi-interesse-domanda.html",
               "youtube-video-ab-test-introduzioni.html",
               "link-amazon-instagram-contenuto-affiliato.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -5862,7 +5889,7 @@
       ],
       "url": "https://marcododaro.it/youtube-video-ab-test-introduzioni.html",
       "date_published": "2026-11-17T08:12:53+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "YouTube Video A/B test introduzioni",
@@ -5926,7 +5953,7 @@
           ],
           "focal": "50% 23%",
           "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
-          "post_publication": "pending"
+          "post_publication": "Confronto completo dei file pubblici e delle cinque fotografie riuscito. HTML articolo/blog/home, OpenGraph/Twitter e JSON-LD coerenti con le foto verificate. SHA256 delle copertine pubbliche identico al censimento pre-commit; unicità cumulativa e incrociata confermata."
         },
         "checks": {
           "local": {
@@ -5936,16 +5963,25 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-17T07:19:46.645189+00:00",
+            "article_sha256": "222ddfaef8b99fbb5135a56ab2635b694b9a5ffa5b148ecb1c193f0494b55029",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44037676178",
+            "deployment_result": "success",
+            "publication_commit": "4669bb352e7040f425c3324279fd74fddf1e16df"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "google-trends-corsi-interesse-domanda.html",
               "youtube-video-ab-test-introduzioni.html",
               "link-amazon-instagram-contenuto-affiliato.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
@@ -5989,7 +6025,7 @@
       ],
       "url": "https://marcododaro.it/google-trends-corsi-interesse-domanda.html",
       "date_published": "2026-11-17T08:12:53+01:00",
-      "status": "committed_pending_live_verification",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "query": "Google Trends corsi formazione",
@@ -6053,7 +6089,7 @@
           ],
           "focal": "50% 40%",
           "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
-          "post_publication": "pending"
+          "post_publication": "Confronto completo dei file pubblici e delle cinque fotografie riuscito. HTML articolo/blog/home, OpenGraph/Twitter e JSON-LD coerenti con le foto verificate. SHA256 delle copertine pubbliche identico al censimento pre-commit; unicità cumulativa e incrociata confermata."
         },
         "checks": {
           "local": {
@@ -6063,16 +6099,25 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-17T07:19:43.958034+00:00",
+            "article_sha256": "ff7f9d3bc8d0056b3f140488572a012e85cea1020358ff6e2c05172bb8350f83",
+            "exact_file_and_image_comparison": "pass",
+            "single_latest_feature_and_previous_once_in_grid": "pass",
+            "deployment_run": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44037676178",
+            "deployment_result": "success",
+            "publication_commit": "4669bb352e7040f425c3324279fd74fddf1e16df"
           },
           "home": {
             "local": "pass",
-            "live": "pending",
+            "live": "pass",
             "latest_three": [
               "google-trends-corsi-interesse-domanda.html",
               "youtube-video-ab-test-introduzioni.html",
               "link-amazon-instagram-contenuto-affiliato.html"
-            ]
+            ],
+            "exact_html_comparison": "pass"
           },
           "viewports": {
             "status": "not_checked",
