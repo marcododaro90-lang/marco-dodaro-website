@@ -5452,6 +5452,646 @@
           "density_tier": "low"
         }
       }
+    },
+    {
+      "file": "commenti-linkedin-ai-contributo-utile.html",
+      "slug": "commenti-linkedin-ai-contributo-utile",
+      "title": "Commenti su LinkedIn, come aggiungere un contributo utile",
+      "seo_title": "Commenti su LinkedIn, come aggiungere un contributo utile | Marco Dodaro",
+      "desc": "LinkedIn interviene sui commenti AI poco utili. Cosa cambia nella rilevanza e come costruire risposte professionali che aggiungano informazioni.",
+      "date": "2026-11-17",
+      "category": "Strategia social",
+      "minutes": 4,
+      "keyword": "commenti LinkedIn AI",
+      "search_intent": "Capire il nuovo intervento sui commenti e preparare risposte pertinenti senza cercare formule per aggirare il ranking.",
+      "image": "https://images.unsplash.com/photo-1759884247250-f894ee49099c?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Persona al lavoro con un computer portatile su una scrivania gialla",
+      "image_id": "5gI7akzMDVU",
+      "image_source": "https://unsplash.com/photos/5gI7akzMDVU",
+      "image_credit": "Compagnons / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.linkedin.com/posts/hsrinivasan1_we-are-not-slowing-down-on-reducing-ai-slop-share-7527062264584245249-710j/",
+        "https://www.socialmediatoday.com/news/linkedin-cracks-down-on-ai-generated-comments/874707/",
+        "https://www.socialistening.it/blog/linkedin-riduce-visibilita-commenti-generati-ai/"
+      ],
+      "url": "https://marcododaro.it/commenti-linkedin-ai-contributo-utile.html",
+      "date_published": "2026-11-17T08:12:53+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "commenti LinkedIn AI",
+          "intent": "Capire il nuovo intervento sui commenti e preparare risposte pertinenti senza cercare formule per aggirare il ranking.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 86,
+          "related_page": "linkedin-feed-rilevanza-post-organici.html",
+          "differentiation": "Il ranking dei commenti e il lavoro di risposta, distinto dal feed dei post e dalle visite al profilo. Nessuna precedente uscita sul post di Hari Srinivasan."
+        },
+        "geekout_checked_at": "2026-11-17 07:10:35 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ciascuna uscita e ultima edizione13novembre letta in questo run. Nessuna edizione successiva visibile. Scelto intento distinto dalle uscite recenti.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/linkedin-riduce-visibilita-commenti-generati-ai/",
+        "discovery_date": "2026-11-16",
+        "event_date": null,
+        "consulted_at": "2026-11-17T08:12:53+01:00",
+        "evidence_summary": "Post ufficiale Hari Srinivasan letto integralmente. Classificatori per ridurre AI slop nei commenti most relevant, notifiche più pertinenti e rilascio annunciato. Omesse percentuali dei test. Nessuna rimozione generalizzata o disponibilità uniforme italiana dedotta. Data esatta del post non ricostruita da indicazione relativa.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento o paywall aggirato. EMARKETER restituisce un indice con uscite di marzo, non usato per dati attuali. Instagram Creators restituisce429 dopo tentativi; lancio attribuito aSMT eWIRED, non generalizzato all’Italia. Facebook Help richiede accesso o è bloccato; annuncio primario verificato suMetaNewsroom. GuidaAmazon disclosure restituita in inglese con riferimentiUK: limite esplicito nel testo. Reddit storico usato come spunto, non prova statistica.",
+        "editorial_review": "Due letture pertinenti per voce e layout; revisione lessicale e strutturale in due passaggi. Confronto cumulativo di titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti degli86articoli e delle altre4uscite. Esempi dichiarati ipotetici; nessun risultato o esperienza inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 76,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "427a80cb30d0c9fd51914e0979a9a554a00d5b74802ab2d6d2bf9b16701b3ffa",
+          "width": 1600,
+          "height": 2134,
+          "closest": [
+            [
+              16,
+              "nov17/assets/image-39.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1637317759414-4fc43302c454"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1676277757211-ebd7fdeb3d5b"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1705907014767-1c1a4d8ce6be"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1741389064022-6d470321710e"
+            ],
+            [
+              18,
+              "nov17/blog-img-article-05.webp"
+            ]
+          ],
+          "focal": "50% 32%",
+          "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
+          "post_publication": "pending"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-17T07:15:40.586867+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "google-trends-corsi-interesse-domanda.html",
+              "youtube-video-ab-test-introduzioni.html",
+              "link-amazon-instagram-contenuto-affiliato.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+          },
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 41700,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-17-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "facebook-profili-aggiuntivi-gruppi-transizione.html",
+      "slug": "facebook-profili-aggiuntivi-gruppi-transizione",
+      "title": "Facebook elimina i profili aggiuntivi, come preparare i gruppi",
+      "seo_title": "Facebook elimina i profili aggiuntivi, come preparare i gruppi | Marco Dodaro",
+      "desc": "Meta rimuoverà i profili Facebook aggiuntivi dopo il 14 dicembre 2026. Le verifiche per gruppi, amministratori e continuità delle community.",
+      "date": "2026-11-17",
+      "category": "Strategia social",
+      "minutes": 4,
+      "keyword": "Facebook profili aggiuntivi eliminazione",
+      "search_intent": "Preparare la continuità dei gruppi e dei riferimenti di una community prima della rimozione dei profili aggiuntivi.",
+      "image": "https://images.unsplash.com/photo-1709038459444-6f0f65994fe8?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Donna seduta su un divano rosa mentre usa uno smartphone",
+      "image_id": "OM3Sx4tknVg",
+      "image_source": "https://unsplash.com/photos/OM3Sx4tknVg",
+      "image_credit": "Rendy Novantino / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://about.fb.com/news/2023/09/you-can-now-have-multiple-personal-profiles-on-facebook/",
+        "https://www.socialmediatoday.com/news/facebook-shelves-additional-profile-option/874710/",
+        "https://www.facebook.com/help/2053558612102773/",
+        "https://www.socialistening.it/blog/facebook-elimina-profili-aggiuntivi-2026/"
+      ],
+      "url": "https://marcododaro.it/facebook-profili-aggiuntivi-gruppi-transizione.html",
+      "date_published": "2026-11-17T08:12:53+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Facebook profili aggiuntivi eliminazione",
+          "intent": "Preparare la continuità dei gruppi e dei riferimenti di una community prima della rimozione dei profili aggiuntivi.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 86,
+          "related_page": "gruppi-whatsapp-corsi-community-aggiornamenti.html",
+          "differentiation": "Ritiro della funzione profili aggiuntivi annunciato12novembre, assente nell’archivio. Continuità dei ruoli, distinto da preferenze del feed e aggiornamenti delle community WhatsApp."
+        },
+        "geekout_checked_at": "2026-11-17 07:10:36 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ciascuna uscita e ultima edizione13novembre letta in questo run. Nessuna edizione successiva visibile. Scelto intento distinto dalle uscite recenti.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/facebook-elimina-profili-aggiuntivi-2026/",
+        "discovery_date": "2026-11-16",
+        "event_date": "2026-11-12",
+        "consulted_at": "2026-11-17T08:12:53+01:00",
+        "evidence_summary": "MetaNewsroom aggiornato12novembre letto: rimozione dopo14dicembre2026, profilo principale ePagine esclusi. Indicazioni trasferimento amministrazione/esportazione riportate daSMT15novembre e attribuite. HelpCenter login/blocco, nessuna interfaccia verificata o promessa di migrazione automatica.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento o paywall aggirato. EMARKETER restituisce un indice con uscite di marzo, non usato per dati attuali. Instagram Creators restituisce429 dopo tentativi; lancio attribuito aSMT eWIRED, non generalizzato all’Italia. Facebook Help richiede accesso o è bloccato; annuncio primario verificato suMetaNewsroom. GuidaAmazon disclosure restituita in inglese con riferimentiUK: limite esplicito nel testo. Reddit storico usato come spunto, non prova statistica.",
+        "editorial_review": "Due letture pertinenti per voce e layout; revisione lessicale e strutturale in due passaggi. Confronto cumulativo di titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti degli86articoli e delle altre4uscite. Esempi dichiarati ipotetici; nessun risultato o esperienza inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235
+        },
+        "cover": {
+          "remote": 76,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "4f9c06c1f7f9223ef218578b75d46ed3ce85e8f16a703ed433c0c01869893778",
+          "width": 1600,
+          "height": 1065,
+          "closest": [
+            [
+              16,
+              "nov17/assets/image-33.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1617118601021-4992c028fe5d"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1636647677481-f134fda3f408"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1745847768367-893e989d3a98"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1755718669986-6a64e677420c"
+            ]
+          ],
+          "focal": "50% 27%",
+          "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
+          "post_publication": "pending"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-17T07:15:42.706007+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "google-trends-corsi-interesse-domanda.html",
+              "youtube-video-ab-test-introduzioni.html",
+              "link-amazon-instagram-contenuto-affiliato.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+          },
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 41920,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-17-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "link-amazon-instagram-contenuto-affiliato.html",
+      "slug": "link-amazon-instagram-contenuto-affiliato",
+      "title": "Link Amazon su Instagram, preparare un contenuto affiliato",
+      "seo_title": "Link Amazon su Instagram, preparare un contenuto affiliato | Marco Dodaro",
+      "desc": "Link Amazon nei contenuti Instagram: perimetro del lancio USA, differenze con la vetrina Influencer e controlli editoriali per i creator italiani.",
+      "date": "2026-11-17",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "link Amazon Instagram affiliazione",
+      "search_intent": "Distinguere integrazione nativa USA e programma Amazon, progettando una raccomandazione verificabile per il pubblico italiano.",
+      "image": "https://images.unsplash.com/photo-1642480485642-63b9018eadc2?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Mani che usano uno smartphone con schermata Instagram rosa",
+      "image_id": "_rSRv9T98G4",
+      "image_source": "https://unsplash.com/photos/_rSRv9T98G4",
+      "image_credit": "Mourizal Zativa / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.socialmediatoday.com/news/instagram-adds-amazon-affiliate-links/874817/",
+        "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+        "https://www.aboutamazon.com/news/retail/how-amazon-influencer-program-works",
+        "https://programma-affiliazione.amazon.it/help/node/topic/GPXFHVYZMTGPUMPE",
+        "https://creators.instagram.com/blog/more-ways-to-earn-affiliate-links"
+      ],
+      "url": "https://marcododaro.it/link-amazon-instagram-contenuto-affiliato.html",
+      "date_published": "2026-11-17T08:12:53+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "link Amazon Instagram affiliazione",
+          "intent": "Distinguere integrazione nativa USA e programma Amazon, progettando una raccomandazione verificabile per il pubblico italiano.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 86,
+          "related_page": "influencer-marketing-e-affiliate-marketing-differenze-e-quando-usare-l.html",
+          "differentiation": "Nuova integrazione Amazon/Instagram16novembre e progettazione della raccomandazione. Distinto dal confronto generale influencer/affiliate e dalle guide TikTokShop."
+        },
+        "geekout_checked_at": "2026-11-17 07:10:36 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ciascuna uscita e ultima edizione13novembre letta in questo run. Nessuna edizione successiva visibile. Scelto intento distinto dalle uscite recenti.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/instagram-adds-amazon-affiliate-links/874817/",
+        "discovery_date": "2026-11-16",
+        "event_date": "2026-11-16",
+        "consulted_at": "2026-11-17T08:12:53+01:00",
+        "evidence_summary": "AnnuncioIG429 dopo tentativi, limite dichiarato. SMT eWIRED letti; WIRED16novembre specifica lancio per adulti basatiUSA conaccountprofessionale>1000follower, non estesoItalia. AmazonFAQufficiale16settembre per programma/commissioni ehelpdisclosure corrente; nessuna aliquota guadagno stimata.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento o paywall aggirato. EMARKETER restituisce un indice con uscite di marzo, non usato per dati attuali. Instagram Creators restituisce429 dopo tentativi; lancio attribuito aSMT eWIRED, non generalizzato all’Italia. Facebook Help richiede accesso o è bloccato; annuncio primario verificato suMetaNewsroom. GuidaAmazon disclosure restituita in inglese con riferimentiUK: limite esplicito nel testo. Reddit storico usato come spunto, non prova statistica.",
+        "editorial_review": "Due letture pertinenti per voce e layout; revisione lessicale e strutturale in due passaggi. Confronto cumulativo di titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti degli86articoli e delle altre4uscite. Esempi dichiarati ipotetici; nessun risultato o esperienza inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 76,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "5ed288103a139c70b60a619a223620599b20d899eec1a53ec0bdcc29ded6e209",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
+            ],
+            [
+              16,
+              "nov17/assets/image-10.png"
+            ],
+            [
+              16,
+              "nov17/assets/image-12.png"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1614535552837-8865c0acfd06"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1617118601021-4992c028fe5d"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1676276374987-c4a89f51d8a6"
+            ]
+          ],
+          "focal": "50% 40%",
+          "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
+          "post_publication": "pending"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-17T07:15:43.061795+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "google-trends-corsi-interesse-domanda.html",
+              "youtube-video-ab-test-introduzioni.html",
+              "link-amazon-instagram-contenuto-affiliato.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+          },
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 42411,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-17-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "youtube-video-ab-test-introduzioni.html",
+      "slug": "youtube-video-ab-test-introduzioni",
+      "title": "Video A/B su YouTube, preparare il test delle introduzioni",
+      "seo_title": "Video A/B su YouTube, preparare il test delle introduzioni | Marco Dodaro",
+      "desc": "YouTube descrive lo sviluppo di Video A/B. Come progettare due introduzioni confrontabili e leggere le curve di retention senza confonderle con i clic.",
+      "date": "2026-11-17",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "YouTube Video A/B test introduzioni",
+      "search_intent": "Capire lo sviluppo annunciato e progettare un confronto circoscritto tra introduzioni video, senza presumere disponibilità generale.",
+      "image": "https://images.unsplash.com/photo-1744686912094-5a25e7c329b6?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Postazione di montaggio video vista dall’alto con scrivania arancione e monitor",
+      "image_id": "VY87xCR1-4U",
+      "image_source": "https://unsplash.com/photos/VY87xCR1-4U",
+      "image_credit": "TourBox / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://blog.youtube/creator-and-artist-stories/creator-insider-paddy-galloway-youtube-ab-testing-ask-studio/"
+      ],
+      "url": "https://marcododaro.it/youtube-video-ab-test-introduzioni.html",
+      "date_published": "2026-11-17T08:12:53+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "YouTube Video A/B test introduzioni",
+          "intent": "Capire lo sviluppo annunciato e progettare un confronto circoscritto tra introduzioni video, senza presumere disponibilità generale.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 86,
+          "related_page": "media-kit-youtube-risposta-brief-brand.html",
+          "differentiation": "VideoA/B e retention delle introduzioni, dall’intervistaYouTube16novembre. Non ripete thumbnail/media kit/AI insight/Edits già archiviati."
+        },
+        "geekout_checked_at": "2026-11-17 07:10:37 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ciascuna uscita e ultima edizione13novembre letta in questo run. Nessuna edizione successiva visibile. Scelto intento distinto dalle uscite recenti.",
+        "discovery_source": "YouTube Blog, ricerca primaria dopo consultazione degli aggiornamenti YouTube su Social Media Today",
+        "discovery_url": "https://blog.youtube/creator-and-artist-stories/creator-insider-paddy-galloway-youtube-ab-testing-ask-studio/",
+        "discovery_date": "2026-11-16",
+        "event_date": "2026-11-16",
+        "consulted_at": "2026-11-17T08:12:53+01:00",
+        "evidence_summary": "Fonte ufficiale16novembre: prospettiva VideoA/B, atteso uso sulleintro, curve retention entrambeversioni. Nessun rollout generale/data Italia dedotti. Omesse dinamiche thumbnails e altri strumenti per intento distinto e budget fonte.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento o paywall aggirato. EMARKETER restituisce un indice con uscite di marzo, non usato per dati attuali. Instagram Creators restituisce429 dopo tentativi; lancio attribuito aSMT eWIRED, non generalizzato all’Italia. Facebook Help richiede accesso o è bloccato; annuncio primario verificato suMetaNewsroom. GuidaAmazon disclosure restituita in inglese con riferimentiUK: limite esplicito nel testo. Reddit storico usato come spunto, non prova statistica.",
+        "editorial_review": "Due letture pertinenti per voce e layout; revisione lessicale e strutturale in due passaggi. Confronto cumulativo di titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti degli86articoli e delle altre4uscite. Esempi dichiarati ipotetici; nessun risultato o esperienza inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 76,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "a367b1d2abe13f7344012bac0c5b6f89c46818aa6b12e45314baea8caea35c61",
+          "width": 1600,
+          "height": 1050,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1549931368-b04c49887d50"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1779684998897-ce5de594a5ac"
+            ],
+            [
+              16,
+              "nov17/blog-img-article-02.webp"
+            ],
+            [
+              16,
+              "nov17/blog-img-article-08.webp"
+            ],
+            [
+              16,
+              "nov17/assets/image-21.webp"
+            ],
+            [
+              16,
+              "nov17/assets/image-15.webp"
+            ]
+          ],
+          "focal": "50% 23%",
+          "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
+          "post_publication": "pending"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-17T07:15:43.480273+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "google-trends-corsi-interesse-domanda.html",
+              "youtube-video-ab-test-introduzioni.html",
+              "link-amazon-instagram-contenuto-affiliato.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+          },
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 41359,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-17-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
+    },
+    {
+      "file": "google-trends-corsi-interesse-domanda.html",
+      "slug": "google-trends-corsi-interesse-domanda",
+      "title": "Google Trends per un corso, leggere l’interesse di ricerca",
+      "seo_title": "Google Trends per un corso, leggere l’interesse di ricerca | Marco Dodaro",
+      "desc": "Come usare Google Trends per progettare un corso: indice relativo, confronti geografici e verifiche per distinguere interesse e domanda di formazione.",
+      "date": "2026-11-17",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "Google Trends corsi formazione",
+      "search_intent": "Interpretare l’indice relativo e costruire una verifica della domanda per un corso, senza stimare iscritti o volumi dai grafici.",
+      "image": "https://images.unsplash.com/photo-1759884247407-782965434bf7?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Due computer portatili e una borraccia gialla e arancione su una scrivania",
+      "image_id": "-zwLoSSUAjw",
+      "image_source": "https://unsplash.com/photos/-zwLoSSUAjw",
+      "image_credit": "Compagnons / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://support.google.com/trends/answer/4365533?hl=it",
+        "https://www.reddit.com/r/analytics/comments/1pmz2kp/how_accurate_is_google_search_trends/"
+      ],
+      "url": "https://marcododaro.it/google-trends-corsi-interesse-domanda.html",
+      "date_published": "2026-11-17T08:12:53+01:00",
+      "status": "committed_pending_live_verification",
+      "workflow_review": {
+        "brief": {
+          "query": "Google Trends corsi formazione",
+          "intent": "Interpretare l’indice relativo e costruire una verifica della domanda per un corso, senza stimare iscritti o volumi dai grafici.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 86,
+          "related_page": "come-creare-un-piano-editoriale-basato-sui-dati.html",
+          "differentiation": "Lettura indice0–100 per domanda formativa, assente come intentoautonomo. Distinto da calendari editoriali e volumi conversazioni percanale."
+        },
+        "geekout_checked_at": "2026-11-17 07:10:38 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ciascuna uscita e ultima edizione13novembre letta in questo run. Nessuna edizione successiva visibile. Scelto intento distinto dalle uscite recenti.",
+        "discovery_source": "Reddit r/analytics, domanda storica sulla lettura di Google Trends, e verifica Google Help",
+        "discovery_url": "https://www.reddit.com/r/analytics/comments/1pmz2kp/how_accurate_is_google_search_trends/",
+        "discovery_date": "2025-12-15",
+        "event_date": null,
+        "consulted_at": "2026-11-17T08:12:53+01:00",
+        "evidence_summary": "GoogleHelp corrente: campione anonimizzato/categorizzato/aggregato, normalizzazioneperarea/tempo e scala0–100; stessoindice non ugualivolumi,0puòlowvolume, nonsondaggio. Redditthreadstorico15dicembre2025identificato da metadatipagina, consultato17novembre, nessun dato generalizzato. Nessuna interrogazioneTrends/GSC ovolume inventati.",
+        "access_limits": "Fonti pubbliche consultate; nessun abbonamento o paywall aggirato. EMARKETER restituisce un indice con uscite di marzo, non usato per dati attuali. Instagram Creators restituisce429 dopo tentativi; lancio attribuito aSMT eWIRED, non generalizzato all’Italia. Facebook Help richiede accesso o è bloccato; annuncio primario verificato suMetaNewsroom. GuidaAmazon disclosure restituita in inglese con riferimentiUK: limite esplicito nel testo. Reddit storico usato come spunto, non prova statistica.",
+        "editorial_review": "Due letture pertinenti per voce e layout; revisione lessicale e strutturale in due passaggi. Confronto cumulativo di titoli normalizzati, slug, H1/H2, introduzioni, corpo, eventi e fonti degli86articoli e delle altre4uscite. Esempi dichiarati ipotetici; nessun risultato o esperienza inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37
+        },
+        "cover": {
+          "remote": 76,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "8d1aa4c3c5859177450306ebc86f53a60669772b1d143b63e758b691331bb57b",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1741896135490-4062a3b21abf"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1643917567366-5afb8cf4bac9"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1676276374987-c4a89f51d8a6"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1676277757211-ebd7fdeb3d5b"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1705907014767-1c1a4d8ce6be"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1714386819907-ce134e3bb0ff"
+            ]
+          ],
+          "focal": "50% 40%",
+          "visual_review": "Pagina della singola foto gratuita sottoUnsplashLicense verificata; esclusiPlus/premium. ID/URL normalizzati contro HTML/meta/log/manifest di tutto l’archivio. SHA256 e pHash multiritaglio su76immagini remote e68locali; nessuna incorporata o errore. Confronti anche tra le5scelte. Ispezionate foto,6vicine e ritagli; scartate candidate scure o poco colorate. Ispezione finale dei cinque ritagli con punti focali definitivi eseguita. Il confronto incrociato completo tra le cinque selezionate supera il controllo con distanza pHash minima16 su63bit; misura euristica accompagnata da ispezione visiva.",
+          "post_publication": "pending"
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-17T07:15:43.977596+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          },
+          "home": {
+            "local": "pass",
+            "live": "pending",
+            "latest_three": [
+              "google-trends-corsi-interesse-domanda.html",
+              "youtube-video-ab-test-introduzioni.html",
+              "link-amazon-instagram-contenuto-affiliato.html"
+            ]
+          },
+          "viewports": {
+            "status": "not_checked",
+            "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+          },
+          "search_console": "not_accessed",
+          "performance": {
+            "html_bytes": 41621,
+            "lighthouse": "not_run",
+            "core_web_vitals": "not_measured"
+          }
+        },
+        "instagram": {
+          "status": "draft_not_published",
+          "file": "_drafts/2026-11-17-instagram.md",
+          "unicode_findings": 0,
+          "density_tier": "low"
+        }
+      }
     }
   ]
 }

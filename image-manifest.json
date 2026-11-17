@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -776,6 +776,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "7198f392fe5920bca4fd19af8929c5a1005dc8e000e28f60eef8e07b73c0a79e"
+    },
+    {
+      "article": "commenti-linkedin-ai-contributo-utile.html",
+      "image": "https://images.unsplash.com/photo-1759884247250-f894ee49099c?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/5gI7akzMDVU",
+      "unsplash_id": "5gI7akzMDVU",
+      "photographer": "Compagnons",
+      "alt": "Persona al lavoro con un computer portatile su una scrivania gialla",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "427a80cb30d0c9fd51914e0979a9a554a00d5b74802ab2d6d2bf9b16701b3ffa"
+    },
+    {
+      "article": "facebook-profili-aggiuntivi-gruppi-transizione.html",
+      "image": "https://images.unsplash.com/photo-1709038459444-6f0f65994fe8?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/OM3Sx4tknVg",
+      "unsplash_id": "OM3Sx4tknVg",
+      "photographer": "Rendy Novantino",
+      "alt": "Donna seduta su un divano rosa mentre usa uno smartphone",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "4f9c06c1f7f9223ef218578b75d46ed3ce85e8f16a703ed433c0c01869893778"
+    },
+    {
+      "article": "link-amazon-instagram-contenuto-affiliato.html",
+      "image": "https://images.unsplash.com/photo-1642480485642-63b9018eadc2?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/_rSRv9T98G4",
+      "unsplash_id": "_rSRv9T98G4",
+      "photographer": "Mourizal Zativa",
+      "alt": "Mani che usano uno smartphone con schermata Instagram rosa",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "5ed288103a139c70b60a619a223620599b20d899eec1a53ec0bdcc29ded6e209"
+    },
+    {
+      "article": "youtube-video-ab-test-introduzioni.html",
+      "image": "https://images.unsplash.com/photo-1744686912094-5a25e7c329b6?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/VY87xCR1-4U",
+      "unsplash_id": "VY87xCR1-4U",
+      "photographer": "TourBox",
+      "alt": "Postazione di montaggio video vista dall’alto con scrivania arancione e monitor",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "a367b1d2abe13f7344012bac0c5b6f89c46818aa6b12e45314baea8caea35c61"
+    },
+    {
+      "article": "google-trends-corsi-interesse-domanda.html",
+      "image": "https://images.unsplash.com/photo-1759884247407-782965434bf7?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/-zwLoSSUAjw",
+      "unsplash_id": "-zwLoSSUAjw",
+      "photographer": "Compagnons",
+      "alt": "Due computer portatili e una borraccia gialla e arancione su una scrivania",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "8d1aa4c3c5859177450306ebc86f53a60669772b1d143b63e758b691331bb57b"
     }
   ]
 }
