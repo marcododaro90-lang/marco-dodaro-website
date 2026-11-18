@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -831,6 +831,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "8d1aa4c3c5859177450306ebc86f53a60669772b1d143b63e758b691331bb57b"
+    },
+    {
+      "article": "linkedin-monetizzazione-dashboard-opportunita.html",
+      "image": "https://images.unsplash.com/photo-1616469829581-73993eb86b02?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/JLj_NbvlDDo",
+      "unsplash_id": "JLj_NbvlDDo",
+      "photographer": "Souvik Banerjee",
+      "alt": "Pagina dell’app LinkedIn visualizzata su un tablet su sfondo blu",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "4ce663f559e427448abebe66017973a80a445562b4da4c8cb8d225b0d672bc2f"
+    },
+    {
+      "article": "instagram-direct-app-test-messaggistica.html",
+      "image": "https://images.unsplash.com/photo-1754762372302-7e6a3d79a666?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/rel2bd79Y50",
+      "unsplash_id": "rel2bd79Y50",
+      "photographer": "Andrey Matveev",
+      "alt": "Smartphone rosso e arancione fotografato su uno sfondo giallo acceso",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "5afa9b3cca2946a007ccbc963350c61a475c682f50bcb3f2c1ae34ff493c578f"
+    },
+    {
+      "article": "instagram-content-protection-copie-video.html",
+      "image": "https://images.unsplash.com/photo-1739742465291-dfda0a944c8e?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/btpbaHp_cE0",
+      "unsplash_id": "btpbaHp_cE0",
+      "photographer": "Cemrecan Yurtman",
+      "alt": "Mano che tiene una videocamera su uno sfondo arancione",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "770270e34f74a2cffc64dab0c47a21633695be46c63dd078c4c301c83d39de8e"
+    },
+    {
+      "article": "pinterest-creators-to-watch-2027-brief.html",
+      "image": "https://images.unsplash.com/photo-1578922794704-7bdd46f70ce0?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/W-tSAyRMy6w",
+      "unsplash_id": "W-tSAyRMy6w",
+      "photographer": "Robert Anderson",
+      "alt": "Cupcake con glassa rosa e decorazioni colorate su un’alzata",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "3225fcc5ebe18d33d5bf2ba5407018f4c7a21eed750ac1d979c262793c9d2674"
+    },
+    {
+      "article": "ga4-clic-uscita-prenotazioni-esterne.html",
+      "image": "https://images.unsplash.com/photo-1739742473235-34a7bd9b8f87?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/JVUqiEc2Svc",
+      "unsplash_id": "JVUqiEc2Svc",
+      "photographer": "Cemrecan Yurtman",
+      "alt": "Mouse nero fotografato su una superficie arancione",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "85a3f3e520cfc2ef452b4afa24648ddea44abae38f1c0570cbe34a1408c78e33"
     }
   ]
 }

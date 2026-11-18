@@ -6137,6 +6137,934 @@
           "density_tier": "low"
         }
       }
+    },
+    {
+      "file": "linkedin-monetizzazione-dashboard-opportunita.html",
+      "slug": "linkedin-monetizzazione-dashboard-opportunita",
+      "title": "Monetizzazione LinkedIn, come valutare le opportunità del Dashboard",
+      "seo_title": "Monetizzazione LinkedIn, come valutare le opportunità del Dashboard | Marco Dodaro",
+      "desc": "La scheda Monetization di LinkedIn raccoglie opportunità per creator idonei. Come verificarne accesso, condizioni e coerenza con il proprio lavoro.",
+      "date": "2026-11-18",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "monetizzazione LinkedIn Dashboard",
+      "search_intent": "Valutare le opportunità mostrate nel Dashboard senza confondere accesso, candidatura e ricavo maturato.",
+      "image": "https://images.unsplash.com/photo-1616469829581-73993eb86b02?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Pagina dell’app LinkedIn visualizzata su un tablet su sfondo blu",
+      "image_id": "JLj_NbvlDDo",
+      "image_source": "https://unsplash.com/photos/JLj_NbvlDDo",
+      "image_credit": "Souvik Banerjee / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.linkedin.com/help/linkedin/answer/a16691447",
+        "https://www.socialmediatoday.com/news/linkedin-adds-monetization-tab-to-profile-analytics/874821/"
+      ],
+      "url": "https://marcododaro.it/linkedin-monetizzazione-dashboard-opportunita.html",
+      "date_published": "2026-11-18T08:18:48+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "monetizzazione LinkedIn Dashboard",
+          "intent": "Valutare le opportunità mostrate nel Dashboard senza confondere accesso, candidatura e ricavo maturato.",
+          "category": "Creator economy",
+          "related": "come-guadagnano-i-content-creator.html",
+          "readings": [
+            "come-guadagnano-i-content-creator.html",
+            "visite-profilo-linkedin-segnali-commerciali.html"
+          ],
+          "difference": "Primo approfondimento sul Dashboard Monetization. Valutazione di opportunità e requisiti, distinta da feed, commenti, visite al profilo e monetizzazione generale.",
+          "discovery": "Social Listening",
+          "discovery_url": "https://www.socialistening.it/blog/linkedin-scheda-monetizzazione-analytics-profili/",
+          "discovery_date": "2026-11-17",
+          "event_date": null,
+          "evidence": "Help ufficiale corrente: Dashboard comprende Analytics,Content,Monetization, funzionalità variabili per membership,idoneità e disponibilità. OpportunitàCreatorMarketplace,prospect eInStreamAds conulteriorirequisiti. SMT16novembre segnala sviluppoinestensione, nonnuovoiniziooggi. Nessun guadagno garantito o accesso italiano generalizzato.",
+          "title": "Monetizzazione LinkedIn, come valutare le opportunità del Dashboard",
+          "file": "linkedin-monetizzazione-dashboard-opportunita.html",
+          "archive_count": 91,
+          "audience": "Aziende, professionisti ed enti di formazione italiani"
+        },
+        "geekout_checked_at": "2026-11-18 07:16:14 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per questa uscita; ultima edizione del 13 novembre letta nel run corrente, nessuna successiva visibile. Tema scelto distinto dall’archivio.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/linkedin-scheda-monetizzazione-analytics-profili/",
+        "discovery_date": "2026-11-17",
+        "event_date": null,
+        "consulted_at": "2026-11-18T08:18:48+01:00",
+        "evidence_summary": "Help ufficiale corrente: Dashboard comprende Analytics,Content,Monetization, funzionalità variabili per membership,idoneità e disponibilità. OpportunitàCreatorMarketplace,prospect eInStreamAds conulteriorirequisiti. SMT16novembre segnala sviluppoinestensione, nonnuovoiniziooggi. Nessun guadagno garantito o accesso italiano generalizzato.",
+        "access_limits": "EMARKETER presenta un indice con voci di marzo, non usato come ricerca attuale. Annuncio Instagram Creators e post ufficiale restituiscono429; informazioni attribuite a SMT e The Verge, stessa origine. Reddit storico letto nei risultati indicizzati, apertura diretta non disponibile. Nessun paywall aggirato o abbonamento attivato.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale in due passaggi. Titoli, slug, H1/H2, introduzioni, corpi, eventi e fonti confrontati con tutti i91articoli e le altre4uscite. Esempi ipotetici espliciti; nessuna esperienza o risultato attribuiti a Marco.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235,
+          "action": "Pulizia Unicode eseguita e output identico. Fascia bassa, nessuna riscrittura statistica. Valutazione editoriale, non certificazione di paternità.",
+          "instagram_score": 0.0325
+        },
+        "cover": {
+          "remote": 81,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "4ce663f559e427448abebe66017973a80a445562b4da4c8cb8d225b0d672bc2f",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              14,
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
+            ],
+            [
+              16,
+              "W-tSAyRMy6w"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1725030971425-e6ca11cfb0c9"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1763729805496-b5dbf7f00c79"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1764664035133-0d2ca12016dd"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1770239647673-1a0eb5d05a25"
+            ]
+          ],
+          "focal": "50% 50%",
+          "cross_selected": [
+            [
+              "JLj_NbvlDDo",
+              "rel2bd79Y50",
+              22
+            ],
+            [
+              "JLj_NbvlDDo",
+              "btpbaHp_cE0",
+              20
+            ],
+            [
+              "JLj_NbvlDDo",
+              "W-tSAyRMy6w",
+              16
+            ],
+            [
+              "JLj_NbvlDDo",
+              "JVUqiEc2Svc",
+              24
+            ],
+            [
+              "rel2bd79Y50",
+              "btpbaHp_cE0",
+              16
+            ],
+            [
+              "rel2bd79Y50",
+              "W-tSAyRMy6w",
+              22
+            ],
+            [
+              "rel2bd79Y50",
+              "JVUqiEc2Svc",
+              20
+            ],
+            [
+              "btpbaHp_cE0",
+              "W-tSAyRMy6w",
+              18
+            ],
+            [
+              "btpbaHp_cE0",
+              "JVUqiEc2Svc",
+              18
+            ],
+            [
+              "W-tSAyRMy6w",
+              "JVUqiEc2Svc",
+              20
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata; escluse Unsplash+ e premium. Censimento completo HTML/meta/log/manifest, URL normalizzati e ID. SHA256 e pHash multiritaglio su81remote e68locali, nessuna incorporata o errore; confronto anche fra5selezionate. Ispezionate foto e sei vicine; punti focali definiti e ritagli finali da verificare prima del commit. Ispezione finale dei cinque ritagli eseguita; foto diverse e soggetti principali preservati. Distanza minima fra cinque scelte16bit su63, euristica accompagnata dall’ispezione."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-18T07:19:06.358898+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+        },
+        "search_console": "Non accessibile in questo run. Nessun dato di impressioni,query,clic,posizioni,indicizzazione o Core Web Vitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "ga4-clic-uscita-prenotazioni-esterne.html",
+            "pinterest-creators-to-watch-2027-brief.html",
+            "instagram-content-protection-copie-video.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-18-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
+    },
+    {
+      "file": "instagram-direct-app-test-messaggistica.html",
+      "slug": "instagram-direct-app-test-messaggistica",
+      "title": "Direct di Instagram, cosa cambia nel test di messaggistica",
+      "seo_title": "Direct di Instagram, cosa cambia nel test di messaggistica | Marco Dodaro",
+      "desc": "Meta testa Direct in Turchia e Thailandia. Cosa documenta l’annuncio e quali indicazioni offre a chi gestisce contatti e conversazioni professionali.",
+      "date": "2026-11-18",
+      "category": "Strategia social",
+      "minutes": 4,
+      "keyword": "Direct Instagram app messaggistica test",
+      "search_intent": "Capire il perimetro della nuova app e valutare le implicazioni per i percorsi di contatto senza presumere un lancio italiano o strumenti business.",
+      "image": "https://images.unsplash.com/photo-1754762372302-7e6a3d79a666?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Smartphone rosso e arancione fotografato su uno sfondo giallo acceso",
+      "image_id": "rel2bd79Y50",
+      "image_source": "https://unsplash.com/photos/rel2bd79Y50",
+      "image_credit": "Andrey Matveev / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/",
+        "https://www.socialistening.it/blog/meta-direct-app-messaggistica-instagram-test/"
+      ],
+      "url": "https://marcododaro.it/instagram-direct-app-test-messaggistica.html",
+      "date_published": "2026-11-18T08:18:48+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "Direct Instagram app messaggistica test",
+          "intent": "Capire il perimetro della nuova app e valutare le implicazioni per i percorsi di contatto senza presumere un lancio italiano o strumenti business.",
+          "category": "Strategia social",
+          "related": "come-costruire-una-strategia-social-per-unazienda.html",
+          "readings": [
+            "gruppi-whatsapp-corsi-community-aggiornamenti.html",
+            "facebook-profili-aggiuntivi-gruppi-transizione.html"
+          ],
+          "difference": "Nuovo testDirect nonpresente nell’archivio. Architettura delcontatto privato e confine tra notizia e canaleprofessionale, distinto da istruzionigruppi e migrazioneprofiliFacebook.",
+          "discovery": "Social Listening",
+          "discovery_url": "https://www.socialistening.it/blog/meta-direct-app-messaggistica-instagram-test/",
+          "discovery_date": "2026-11-17",
+          "event_date": "2026-11-16",
+          "evidence": "AnnuncioMeta primario letto: testTürkiyeThailandAndroidiOS, conosenzaaccountInstagram, syncchat perloginIG, contatti esattousername/QR; nessunaAPIbusiness, adv,CRM odataItalia annunciata. Omesse interpretazioni su divietiminori e motivazionicommerciali nonprovate.",
+          "title": "Direct di Instagram, cosa cambia nel test di messaggistica",
+          "file": "instagram-direct-app-test-messaggistica.html",
+          "archive_count": 91,
+          "audience": "Aziende, professionisti ed enti di formazione italiani"
+        },
+        "geekout_checked_at": "2026-11-18 07:16:14 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per questa uscita; ultima edizione del 13 novembre letta nel run corrente, nessuna successiva visibile. Tema scelto distinto dall’archivio.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/meta-direct-app-messaggistica-instagram-test/",
+        "discovery_date": "2026-11-17",
+        "event_date": "2026-11-16",
+        "consulted_at": "2026-11-18T08:18:48+01:00",
+        "evidence_summary": "AnnuncioMeta primario letto: testTürkiyeThailandAndroidiOS, conosenzaaccountInstagram, syncchat perloginIG, contatti esattousername/QR; nessunaAPIbusiness, adv,CRM odataItalia annunciata. Omesse interpretazioni su divietiminori e motivazionicommerciali nonprovate.",
+        "access_limits": "EMARKETER presenta un indice con voci di marzo, non usato come ricerca attuale. Annuncio Instagram Creators e post ufficiale restituiscono429; informazioni attribuite a SMT e The Verge, stessa origine. Reddit storico letto nei risultati indicizzati, apertura diretta non disponibile. Nessun paywall aggirato o abbonamento attivato.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale in due passaggi. Titoli, slug, H1/H2, introduzioni, corpi, eventi e fonti confrontati con tutti i91articoli e le altre4uscite. Esempi ipotetici espliciti; nessuna esperienza o risultato attribuiti a Marco.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37,
+          "action": "Pulizia Unicode eseguita e output identico. Fascia bassa, nessuna riscrittura statistica. Valutazione editoriale, non certificazione di paternità.",
+          "instagram_score": 0.0325
+        },
+        "cover": {
+          "remote": 81,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "5afa9b3cca2946a007ccbc963350c61a475c682f50bcb3f2c1ae34ff493c578f",
+          "width": 1600,
+          "height": 1200,
+          "closest": [
+            [
+              12,
+              "https://images.unsplash.com/photo-1779094041686-80b6fbde953c"
+            ],
+            [
+              14,
+              "nov18/assets/image-57.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1614535552837-8865c0acfd06"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1650421218675-d49994981462"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1651954396816-7a7a59df322e"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1653287805993-9a1a7ea28c20"
+            ]
+          ],
+          "focal": "50% 20%",
+          "cross_selected": [
+            [
+              "JLj_NbvlDDo",
+              "rel2bd79Y50",
+              22
+            ],
+            [
+              "JLj_NbvlDDo",
+              "btpbaHp_cE0",
+              20
+            ],
+            [
+              "JLj_NbvlDDo",
+              "W-tSAyRMy6w",
+              16
+            ],
+            [
+              "JLj_NbvlDDo",
+              "JVUqiEc2Svc",
+              24
+            ],
+            [
+              "rel2bd79Y50",
+              "btpbaHp_cE0",
+              16
+            ],
+            [
+              "rel2bd79Y50",
+              "W-tSAyRMy6w",
+              22
+            ],
+            [
+              "rel2bd79Y50",
+              "JVUqiEc2Svc",
+              20
+            ],
+            [
+              "btpbaHp_cE0",
+              "W-tSAyRMy6w",
+              18
+            ],
+            [
+              "btpbaHp_cE0",
+              "JVUqiEc2Svc",
+              18
+            ],
+            [
+              "W-tSAyRMy6w",
+              "JVUqiEc2Svc",
+              20
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata; escluse Unsplash+ e premium. Censimento completo HTML/meta/log/manifest, URL normalizzati e ID. SHA256 e pHash multiritaglio su81remote e68locali, nessuna incorporata o errore; confronto anche fra5selezionate. Ispezionate foto e sei vicine; punti focali definiti e ritagli finali da verificare prima del commit. Ispezione finale dei cinque ritagli eseguita; foto diverse e soggetti principali preservati. Distanza minima fra cinque scelte16bit su63, euristica accompagnata dall’ispezione."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-18T07:19:06.469298+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+        },
+        "search_console": "Non accessibile in questo run. Nessun dato di impressioni,query,clic,posizioni,indicizzazione o Core Web Vitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "ga4-clic-uscita-prenotazioni-esterne.html",
+            "pinterest-creators-to-watch-2027-brief.html",
+            "instagram-content-protection-copie-video.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-18-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
+    },
+    {
+      "file": "instagram-content-protection-copie-video.html",
+      "slug": "instagram-content-protection-copie-video",
+      "title": "Instagram Content Protection, come gestire le copie dei video",
+      "seo_title": "Instagram Content Protection, come gestire le copie dei video | Marco Dodaro",
+      "desc": "Content Protection arriva ai creator Instagram idonei. Come leggere una corrispondenza, verificare i riutilizzi autorizzati e documentare la decisione.",
+      "date": "2026-11-18",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "Instagram Content Protection copie video",
+      "search_intent": "Organizzare la verifica di una copia segnalata e distinguere match visivo, riutilizzo autorizzato e test sulle trascrizioni.",
+      "image": "https://images.unsplash.com/photo-1739742465291-dfda0a944c8e?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Mano che tiene una videocamera su uno sfondo arancione",
+      "image_id": "btpbaHp_cE0",
+      "image_source": "https://unsplash.com/photos/btpbaHp_cE0",
+      "image_credit": "Cemrecan Yurtman / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.socialmediatoday.com/news/meta-expands-content-protection-to-instagram/874965/",
+        "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+        "https://creators.instagram.com/blog/introducing-content-protection/"
+      ],
+      "url": "https://marcododaro.it/instagram-content-protection-copie-video.html",
+      "date_published": "2026-11-18T08:18:48+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "Instagram Content Protection copie video",
+          "intent": "Organizzare la verifica di una copia segnalata e distinguere match visivo, riutilizzo autorizzato e test sulle trascrizioni.",
+          "category": "Creator economy",
+          "related": "usage-rights-nei-contratti-con-i-creator.html",
+          "readings": [
+            "usage-rights-nei-contratti-con-i-creator.html",
+            "protezione-brand-tiktok-shop-strumenti-controlli.html"
+          ],
+          "difference": "EstensioneContentProtection aInstagram17novembre e gestione dei matchvideo/allowlist. Distinto da tutela marchi/cataloghiTikTok e negoziazione generale usage rights.",
+          "discovery": "Social Media Today",
+          "discovery_url": "https://www.socialmediatoday.com/news/meta-expands-content-protection-to-instagram/874965/",
+          "discovery_date": "2026-11-17",
+          "event_date": "2026-11-17",
+          "evidence": "Fonteprimaria Instagram post/blog429 dopo tentativi. SMT17novembre eTheVerge17novembre letti, copertura attribuita esplicitamente e non contata come originiindipendenti. Matchvisual suIG/FB peridonei,iscrizione; azioni track/hide/credit/release,allowlist daVerge. Trascrizioni test piccolo gruppo, non generalizzatoItalia. Nessuna conclusione legale dalmatch.",
+          "title": "Instagram Content Protection, come gestire le copie dei video",
+          "file": "instagram-content-protection-copie-video.html",
+          "archive_count": 91,
+          "audience": "Aziende, professionisti ed enti di formazione italiani"
+        },
+        "geekout_checked_at": "2026-11-18 07:16:14 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per questa uscita; ultima edizione del 13 novembre letta nel run corrente, nessuna successiva visibile. Tema scelto distinto dall’archivio.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/meta-expands-content-protection-to-instagram/874965/",
+        "discovery_date": "2026-11-17",
+        "event_date": "2026-11-17",
+        "consulted_at": "2026-11-18T08:18:48+01:00",
+        "evidence_summary": "Fonteprimaria Instagram post/blog429 dopo tentativi. SMT17novembre eTheVerge17novembre letti, copertura attribuita esplicitamente e non contata come originiindipendenti. Matchvisual suIG/FB peridonei,iscrizione; azioni track/hide/credit/release,allowlist daVerge. Trascrizioni test piccolo gruppo, non generalizzatoItalia. Nessuna conclusione legale dalmatch.",
+        "access_limits": "EMARKETER presenta un indice con voci di marzo, non usato come ricerca attuale. Annuncio Instagram Creators e post ufficiale restituiscono429; informazioni attribuite a SMT e The Verge, stessa origine. Reddit storico letto nei risultati indicizzati, apertura diretta non disponibile. Nessun paywall aggirato o abbonamento attivato.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale in due passaggi. Titoli, slug, H1/H2, introduzioni, corpi, eventi e fonti confrontati con tutti i91articoli e le altre4uscite. Esempi ipotetici espliciti; nessuna esperienza o risultato attribuiti a Marco.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37,
+          "action": "Pulizia Unicode eseguita e output identico. Fascia bassa, nessuna riscrittura statistica. Valutazione editoriale, non certificazione di paternità.",
+          "instagram_score": 0.0325
+        },
+        "cover": {
+          "remote": 81,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "770270e34f74a2cffc64dab0c47a21633695be46c63dd078c4c301c83d39de8e",
+          "width": 1600,
+          "height": 2400,
+          "closest": [
+            [
+              12,
+              "https://images.unsplash.com/photo-1630051822408-b80dde2f5681"
+            ],
+            [
+              14,
+              "https://images.unsplash.com/photo-1772971837855-4f64761b3de1"
+            ],
+            [
+              14,
+              "nov18/assets/image-67.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1549931368-b04c49887d50"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1653287805993-9a1a7ea28c20"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1705907014767-1c1a4d8ce6be"
+            ]
+          ],
+          "focal": "50% 43%",
+          "cross_selected": [
+            [
+              "JLj_NbvlDDo",
+              "rel2bd79Y50",
+              22
+            ],
+            [
+              "JLj_NbvlDDo",
+              "btpbaHp_cE0",
+              20
+            ],
+            [
+              "JLj_NbvlDDo",
+              "W-tSAyRMy6w",
+              16
+            ],
+            [
+              "JLj_NbvlDDo",
+              "JVUqiEc2Svc",
+              24
+            ],
+            [
+              "rel2bd79Y50",
+              "btpbaHp_cE0",
+              16
+            ],
+            [
+              "rel2bd79Y50",
+              "W-tSAyRMy6w",
+              22
+            ],
+            [
+              "rel2bd79Y50",
+              "JVUqiEc2Svc",
+              20
+            ],
+            [
+              "btpbaHp_cE0",
+              "W-tSAyRMy6w",
+              18
+            ],
+            [
+              "btpbaHp_cE0",
+              "JVUqiEc2Svc",
+              18
+            ],
+            [
+              "W-tSAyRMy6w",
+              "JVUqiEc2Svc",
+              20
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata; escluse Unsplash+ e premium. Censimento completo HTML/meta/log/manifest, URL normalizzati e ID. SHA256 e pHash multiritaglio su81remote e68locali, nessuna incorporata o errore; confronto anche fra5selezionate. Ispezionate foto e sei vicine; punti focali definiti e ritagli finali da verificare prima del commit. Ispezione finale dei cinque ritagli eseguita; foto diverse e soggetti principali preservati. Distanza minima fra cinque scelte16bit su63, euristica accompagnata dall’ispezione."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-18T07:19:06.579585+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+        },
+        "search_console": "Non accessibile in questo run. Nessun dato di impressioni,query,clic,posizioni,indicizzazione o Core Web Vitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "ga4-clic-uscita-prenotazioni-esterne.html",
+            "pinterest-creators-to-watch-2027-brief.html",
+            "instagram-content-protection-copie-video.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-18-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
+    },
+    {
+      "file": "pinterest-creators-to-watch-2027-brief.html",
+      "slug": "pinterest-creators-to-watch-2027-brief",
+      "title": "Pinterest Creators to Watch 2027, dal segnale al brief",
+      "seo_title": "Pinterest Creators to Watch 2027, dal segnale al brief | Marco Dodaro",
+      "desc": "Come leggere la selezione Pinterest Creators to Watch 2027 e trasformare esempi di competenza e formati in un brief utile per il proprio brand.",
+      "date": "2026-11-18",
+      "category": "Creator marketing",
+      "minutes": 4,
+      "keyword": "Pinterest Creators to Watch 2027",
+      "search_intent": "Usare la selezioneeditoriale come materiale di ricerca perbrief, distinguendola da forecast e prova di performance di unacampagna.",
+      "image": "https://images.unsplash.com/photo-1578922794704-7bdd46f70ce0?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Cupcake con glassa rosa e decorazioni colorate su un’alzata",
+      "image_id": "W-tSAyRMy6w",
+      "image_source": "https://unsplash.com/photos/W-tSAyRMy6w",
+      "image_credit": "Robert Anderson / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://newsroom.pinterest.com/en-au/news/creators-to-watch-2027/",
+        "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/"
+      ],
+      "url": "https://marcododaro.it/pinterest-creators-to-watch-2027-brief.html",
+      "date_published": "2026-11-18T08:18:48+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "Pinterest Creators to Watch 2027",
+          "intent": "Usare la selezioneeditoriale come materiale di ricerca perbrief, distinguendola da forecast e prova di performance di unacampagna.",
+          "category": "Creator marketing",
+          "related": "pinterest-guide-regalo-confronto-prodotti.html",
+          "readings": [
+            "pinterest-guide-regalo-confronto-prodotti.html",
+            "come-scegliere-un-influencer-per-una-campagna.html"
+          ],
+          "difference": "Prima analisi della selezione17novembre20creator2027. Ricerca dei formati e costruzione brief, distinta da guide regalo e criterigenerali influencer. Nessuna nuova classifica italiana oanticipazionePredicts.",
+          "discovery": "Social Media Today",
+          "discovery_url": "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/",
+          "discovery_date": "2026-11-17",
+          "event_date": "2026-11-17",
+          "evidence": "FontePinterest17novembre letta: prima selezione20creatorglobali, esempiJustinEllen/LuciaMallea, anticipaPredicts annunciato per8dicembre2026. Omesse percentuali83/77 senza metodologiaaccessibile eutenza661milioni. NessunrankingItalia,efficaciacampagna otrend giàvalidato dedotti.",
+          "title": "Pinterest Creators to Watch 2027, dal segnale al brief",
+          "file": "pinterest-creators-to-watch-2027-brief.html",
+          "archive_count": 91,
+          "audience": "Aziende, professionisti ed enti di formazione italiani"
+        },
+        "geekout_checked_at": "2026-11-18 07:16:15 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per questa uscita; ultima edizione del 13 novembre letta nel run corrente, nessuna successiva visibile. Tema scelto distinto dall’archivio.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/",
+        "discovery_date": "2026-11-17",
+        "event_date": "2026-11-17",
+        "consulted_at": "2026-11-18T08:18:48+01:00",
+        "evidence_summary": "FontePinterest17novembre letta: prima selezione20creatorglobali, esempiJustinEllen/LuciaMallea, anticipaPredicts annunciato per8dicembre2026. Omesse percentuali83/77 senza metodologiaaccessibile eutenza661milioni. NessunrankingItalia,efficaciacampagna otrend giàvalidato dedotti.",
+        "access_limits": "EMARKETER presenta un indice con voci di marzo, non usato come ricerca attuale. Annuncio Instagram Creators e post ufficiale restituiscono429; informazioni attribuite a SMT e The Verge, stessa origine. Reddit storico letto nei risultati indicizzati, apertura diretta non disponibile. Nessun paywall aggirato o abbonamento attivato.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale in due passaggi. Titoli, slug, H1/H2, introduzioni, corpi, eventi e fonti confrontati con tutti i91articoli e le altre4uscite. Esempi ipotetici espliciti; nessuna esperienza o risultato attribuiti a Marco.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37,
+          "action": "Pulizia Unicode eseguita e output identico. Fascia bassa, nessuna riscrittura statistica. Valutazione editoriale, non certificazione di paternità.",
+          "instagram_score": 0.0325
+        },
+        "cover": {
+          "remote": 81,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "3225fcc5ebe18d33d5bf2ba5407018f4c7a21eed750ac1d979c262793c9d2674",
+          "width": 1600,
+          "height": 2400,
+          "closest": [
+            [
+              14,
+              "nov18/assets/image-65.webp"
+            ],
+            [
+              14,
+              "nov18/assets/image-38.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1759002258761-7493050e53c9"
+            ],
+            [
+              16,
+              "nov18/blog-img-article-01.webp"
+            ],
+            [
+              16,
+              "nov18/assets/image-14.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1741389064022-6d470321710e"
+            ]
+          ],
+          "focal": "50% 50%",
+          "cross_selected": [
+            [
+              "JLj_NbvlDDo",
+              "rel2bd79Y50",
+              22
+            ],
+            [
+              "JLj_NbvlDDo",
+              "btpbaHp_cE0",
+              20
+            ],
+            [
+              "JLj_NbvlDDo",
+              "W-tSAyRMy6w",
+              16
+            ],
+            [
+              "JLj_NbvlDDo",
+              "JVUqiEc2Svc",
+              24
+            ],
+            [
+              "rel2bd79Y50",
+              "btpbaHp_cE0",
+              16
+            ],
+            [
+              "rel2bd79Y50",
+              "W-tSAyRMy6w",
+              22
+            ],
+            [
+              "rel2bd79Y50",
+              "JVUqiEc2Svc",
+              20
+            ],
+            [
+              "btpbaHp_cE0",
+              "W-tSAyRMy6w",
+              18
+            ],
+            [
+              "btpbaHp_cE0",
+              "JVUqiEc2Svc",
+              18
+            ],
+            [
+              "W-tSAyRMy6w",
+              "JVUqiEc2Svc",
+              20
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata; escluse Unsplash+ e premium. Censimento completo HTML/meta/log/manifest, URL normalizzati e ID. SHA256 e pHash multiritaglio su81remote e68locali, nessuna incorporata o errore; confronto anche fra5selezionate. Ispezionate foto e sei vicine; punti focali definiti e ritagli finali da verificare prima del commit. Ispezione finale dei cinque ritagli eseguita; foto diverse e soggetti principali preservati. Distanza minima fra cinque scelte16bit su63, euristica accompagnata dall’ispezione."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-18T07:19:06.705859+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+        },
+        "search_console": "Non accessibile in questo run. Nessun dato di impressioni,query,clic,posizioni,indicizzazione o Core Web Vitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "ga4-clic-uscita-prenotazioni-esterne.html",
+            "pinterest-creators-to-watch-2027-brief.html",
+            "instagram-content-protection-copie-video.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-18-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
+    },
+    {
+      "file": "ga4-clic-uscita-prenotazioni-esterne.html",
+      "slug": "ga4-clic-uscita-prenotazioni-esterne",
+      "title": "Clic in uscita in GA4, distinguere accessi e prenotazioni",
+      "seo_title": "Clic in uscita in GA4, distinguere accessi e prenotazioni | Marco Dodaro",
+      "desc": "Come leggere i clic verso un servizio esterno in GA4 e distinguere l’apertura del link da una richiesta o prenotazione effettivamente completata.",
+      "date": "2026-11-18",
+      "category": "Analisi dei dati",
+      "minutes": 4,
+      "keyword": "GA4 clic in uscita prenotazioni",
+      "search_intent": "Misurare il passaggio versounservizioesterno senza presentarlo comeprenotazione, e definire quali prove servono perla conferma.",
+      "image": "https://images.unsplash.com/photo-1739742473235-34a7bd9b8f87?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Mouse nero fotografato su una superficie arancione",
+      "image_id": "JVUqiEc2Svc",
+      "image_source": "https://unsplash.com/photos/JVUqiEc2Svc",
+      "image_credit": "Cemrecan Yurtman / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://support.google.com/analytics/answer/13566436?hl=it",
+        "https://support.google.com/analytics/answer/9216061?hl=it",
+        "https://support.google.com/analytics/answer/9267735?hl=it",
+        "https://www.reddit.com/r/GoogleAnalytics/comments/125z0d1/"
+      ],
+      "url": "https://marcododaro.it/ga4-clic-uscita-prenotazioni-esterne.html",
+      "date_published": "2026-11-18T08:18:48+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "GA4 clic in uscita prenotazioni",
+          "intent": "Misurare il passaggio versounservizioesterno senza presentarlo comeprenotazione, e definire quali prove servono perla conferma.",
+          "category": "Analisi dei dati",
+          "related": "utm-webinar-ga4-acquisizione-traffico.html",
+          "readings": [
+            "utm-webinar-ga4-acquisizione-traffico.html",
+            "come-strutturare-un-processo-commerciale-per-una-piccola-impresa.html"
+          ],
+          "difference": "Eventoclick/link_domain/link_url e confine misura su prenotazionidominioesterno. Distinto daUTM/acquisizionetraffico e dal processocommercialegenerale. Nessun precedentesuoutboundo generate_lead.",
+          "discovery": "Reddit r/GoogleAnalytics, domanda storica verificata su Google Help",
+          "discovery_url": "https://www.reddit.com/r/GoogleAnalytics/comments/125z0d1/",
+          "discovery_date": "2023-03-29",
+          "event_date": null,
+          "evidence": "GoogleHelpprimarioitaliano letto18novembre: outbounddalpropriodominio versoaltro, enhancedmeasurement, esclusicrossdomainconfigurati, parametri link_domain/link_url/outbound eevento click. generate_lead richiedecontestoe non automatico. Reddit29marzo2023testoindicizzatocompleto, aperturaDisabledError dichiarata; non fontefunzionamentotecnico. Nessun accessoaccountGA4/GSC né modifica tracking.",
+          "title": "Clic in uscita in GA4, distinguere accessi e prenotazioni",
+          "file": "ga4-clic-uscita-prenotazioni-esterne.html",
+          "archive_count": 91,
+          "audience": "Aziende, professionisti ed enti di formazione italiani"
+        },
+        "geekout_checked_at": "2026-11-18 07:16:15 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per questa uscita; ultima edizione del 13 novembre letta nel run corrente, nessuna successiva visibile. Tema scelto distinto dall’archivio.",
+        "discovery_source": "Reddit r/GoogleAnalytics, domanda storica verificata su Google Help",
+        "discovery_url": "https://www.reddit.com/r/GoogleAnalytics/comments/125z0d1/",
+        "discovery_date": "2023-03-29",
+        "event_date": null,
+        "consulted_at": "2026-11-18T08:18:48+01:00",
+        "evidence_summary": "GoogleHelpprimarioitaliano letto18novembre: outbounddalpropriodominio versoaltro, enhancedmeasurement, esclusicrossdomainconfigurati, parametri link_domain/link_url/outbound eevento click. generate_lead richiedecontestoe non automatico. Reddit29marzo2023testoindicizzatocompleto, aperturaDisabledError dichiarata; non fontefunzionamentotecnico. Nessun accessoaccountGA4/GSC né modifica tracking.",
+        "access_limits": "EMARKETER presenta un indice con voci di marzo, non usato come ricerca attuale. Annuncio Instagram Creators e post ufficiale restituiscono429; informazioni attribuite a SMT e The Verge, stessa origine. Reddit storico letto nei risultati indicizzati, apertura diretta non disponibile. Nessun paywall aggirato o abbonamento attivato.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale in due passaggi. Titoli, slug, H1/H2, introduzioni, corpi, eventi e fonti confrontati con tutti i91articoli e le altre4uscite. Esempi ipotetici espliciti; nessuna esperienza o risultato attribuiti a Marco.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235,
+          "action": "Pulizia Unicode eseguita e output identico. Fascia bassa, nessuna riscrittura statistica. Valutazione editoriale, non certificazione di paternità.",
+          "instagram_score": 0.0325
+        },
+        "cover": {
+          "remote": 81,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "85a3f3e520cfc2ef452b4afa24648ddea44abae38f1c0570cbe34a1408c78e33",
+          "width": 1600,
+          "height": 2400,
+          "closest": [
+            [
+              12,
+              "https://images.unsplash.com/photo-1739742473336-97631515d5eb"
+            ],
+            [
+              14,
+              "https://images.unsplash.com/photo-1549931368-b04c49887d50"
+            ],
+            [
+              14,
+              "https://images.unsplash.com/photo-1741896135490-4062a3b21abf"
+            ],
+            [
+              14,
+              "nov18/assets/image-60.webp"
+            ],
+            [
+              14,
+              "nov18/assets/image-63.webp"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1650421218675-d49994981462"
+            ]
+          ],
+          "focal": "50% 40%",
+          "cross_selected": [
+            [
+              "JLj_NbvlDDo",
+              "rel2bd79Y50",
+              22
+            ],
+            [
+              "JLj_NbvlDDo",
+              "btpbaHp_cE0",
+              20
+            ],
+            [
+              "JLj_NbvlDDo",
+              "W-tSAyRMy6w",
+              16
+            ],
+            [
+              "JLj_NbvlDDo",
+              "JVUqiEc2Svc",
+              24
+            ],
+            [
+              "rel2bd79Y50",
+              "btpbaHp_cE0",
+              16
+            ],
+            [
+              "rel2bd79Y50",
+              "W-tSAyRMy6w",
+              22
+            ],
+            [
+              "rel2bd79Y50",
+              "JVUqiEc2Svc",
+              20
+            ],
+            [
+              "btpbaHp_cE0",
+              "W-tSAyRMy6w",
+              18
+            ],
+            [
+              "btpbaHp_cE0",
+              "JVUqiEc2Svc",
+              18
+            ],
+            [
+              "W-tSAyRMy6w",
+              "JVUqiEc2Svc",
+              20
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata; escluse Unsplash+ e premium. Censimento completo HTML/meta/log/manifest, URL normalizzati e ID. SHA256 e pHash multiritaglio su81remote e68locali, nessuna incorporata o errore; confronto anche fra5selezionate. Ispezionate foto e sei vicine; punti focali definiti e ritagli finali da verificare prima del commit. Ispezione finale dei cinque ritagli eseguita; foto diverse e soggetti principali preservati. Distanza minima fra cinque scelte16bit su63, euristica accompagnata dall’ispezione."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-18T07:19:06.813022+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "TargetClosedError: Chromium locale termina prima di aprire le pagine."
+        },
+        "search_console": "Non accessibile in questo run. Nessun dato di impressioni,query,clic,posizioni,indicizzazione o Core Web Vitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "ga4-clic-uscita-prenotazioni-esterne.html",
+            "pinterest-creators-to-watch-2027-brief.html",
+            "instagram-content-protection-copie-video.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-18-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
     }
   ]
 }
