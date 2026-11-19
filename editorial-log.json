@@ -7140,6 +7140,893 @@
         },
         "public_access": "ConfrontoHTTP200 diretto di contenuto completo, titolo e corpo riuscito. Lo strumento di ricerca non riesce ad aprire i nuovi URL; verifica completata con clientHTTP del preflight. Browser locale non avviabile, viewport non controllati."
       }
+    },
+    {
+      "file": "youtube-creator-premiere-partnership-serie.html",
+      "slug": "youtube-creator-premiere-partnership-serie",
+      "title": "YouTube Creator Premiere, valutare una partnership in una serie",
+      "seo_title": "YouTube Creator Premiere, valutare una partnership in una serie | Marco Dodaro",
+      "desc": "Creator Premiere 2026 presenta nuove serie YouTube. Come valutare presenza del brand, consegne e condizioni produttive di una partnership di stagione.",
+      "date": "2026-11-19",
+      "category": "Creator economy",
+      "minutes": 4,
+      "keyword": "YouTube Creator Premiere partnership serie",
+      "search_intent": "Valutare il perimetro produttivo e commerciale di una serie creator-led, distinguendo formati e accordi di stagione dal singolo video.",
+      "image": "https://images.unsplash.com/photo-1643753072748-cac34c448e3f?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Sala cinematografica con poltrone rosse e schermo di proiezione",
+      "image_id": "k1bRs5Nvq4c",
+      "image_source": "https://unsplash.com/photos/a-theater-with-red-seats-and-a-projector-screen-k1bRs5Nvq4c",
+      "image_credit": "Denise Jans / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://blog.youtube/news-and-events/youtube-creator-premieres-slate-2026/",
+        "https://www.socialistening.it/blog/youtube-creator-premiere-programmazione-creator-2026-2027/"
+      ],
+      "url": "https://marcododaro.it/youtube-creator-premiere-partnership-serie.html",
+      "date_published": "2026-11-19T08:09:49+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "YouTube Creator Premiere partnership serie",
+          "intent": "Valutare il perimetro produttivo e commerciale di una serie creator-led, distinguendo formati e accordi di stagione dal singolo video.",
+          "related": "media-kit-youtube-risposta-brief-brand.html",
+          "readings": [
+            "microdrama-youtube-shorts-serie-brand.html",
+            "media-kit-youtube-risposta-brief-brand.html"
+          ],
+          "difference": "Evento18novembre2026 non presente nei96articoli. Intento accordo di stagione, distinto da microdramaShorts,mediakitgenerale e lancioGTA.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 96
+        },
+        "geekout_checked_at": "2026-11-19 07:05:56 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ogni uscita e ultima edizione del13novembre consultata oggi. Nessuna edizione successiva visibile; scelto tema inedito rispetto all’archivio.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/youtube-creator-premiere-programmazione-creator-2026-2027/",
+        "discovery_date": "2026-11-18",
+        "event_date": "2026-11-18",
+        "consulted_at": "2026-11-19T08:09:49+01:00",
+        "evidence_summary": "Annuncio primario 18novembre letto: Chef con long-form ePOVshort, EmmaChamberlain sulle codeNYC. Omesse percentuali NYX/Expedia prive di metodologia accessibile, premi, promesse rendimento e inferenze su accesso italiano. Metodo originale di accordo di stagione e esempio ipotetico.",
+        "access_limits": "EMARKETER aperto oggi, indice con voci di marzo, non utilizzato per dati attuali. Meta Creators annuncio Dashboard non accessibile dopo ripetuti tentativi; attribuzione esplicita aSMT nel testo. Reddit storico aperto e letto, usato come spunto, verificato conHelpprimario. Nessun login, paywall aggirato o abbonamento.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale. Confronto cumulativo di titolo normalizzato,slug,H1/H2,introduzione,corpo,eventi,fonti e intento di tutti i96articoli più le altre4uscite. Metodi proposti distinti dai fatti, esempi ipotetici dichiarati, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37,
+          "action": "Pulizia Unicode eseguita, output identico. Fascia bassa, testo verificato senza riscrittura statistica. Misure editoriali, non prova di paternità.",
+          "instagram_score": 0.0325
+        },
+        "cover": {
+          "remote": 86,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "bbf8af5a015ff5337a4ff8786a4ad2ac253ca7e0d7f756a61009a3bb5a1d5f39",
+          "width": 1600,
+          "height": 1200,
+          "closest": [
+            [
+              12,
+              "https://images.unsplash.com/photo-1780535393597-922070f9a9cc"
+            ],
+            [
+              16,
+              "nov19/blog-img-article-05.webp"
+            ],
+            [
+              16,
+              "nov19/assets/image-40.webp"
+            ],
+            [
+              16,
+              "nov19/assets/image-50.webp"
+            ],
+            [
+              16,
+              "nov19/assets/image-18.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1643917567366-5afb8cf4bac9"
+            ]
+          ],
+          "focal": "50% 65%",
+          "cross_selected": [
+            [
+              "k1bRs5Nvq4c",
+              "9hx1l-iFSoQ",
+              22
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "MCqYXoOcYHg",
+              18
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "MCqYXoOcYHg",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "MCqYXoOcYHg",
+              "0ZCbV_Sda7g",
+              18
+            ],
+            [
+              "MCqYXoOcYHg",
+              "7LNatQYMzm4",
+              20
+            ],
+            [
+              "0ZCbV_Sda7g",
+              "7LNatQYMzm4",
+              22
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-19T07:10:08.717669+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "BrowserType.launch: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /usr/bin/chromium --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windo"
+        },
+        "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "capitoli-youtube-video-formativi.html",
+            "creator-dashboard-meta-web-flusso-pubblicazione.html",
+            "easy-lens-cli-prototipo-ar-formazione.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-19-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
+    },
+    {
+      "file": "snapchat-lusso-report-conversazioni-private.html",
+      "slug": "snapchat-lusso-report-conversazioni-private",
+      "title": "Snapchat e lusso, leggere i dati sulle conversazioni private",
+      "seo_title": "Snapchat e lusso, leggere i dati sulle conversazioni private | Marco Dodaro",
+      "desc": "Come interpretare il report Snap, WPP e Ifop sul lusso: campione internazionale, conversazioni private e contenuti che aiutano a valutare un prodotto.",
+      "date": "2026-11-19",
+      "category": "Strategia digitale",
+      "minutes": 4,
+      "keyword": "Snapchat lusso report conversazioni private",
+      "search_intent": "Interpretare la surveySnapWPPIfop e predisporre materiali utili alla valutazione privata di un prodotto, senza inferire conversioni o datiItalia dal totale globale.",
+      "image": "https://images.unsplash.com/photo-1789110854601-6692e03f6622?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Borsa a tracolla rosa metallizzata indossata su una maglietta bianca e pantaloni viola",
+      "image_id": "9hx1l-iFSoQ",
+      "image_source": "https://unsplash.com/photos/person-wearing-metallic-pink-crossbody-bag-9hx1l-iFSoQ",
+      "image_credit": "engin akyurt / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://forbusiness.snapchat.com/blog/new-age-of-luxury",
+        "https://assets.ctfassets.net/inb32lme5009/3xW0vo00wWiN4zwGJTqNH9/76d3c6696a6f906a32294c569be1bd71/The_New_Age_of_Luxury_-_Report_-_Snapchat_X_WPP.pdf",
+        "https://www.socialistening.it/blog/snapchat-lusso-acquisti-influenza-social-relazioni/"
+      ],
+      "url": "https://marcododaro.it/snapchat-lusso-report-conversazioni-private.html",
+      "date_published": "2026-11-19T08:09:49+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "Snapchat lusso report conversazioni private",
+          "intent": "Interpretare la surveySnapWPPIfop e predisporre materiali utili alla valutazione privata di un prodotto, senza inferire conversioni o datiItalia dal totale globale.",
+          "related": "come-creare-un-piano-editoriale-basato-sui-dati.html",
+          "readings": [
+            "eta-pubblico-social-dati-progetto.html",
+            "contenuti-b2b-scelta-fornitore.html"
+          ],
+          "difference": "Ricerca17novembre2026 inedita. Consumerlusso internazionale e denominatori delle percentuali, distinta da contenutiB2B e misura età social.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 96
+        },
+        "geekout_checked_at": "2026-11-19 07:05:56 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ogni uscita e ultima edizione del13novembre consultata oggi. Nessuna edizione successiva visibile; scelto tema inedito rispetto all’archivio.",
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/snapchat-lusso-acquisti-influenza-social-relazioni/",
+        "discovery_date": "2026-11-18",
+        "event_date": "2026-11-17",
+        "consulted_at": "2026-11-19T08:09:49+01:00",
+        "evidence_summary": "Fonte primaria ePDF31pagine consultati. Metodologia p5:9000acquirenti18–45 online,9mercati USAUKFranciaItaliaKSAUAEGiapponeCoreaSudAustralia, quota naturale dailySnapchatters e intervisteesperti.54% dalla presentazioneSnap riferito al campione complessivo, dichiarazioni nonconversioni/cause. Non generalizzato aItalia. Periodo di campo e ponderazioni non ricostruiti se non esplicitati nella metodologia consultata.",
+        "access_limits": "EMARKETER aperto oggi, indice con voci di marzo, non utilizzato per dati attuali. Meta Creators annuncio Dashboard non accessibile dopo ripetuti tentativi; attribuzione esplicita aSMT nel testo. Reddit storico aperto e letto, usato come spunto, verificato conHelpprimario. Nessun login, paywall aggirato o abbonamento.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale. Confronto cumulativo di titolo normalizzato,slug,H1/H2,introduzione,corpo,eventi,fonti e intento di tutti i96articoli più le altre4uscite. Metodi proposti distinti dai fatti, esempi ipotetici dichiarati, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235,
+          "action": "Pulizia Unicode eseguita, output identico. Fascia bassa, testo verificato senza riscrittura statistica. Misure editoriali, non prova di paternità.",
+          "instagram_score": 0.1225
+        },
+        "cover": {
+          "remote": 86,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "20eb75ced0a481ef41e6c519c22941a7b53c92cf7a1656de0c3d140de83decde",
+          "width": 1600,
+          "height": 2400,
+          "closest": [
+            [
+              16,
+              "nov19/assets/image-44.webp"
+            ],
+            [
+              16,
+              "nov19/assets/image-36.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1505751104546-4b63c93054b1"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1592263904934-b00851dc93eb"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1653287805993-9a1a7ea28c20"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1674680252744-feef8a5dec0c"
+            ]
+          ],
+          "focal": "50% 54%",
+          "cross_selected": [
+            [
+              "k1bRs5Nvq4c",
+              "9hx1l-iFSoQ",
+              22
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "MCqYXoOcYHg",
+              18
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "MCqYXoOcYHg",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "MCqYXoOcYHg",
+              "0ZCbV_Sda7g",
+              18
+            ],
+            [
+              "MCqYXoOcYHg",
+              "7LNatQYMzm4",
+              20
+            ],
+            [
+              "0ZCbV_Sda7g",
+              "7LNatQYMzm4",
+              22
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-19T07:10:08.843836+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "BrowserType.launch: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /usr/bin/chromium --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windo"
+        },
+        "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "capitoli-youtube-video-formativi.html",
+            "creator-dashboard-meta-web-flusso-pubblicazione.html",
+            "easy-lens-cli-prototipo-ar-formazione.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-19-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
+    },
+    {
+      "file": "easy-lens-cli-prototipo-ar-formazione.html",
+      "slug": "easy-lens-cli-prototipo-ar-formazione",
+      "title": "Easy Lens CLI, progettare una prova AR con l’AI",
+      "seo_title": "Easy Lens CLI, progettare una prova AR con l’AI | Marco Dodaro",
+      "desc": "Easy Lens CLI collega le Lenses agli assistenti AI. Un metodo per definire l’interazione, provare il prototipo sul telefono e gestire la revisione.",
+      "date": "2026-11-19",
+      "category": "AI e formazione",
+      "minutes": 4,
+      "keyword": "Easy Lens CLI prova AR AI",
+      "search_intent": "Definire una prova di interazioneAR verificabile in un laboratorio di contenutiAI, con controllo su telefono e revisione prima della pubblicazione.",
+      "image": "https://images.unsplash.com/photo-1622979136680-b44cd64ff302?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Controller per realtà virtuale illuminato di blu e rosa su un piano",
+      "image_id": "MCqYXoOcYHg",
+      "image_source": "https://unsplash.com/photos/white-and-pink-wireless-headphones-MCqYXoOcYHg",
+      "image_credit": "Remy Gieling / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://newsroom.snap.com/introducing-easy-lens-cli",
+        "https://www.socialmediatoday.com/news/snapchat-enables-lens-creation-via-third-party-ai-tools/875139/"
+      ],
+      "url": "https://marcododaro.it/easy-lens-cli-prototipo-ar-formazione.html",
+      "date_published": "2026-11-19T08:09:49+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "Easy Lens CLI prova AR AI",
+          "intent": "Definire una prova di interazioneAR verificabile in un laboratorio di contenutiAI, con controllo su telefono e revisione prima della pubblicazione.",
+          "related": "instagram-effect-builder-test-stories.html",
+          "readings": [
+            "instagram-effect-builder-test-stories.html",
+            "tiktok-symphony-riferimenti-video-ai.html"
+          ],
+          "difference": "AnnuncioSnap18novembreCLI inedito. Prova di interazioneAR e stato/feedback, distinta da overlayInstagram e riferimenti videoTikTok.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 96
+        },
+        "geekout_checked_at": "2026-11-19 07:05:57 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ogni uscita e ultima edizione del13novembre consultata oggi. Nessuna edizione successiva visibile; scelto tema inedito rispetto all’archivio.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/snapchat-enables-lens-creation-via-third-party-ai-tools/875139/",
+        "discovery_date": "2026-11-18",
+        "event_date": "2026-11-18",
+        "consulted_at": "2026-11-19T08:09:49+01:00",
+        "evidence_summary": "AnnuncioSnap primario: CLI gratis con accountSnapchat, assistentiClaudeCodeCodexCursor, MacWindowsLinux, preview/invio telefono e medesimi controlli di contenuto/revisioneEasyLens. Gratuità distinta da costiassistente. Nessun toolinstallato/testaccount dichiarato; laboratorio e gestopersonaggio ipotetici. FotoVR illustrativa, nonprodottoSnap.",
+        "access_limits": "EMARKETER aperto oggi, indice con voci di marzo, non utilizzato per dati attuali. Meta Creators annuncio Dashboard non accessibile dopo ripetuti tentativi; attribuzione esplicita aSMT nel testo. Reddit storico aperto e letto, usato come spunto, verificato conHelpprimario. Nessun login, paywall aggirato o abbonamento.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale. Confronto cumulativo di titolo normalizzato,slug,H1/H2,introduzione,corpo,eventi,fonti e intento di tutti i96articoli più le altre4uscite. Metodi proposti distinti dai fatti, esempi ipotetici dichiarati, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.235,
+          "score_after": 0.235,
+          "action": "Pulizia Unicode eseguita, output identico. Fascia bassa, testo verificato senza riscrittura statistica. Misure editoriali, non prova di paternità.",
+          "instagram_score": 0.0325
+        },
+        "cover": {
+          "remote": 86,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "6051745b6fe46aaed65a1641cd6851e6fdf2fa7da8bf0d46ccee09beb7dc07fe",
+          "width": 1600,
+          "height": 1067,
+          "closest": [
+            [
+              14,
+              "https://images.unsplash.com/photo-1739742465291-dfda0a944c8e"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1505751104546-4b63c93054b1"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1772971837855-4f64761b3de1"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1637317759414-4fc43302c454"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1703676311066-34caf2cbee33"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
+            ]
+          ],
+          "focal": "50% 55%",
+          "cross_selected": [
+            [
+              "k1bRs5Nvq4c",
+              "9hx1l-iFSoQ",
+              22
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "MCqYXoOcYHg",
+              18
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "MCqYXoOcYHg",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "MCqYXoOcYHg",
+              "0ZCbV_Sda7g",
+              18
+            ],
+            [
+              "MCqYXoOcYHg",
+              "7LNatQYMzm4",
+              20
+            ],
+            [
+              "0ZCbV_Sda7g",
+              "7LNatQYMzm4",
+              22
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-19T07:10:08.962731+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "BrowserType.launch: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /usr/bin/chromium --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windo"
+        },
+        "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "capitoli-youtube-video-formativi.html",
+            "creator-dashboard-meta-web-flusso-pubblicazione.html",
+            "easy-lens-cli-prototipo-ar-formazione.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-19-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
+    },
+    {
+      "file": "creator-dashboard-meta-web-flusso-pubblicazione.html",
+      "slug": "creator-dashboard-meta-web-flusso-pubblicazione",
+      "title": "Creator Dashboard Meta sul web, verificare il flusso di pubblicazione",
+      "seo_title": "Creator Dashboard Meta sul web, verificare il flusso di pubblicazione | Marco Dodaro",
+      "desc": "Il Creator Dashboard Meta arriva sul web. Come controllare account, bozza, anteprima e approvazione prima di affidargli un’uscita editoriale.",
+      "date": "2026-11-19",
+      "category": "Gestione dei contenuti",
+      "minutes": 4,
+      "keyword": "Creator Dashboard Meta web pubblicazione",
+      "search_intent": "Controllare il passaggio al nuovo ambiente desktop con una bozza, verificando account,anteprima,stato e responsabilità.",
+      "image": "https://images.unsplash.com/photo-1724308509041-1ce0103bf5e1?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Tastiera con tasti multicolore su superfici azzurra e arancione",
+      "image_id": "0ZCbV_Sda7g",
+      "image_source": "https://unsplash.com/photos/a-colorful-keyboard-on-a-blue-and-orange-wall-0ZCbV_Sda7g",
+      "image_credit": "Đào Hiếu / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://www.socialmediatoday.com/news/meta-brings-its-updated-creator-dashboard-to-the-web/875143/",
+        "https://creators.facebook.com/blog/creator-dashboard-web-tools"
+      ],
+      "url": "https://marcododaro.it/creator-dashboard-meta-web-flusso-pubblicazione.html",
+      "date_published": "2026-11-19T08:09:49+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "Creator Dashboard Meta web pubblicazione",
+          "intent": "Controllare il passaggio al nuovo ambiente desktop con una bozza, verificando account,anteprima,stato e responsabilità.",
+          "related": "come-costruire-una-strategia-social-per-unazienda.html",
+          "readings": [
+            "facebook-your-algorithm-contenuti-aziendali.html",
+            "instagram-content-protection-copie-video.html"
+          ],
+          "difference": "Annuncio18novembre2026 inedito, verifica migrazioneflusso operativo; distinto daYourAlgorithm,ContentProtection e MonetizationLinkedIn.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 96
+        },
+        "geekout_checked_at": "2026-11-19 07:05:58 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ogni uscita e ultima edizione del13novembre consultata oggi. Nessuna edizione successiva visibile; scelto tema inedito rispetto all’archivio.",
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/meta-brings-its-updated-creator-dashboard-to-the-web/875143/",
+        "discovery_date": "2026-11-18",
+        "event_date": "2026-11-18",
+        "consulted_at": "2026-11-19T08:09:49+01:00",
+        "evidence_summary": "SMT18novembre letta: webcomposerpostReels,bulkvideo e libreriaaggiornata. PrimariaMeta throttle/erroreaccesso dopo ripetuti tentativi, limite dichiarato nel testo. Nessuna prova di rollout uniformeItalia oaccountaccessi/integrazioni; nessun dettaglioUI nonverificato. Metodo operativo con bozza e ruoli proposto, non funzione dichiarata.",
+        "access_limits": "EMARKETER aperto oggi, indice con voci di marzo, non utilizzato per dati attuali. Meta Creators annuncio Dashboard non accessibile dopo ripetuti tentativi; attribuzione esplicita aSMT nel testo. Reddit storico aperto e letto, usato come spunto, verificato conHelpprimario. Nessun login, paywall aggirato o abbonamento.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale. Confronto cumulativo di titolo normalizzato,slug,H1/H2,introduzione,corpo,eventi,fonti e intento di tutti i96articoli più le altre4uscite. Metodi proposti distinti dai fatti, esempi ipotetici dichiarati, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37,
+          "action": "Pulizia Unicode eseguita, output identico. Fascia bassa, testo verificato senza riscrittura statistica. Misure editoriali, non prova di paternità.",
+          "instagram_score": 0.0325
+        },
+        "cover": {
+          "remote": 86,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "58c11adf81ceb0533c68f224f2a0a871346fe9eebe56e9dc2bae657c4768cad1",
+          "width": 1600,
+          "height": 1000,
+          "closest": [
+            [
+              14,
+              "https://images.unsplash.com/photo-1650421218675-d49994981462"
+            ],
+            [
+              16,
+              "nov19/assets/image-38.webp"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1549931368-b04c49887d50"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1578922794704-7bdd46f70ce0"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1630051822408-b80dde2f5681"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1637317759414-4fc43302c454"
+            ]
+          ],
+          "focal": "50% 52%",
+          "cross_selected": [
+            [
+              "k1bRs5Nvq4c",
+              "9hx1l-iFSoQ",
+              22
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "MCqYXoOcYHg",
+              18
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "MCqYXoOcYHg",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "MCqYXoOcYHg",
+              "0ZCbV_Sda7g",
+              18
+            ],
+            [
+              "MCqYXoOcYHg",
+              "7LNatQYMzm4",
+              20
+            ],
+            [
+              "0ZCbV_Sda7g",
+              "7LNatQYMzm4",
+              22
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-19T07:10:09.090580+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "BrowserType.launch: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /usr/bin/chromium --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windo"
+        },
+        "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "capitoli-youtube-video-formativi.html",
+            "creator-dashboard-meta-web-flusso-pubblicazione.html",
+            "easy-lens-cli-prototipo-ar-formazione.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-19-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
+    },
+    {
+      "file": "capitoli-youtube-video-formativi.html",
+      "slug": "capitoli-youtube-video-formativi",
+      "title": "Capitoli YouTube, rendere consultabile un video formativo",
+      "seo_title": "Capitoli YouTube, rendere consultabile un video formativo | Marco Dodaro",
+      "desc": "Come aggiungere e verificare i capitoli YouTube per un video formativo, con titoli chiari, timestamp corretti e controllo dell’accesso alle funzioni.",
+      "date": "2026-11-19",
+      "category": "Formazione digitale",
+      "minutes": 4,
+      "keyword": "capitoli YouTube video formativi",
+      "search_intent": "Aggiungere e verificare capitoli manuali con titoli che aiutino il recupero di un passaggio, distinguendo navigazione e apprendimento.",
+      "image": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=max&w=1600&q=82",
+      "image_alt": "Cuffie rosa con cavo su uno sfondo diviso fra rosa e azzurro",
+      "image_id": "7LNatQYMzm4",
+      "image_source": "https://unsplash.com/photos/white-corded-headphones-7LNatQYMzm4",
+      "image_credit": "Icons8 Team / Unsplash",
+      "image_license": "Unsplash License",
+      "sources": [
+        "https://support.google.com/youtube/answer/9884579?hl=it",
+        "https://support.google.com/youtube/answer/9890437",
+        "https://www.reddit.com/r/NewTubers/comments/1hz6c2s/how_to_get_chapters_in_your_videos/"
+      ],
+      "url": "https://marcododaro.it/capitoli-youtube-video-formativi.html",
+      "date_published": "2026-11-19T08:09:49+01:00",
+      "status": "deployment_pending",
+      "workflow_review": {
+        "brief": {
+          "keyword": "capitoli YouTube video formativi",
+          "intent": "Aggiungere e verificare capitoli manuali con titoli che aiutino il recupero di un passaggio, distinguendo navigazione e apprendimento.",
+          "related": "come-trasformare-un-articolo-in-contenuti-per-tutti-i-social.html",
+          "readings": [
+            "youtube-playables-accessibilita-formazione.html",
+            "come-trasformare-un-articolo-in-contenuti-per-tutti-i-social.html"
+          ],
+          "difference": "Guida stabile non presente. Capitoli e controllo account/tempi, distinto da A/Bintro,Playables e AskStudio.",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_count": 96
+        },
+        "geekout_checked_at": "2026-11-19 07:05:58 UTC",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto separatamente per ogni uscita e ultima edizione del13novembre consultata oggi. Nessuna edizione successiva visibile; scelto tema inedito rispetto all’archivio.",
+        "discovery_source": "Reddit r/NewTubers e verifica YouTube Help",
+        "discovery_url": "https://www.reddit.com/r/NewTubers/comments/1hz6c2s/how_to_get_chapters_in_your_videos/",
+        "discovery_date": "2025-01-11",
+        "event_date": null,
+        "consulted_at": "2026-11-19T08:09:49+01:00",
+        "evidence_summary": "ThreadReddit aperto e letto, data verificata conreReddit e indicizzazione. Condizioni suprimaryYouTube:00:00,>=3timestampordinecrescente,>=10secondi, manualisostituisconoautomatici, advancedfeatureaccess; non tutti idoneihannoautomatici. Help9890437tabellaaccessoconferma capitoli advanced. Nessun limite100capitoli oobbligodocumento tratto dai commenti; niente promessa didattica/SEO.",
+        "access_limits": "EMARKETER aperto oggi, indice con voci di marzo, non utilizzato per dati attuali. Meta Creators annuncio Dashboard non accessibile dopo ripetuti tentativi; attribuzione esplicita aSMT nel testo. Reddit storico aperto e letto, usato come spunto, verificato conHelpprimario. Nessun login, paywall aggirato o abbonamento.",
+        "editorial_review": "Due letture pertinenti per voce e layout. Revisione lessicale e strutturale. Confronto cumulativo di titolo normalizzato,slug,H1/H2,introduzione,corpo,eventi,fonti e intento di tutti i96articoli più le altre4uscite. Metodi proposti distinti dai fatti, esempi ipotetici dichiarati, nessuna esperienza o risultato inventati.",
+        "text_review": {
+          "unicode_findings": 0,
+          "density_tier": "low",
+          "score_before": 0.37,
+          "score_after": 0.37,
+          "action": "Pulizia Unicode eseguita, output identico. Fascia bassa, testo verificato senza riscrittura statistica. Misure editoriali, non prova di paternità.",
+          "instagram_score": 0.235
+        },
+        "cover": {
+          "remote": 86,
+          "local": 68,
+          "embedded": 0,
+          "errors": [],
+          "sha256": "30a2f8ca772ab1d9af5ec138f6973445d1ef541d1d29a2cd890cf81de0e84478",
+          "width": 1600,
+          "height": 1068,
+          "closest": [
+            [
+              16,
+              "https://images.unsplash.com/photo-1549931368-b04c49887d50"
+            ],
+            [
+              16,
+              "https://images.unsplash.com/photo-1717501218003-3c89682cfb3b"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1505751104546-4b63c93054b1"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1614535552837-8865c0acfd06"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1630051822408-b80dde2f5681"
+            ],
+            [
+              18,
+              "https://images.unsplash.com/photo-1636647677481-f134fda3f408"
+            ]
+          ],
+          "focal": "50% 45%",
+          "cross_selected": [
+            [
+              "k1bRs5Nvq4c",
+              "9hx1l-iFSoQ",
+              22
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "MCqYXoOcYHg",
+              18
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "k1bRs5Nvq4c",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "MCqYXoOcYHg",
+              22
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "0ZCbV_Sda7g",
+              20
+            ],
+            [
+              "9hx1l-iFSoQ",
+              "7LNatQYMzm4",
+              22
+            ],
+            [
+              "MCqYXoOcYHg",
+              "0ZCbV_Sda7g",
+              18
+            ],
+            [
+              "MCqYXoOcYHg",
+              "7LNatQYMzm4",
+              20
+            ],
+            [
+              "0ZCbV_Sda7g",
+              "7LNatQYMzm4",
+              22
+            ]
+          ],
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+        },
+        "checks": {
+          "local": {
+            "status": "pass",
+            "checks": 44,
+            "checked_at": "2026-11-19T07:10:09.213848+00:00",
+            "warnings": []
+          },
+          "live": {
+            "status": "pending"
+          }
+        },
+        "viewport": {
+          "status": "not_checked",
+          "reason": "BrowserType.launch: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /usr/bin/chromium --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windo"
+        },
+        "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
+        "home_insights": {
+          "status": "local_pass",
+          "expected_order": [
+            "capitoli-youtube-video-formativi.html",
+            "creator-dashboard-meta-web-flusso-pubblicazione.html",
+            "easy-lens-cli-prototipo-ar-formazione.html"
+          ]
+        },
+        "instagram": {
+          "draft": "_drafts/2026-11-19-instagram.md",
+          "published": false,
+          "slides": 5
+        }
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -886,6 +886,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "85a3f3e520cfc2ef452b4afa24648ddea44abae38f1c0570cbe34a1408c78e33"
+    },
+    {
+      "article": "youtube-creator-premiere-partnership-serie.html",
+      "image": "https://images.unsplash.com/photo-1643753072748-cac34c448e3f?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-theater-with-red-seats-and-a-projector-screen-k1bRs5Nvq4c",
+      "unsplash_id": "k1bRs5Nvq4c",
+      "photographer": "Denise Jans",
+      "alt": "Sala cinematografica con poltrone rosse e schermo di proiezione",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "bbf8af5a015ff5337a4ff8786a4ad2ac253ca7e0d7f756a61009a3bb5a1d5f39"
+    },
+    {
+      "article": "snapchat-lusso-report-conversazioni-private.html",
+      "image": "https://images.unsplash.com/photo-1789110854601-6692e03f6622?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/person-wearing-metallic-pink-crossbody-bag-9hx1l-iFSoQ",
+      "unsplash_id": "9hx1l-iFSoQ",
+      "photographer": "engin akyurt",
+      "alt": "Borsa a tracolla rosa metallizzata indossata su una maglietta bianca e pantaloni viola",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "20eb75ced0a481ef41e6c519c22941a7b53c92cf7a1656de0c3d140de83decde"
+    },
+    {
+      "article": "easy-lens-cli-prototipo-ar-formazione.html",
+      "image": "https://images.unsplash.com/photo-1622979136680-b44cd64ff302?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/white-and-pink-wireless-headphones-MCqYXoOcYHg",
+      "unsplash_id": "MCqYXoOcYHg",
+      "photographer": "Remy Gieling",
+      "alt": "Controller per realtà virtuale illuminato di blu e rosa su un piano",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "6051745b6fe46aaed65a1641cd6851e6fdf2fa7da8bf0d46ccee09beb7dc07fe"
+    },
+    {
+      "article": "creator-dashboard-meta-web-flusso-pubblicazione.html",
+      "image": "https://images.unsplash.com/photo-1724308509041-1ce0103bf5e1?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-colorful-keyboard-on-a-blue-and-orange-wall-0ZCbV_Sda7g",
+      "unsplash_id": "0ZCbV_Sda7g",
+      "photographer": "Đào Hiếu",
+      "alt": "Tastiera con tasti multicolore su superfici azzurra e arancione",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "58c11adf81ceb0533c68f224f2a0a871346fe9eebe56e9dc2bae657c4768cad1"
+    },
+    {
+      "article": "capitoli-youtube-video-formativi.html",
+      "image": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/white-corded-headphones-7LNatQYMzm4",
+      "unsplash_id": "7LNatQYMzm4",
+      "photographer": "Icons8 Team",
+      "alt": "Cuffie rosa con cavo su uno sfondo diviso fra rosa e azzurro",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "30a2f8ca772ab1d9af5ec138f6973445d1ef541d1d29a2cd890cf81de0e84478"
     }
   ]
 }
