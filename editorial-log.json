@@ -7164,7 +7164,7 @@
       ],
       "url": "https://marcododaro.it/youtube-creator-premiere-partnership-serie.html",
       "date_published": "2026-11-19T08:09:49+01:00",
-      "status": "deployment_pending",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "keyword": "YouTube Creator Premiere partnership serie",
@@ -7285,7 +7285,8 @@
               22
             ]
           ],
-          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo.",
+          "post_publication": "Tutte le cinque immagini pubbliche confrontate perSHA256 con il censimento pre-commit, esito identico. HTML pubblici articolo/blog/home identici ai file verificati; coerenza foto inOG/Twitter/JSON-LD e unicità cumulativa confermate."
         },
         "checks": {
           "local": {
@@ -7295,7 +7296,11 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-19T07:13:26.756434+00:00",
+            "article_sha256": "a2a1e4fbd29347d5b8f08a36825ffec8753467a3e9a18865fa8d2917cec90bc7",
+            "warnings": []
           }
         },
         "viewport": {
@@ -7304,18 +7309,28 @@
         },
         "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
         "home_insights": {
-          "status": "local_pass",
+          "status": "pass",
           "expected_order": [
             "capitoli-youtube-video-formativi.html",
             "creator-dashboard-meta-web-flusso-pubblicazione.html",
             "easy-lens-cli-prototipo-ar-formazione.html"
-          ]
+          ],
+          "checked_at": "2026-11-19T07:14:08.215967+00:00",
+          "sha256": "fa5cb0d02dee175fb4c471bd47c92030f0b6ab58e90de778ebcac040a3d97d82",
+          "detail": "Home pubblica HTTP200 identica al file locale. Tre URL unici nello stesso ordine del blog; fotografie e titoli coerenti."
         },
         "instagram": {
           "draft": "_drafts/2026-11-19-instagram.md",
           "published": false,
           "slides": 5
-        }
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "631ec7801c766b9864ba300f2a822490856ed40e",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44477767152",
+          "public_verified_at": "2026-11-19T07:14:08.215967+00:00"
+        },
+        "public_access": "ConfrontoHTTP200 diretto di contenuto completo, titolo e corpo riuscito. Lo strumento di ricerca non riesce ad aprire i nuovi URL; verifica completata con clientHTTP del preflight. Browser Chromium non avviabile, viewport non controllati."
       }
     },
     {
@@ -7342,7 +7357,7 @@
       ],
       "url": "https://marcododaro.it/snapchat-lusso-report-conversazioni-private.html",
       "date_published": "2026-11-19T08:09:49+01:00",
-      "status": "deployment_pending",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "keyword": "Snapchat lusso report conversazioni private",
@@ -7463,7 +7478,8 @@
               22
             ]
           ],
-          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo.",
+          "post_publication": "Tutte le cinque immagini pubbliche confrontate perSHA256 con il censimento pre-commit, esito identico. HTML pubblici articolo/blog/home identici ai file verificati; coerenza foto inOG/Twitter/JSON-LD e unicità cumulativa confermate."
         },
         "checks": {
           "local": {
@@ -7473,7 +7489,11 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-19T07:13:26.768049+00:00",
+            "article_sha256": "9546351a889118a470f14696e7817bd5a5b6b4e5d40aaeb611101a620fdbeeed",
+            "warnings": []
           }
         },
         "viewport": {
@@ -7482,18 +7502,28 @@
         },
         "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
         "home_insights": {
-          "status": "local_pass",
+          "status": "pass",
           "expected_order": [
             "capitoli-youtube-video-formativi.html",
             "creator-dashboard-meta-web-flusso-pubblicazione.html",
             "easy-lens-cli-prototipo-ar-formazione.html"
-          ]
+          ],
+          "checked_at": "2026-11-19T07:14:08.215967+00:00",
+          "sha256": "fa5cb0d02dee175fb4c471bd47c92030f0b6ab58e90de778ebcac040a3d97d82",
+          "detail": "Home pubblica HTTP200 identica al file locale. Tre URL unici nello stesso ordine del blog; fotografie e titoli coerenti."
         },
         "instagram": {
           "draft": "_drafts/2026-11-19-instagram.md",
           "published": false,
           "slides": 5
-        }
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "631ec7801c766b9864ba300f2a822490856ed40e",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44477767152",
+          "public_verified_at": "2026-11-19T07:14:08.215967+00:00"
+        },
+        "public_access": "ConfrontoHTTP200 diretto di contenuto completo, titolo e corpo riuscito. Lo strumento di ricerca non riesce ad aprire i nuovi URL; verifica completata con clientHTTP del preflight. Browser Chromium non avviabile, viewport non controllati."
       }
     },
     {
@@ -7519,7 +7549,7 @@
       ],
       "url": "https://marcododaro.it/easy-lens-cli-prototipo-ar-formazione.html",
       "date_published": "2026-11-19T08:09:49+01:00",
-      "status": "deployment_pending",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "keyword": "Easy Lens CLI prova AR AI",
@@ -7640,7 +7670,8 @@
               22
             ]
           ],
-          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo.",
+          "post_publication": "Tutte le cinque immagini pubbliche confrontate perSHA256 con il censimento pre-commit, esito identico. HTML pubblici articolo/blog/home identici ai file verificati; coerenza foto inOG/Twitter/JSON-LD e unicità cumulativa confermate."
         },
         "checks": {
           "local": {
@@ -7650,7 +7681,11 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-19T07:13:26.763743+00:00",
+            "article_sha256": "6f36a299309feaab90d71d7548f2ca92b22d6c5ff56bd75aadfd54b3059dca05",
+            "warnings": []
           }
         },
         "viewport": {
@@ -7659,18 +7694,28 @@
         },
         "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
         "home_insights": {
-          "status": "local_pass",
+          "status": "pass",
           "expected_order": [
             "capitoli-youtube-video-formativi.html",
             "creator-dashboard-meta-web-flusso-pubblicazione.html",
             "easy-lens-cli-prototipo-ar-formazione.html"
-          ]
+          ],
+          "checked_at": "2026-11-19T07:14:08.215967+00:00",
+          "sha256": "fa5cb0d02dee175fb4c471bd47c92030f0b6ab58e90de778ebcac040a3d97d82",
+          "detail": "Home pubblica HTTP200 identica al file locale. Tre URL unici nello stesso ordine del blog; fotografie e titoli coerenti."
         },
         "instagram": {
           "draft": "_drafts/2026-11-19-instagram.md",
           "published": false,
           "slides": 5
-        }
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "631ec7801c766b9864ba300f2a822490856ed40e",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44477767152",
+          "public_verified_at": "2026-11-19T07:14:08.215967+00:00"
+        },
+        "public_access": "ConfrontoHTTP200 diretto di contenuto completo, titolo e corpo riuscito. Lo strumento di ricerca non riesce ad aprire i nuovi URL; verifica completata con clientHTTP del preflight. Browser Chromium non avviabile, viewport non controllati."
       }
     },
     {
@@ -7696,7 +7741,7 @@
       ],
       "url": "https://marcododaro.it/creator-dashboard-meta-web-flusso-pubblicazione.html",
       "date_published": "2026-11-19T08:09:49+01:00",
-      "status": "deployment_pending",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "keyword": "Creator Dashboard Meta web pubblicazione",
@@ -7817,7 +7862,8 @@
               22
             ]
           ],
-          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo.",
+          "post_publication": "Tutte le cinque immagini pubbliche confrontate perSHA256 con il censimento pre-commit, esito identico. HTML pubblici articolo/blog/home identici ai file verificati; coerenza foto inOG/Twitter/JSON-LD e unicità cumulativa confermate."
         },
         "checks": {
           "local": {
@@ -7827,7 +7873,11 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-19T07:13:26.759619+00:00",
+            "article_sha256": "b44871e0bbb4a64eab0ac8765f904f93884ff8951c4c84843ec9fb07388f4bc2",
+            "warnings": []
           }
         },
         "viewport": {
@@ -7836,18 +7886,28 @@
         },
         "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
         "home_insights": {
-          "status": "local_pass",
+          "status": "pass",
           "expected_order": [
             "capitoli-youtube-video-formativi.html",
             "creator-dashboard-meta-web-flusso-pubblicazione.html",
             "easy-lens-cli-prototipo-ar-formazione.html"
-          ]
+          ],
+          "checked_at": "2026-11-19T07:14:08.215967+00:00",
+          "sha256": "fa5cb0d02dee175fb4c471bd47c92030f0b6ab58e90de778ebcac040a3d97d82",
+          "detail": "Home pubblica HTTP200 identica al file locale. Tre URL unici nello stesso ordine del blog; fotografie e titoli coerenti."
         },
         "instagram": {
           "draft": "_drafts/2026-11-19-instagram.md",
           "published": false,
           "slides": 5
-        }
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "631ec7801c766b9864ba300f2a822490856ed40e",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44477767152",
+          "public_verified_at": "2026-11-19T07:14:08.215967+00:00"
+        },
+        "public_access": "ConfrontoHTTP200 diretto di contenuto completo, titolo e corpo riuscito. Lo strumento di ricerca non riesce ad aprire i nuovi URL; verifica completata con clientHTTP del preflight. Browser Chromium non avviabile, viewport non controllati."
       }
     },
     {
@@ -7874,7 +7934,7 @@
       ],
       "url": "https://marcododaro.it/capitoli-youtube-video-formativi.html",
       "date_published": "2026-11-19T08:09:49+01:00",
-      "status": "deployment_pending",
+      "status": "published",
       "workflow_review": {
         "brief": {
           "keyword": "capitoli YouTube video formativi",
@@ -7995,7 +8055,8 @@
               22
             ]
           ],
-          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo."
+          "visual_review": "Licenza gratuita sulla pagina singola verificata. Censimento completo HTML/meta/log/manifest, ID e URL normalizzati, SHA256 e pHash63bit su11ritagli perimmagine contro86remote e68locali;0incorporate,0errori. Confronti anche fra cinque scelte, foto e sei vicine ispezionate; scartate candidate grigie/scure. Ritagli finali da verificare prima del commit. Ispezione dei cinque ritagli finali eseguita; soggetti preservati e nessuna foto ripetuta. Minima distanza pHash incrociata18bit su63, misura euristica accompagnata dal controllo visivo.",
+          "post_publication": "Tutte le cinque immagini pubbliche confrontate perSHA256 con il censimento pre-commit, esito identico. HTML pubblici articolo/blog/home identici ai file verificati; coerenza foto inOG/Twitter/JSON-LD e unicità cumulativa confermate."
         },
         "checks": {
           "local": {
@@ -8005,7 +8066,11 @@
             "warnings": []
           },
           "live": {
-            "status": "pending"
+            "status": "pass",
+            "checks": 51,
+            "checked_at": "2026-11-19T07:13:26.764560+00:00",
+            "article_sha256": "6bdd1cbc40950d6efd3b1eb524799bdd0248a9fbba217d2cb63b1b68f18737d2",
+            "warnings": []
           }
         },
         "viewport": {
@@ -8014,18 +8079,28 @@
         },
         "search_console": "Non accessibile in questo run; nessun dato di query,click,impressioni,posizioni,indicizzazione o CoreWebVitals inventato.",
         "home_insights": {
-          "status": "local_pass",
+          "status": "pass",
           "expected_order": [
             "capitoli-youtube-video-formativi.html",
             "creator-dashboard-meta-web-flusso-pubblicazione.html",
             "easy-lens-cli-prototipo-ar-formazione.html"
-          ]
+          ],
+          "checked_at": "2026-11-19T07:14:08.215967+00:00",
+          "sha256": "fa5cb0d02dee175fb4c471bd47c92030f0b6ab58e90de778ebcac040a3d97d82",
+          "detail": "Home pubblica HTTP200 identica al file locale. Tre URL unici nello stesso ordine del blog; fotografie e titoli coerenti."
         },
         "instagram": {
           "draft": "_drafts/2026-11-19-instagram.md",
           "published": false,
           "slides": 5
-        }
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "631ec7801c766b9864ba300f2a822490856ed40e",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44477767152",
+          "public_verified_at": "2026-11-19T07:14:08.215967+00:00"
+        },
+        "public_access": "ConfrontoHTTP200 diretto di contenuto completo, titolo e corpo riuscito. Lo strumento di ricerca non riesce ad aprire i nuovi URL; verifica completata con clientHTTP del preflight. Browser Chromium non avviabile, viewport non controllati."
       }
     }
   ]
