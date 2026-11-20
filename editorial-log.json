@@ -8114,7 +8114,7 @@
         "https://newsroom.tiktok.com/94-of-global-hits-went-viral-on-tiktok-first-reveals-new-2026-music-impact-report?lang=en",
         "https://www.socialistening.it/blog/tiktok-scoperta-musicale-report-2026-classifiche/"
       ],
-      "status": "deployment_pending",
+      "status": "published",
       "image": "https://images.unsplash.com/photo-1745848413041-3eeb106db501?auto=format&fit=max&w=1600&q=82",
       "image_id": "DjGSoA8ubzo",
       "image_source": "https://unsplash.com/photos/a-microphone-on-a-stand-against-a-yellow-background-DjGSoA8ubzo",
@@ -8351,7 +8351,20 @@
             "alt": "Microfono su asta davanti a uno sfondo giallo caldo"
           },
           "license_page_verified": true,
-          "visual_uniqueness_verified": true
+          "visual_uniqueness_verified": true,
+          "post_publication": {
+            "status": "pass",
+            "checked_at": "2026-11-20T07:24:41.346815+00:00",
+            "same_photo_article_blog_social_schema": true,
+            "hash_verification": {
+              "photo": "DjGSoA8ubzo",
+              "sha256": "6b9ca056b407bc18e2cea3e9c55119fb7142569e948b460b3dd1a91ae5da6d76",
+              "expected_sha256": "6b9ca056b407bc18e2cea3e9c55119fb7142569e948b460b3dd1a91ae5da6d76",
+              "exact_match": true,
+              "image_content_type": "image/jpeg",
+              "http_status": 200
+            }
+          }
         },
         "viewport_review": {
           "status": "not_verified",
@@ -8370,7 +8383,16 @@
             "threads-qa-live-domande-moderazione.html",
             "modificare-storie-instagram-correzioni.html"
           ],
-          "public_verification": "pending"
+          "public_verification": {
+            "status": "pass",
+            "exact_content_match": true,
+            "order": [
+              "google-moduli-quiz-feedback-partecipanti.html",
+              "threads-qa-live-domande-moderazione.html",
+              "modificare-storie-instagram-correzioni.html"
+            ],
+            "verified_at": "2026-11-20T07:24:41.346815+00:00"
+          }
         },
         "instagram_draft": "_drafts/2026-11-20-instagram.md",
         "local_checks": {
@@ -8612,8 +8634,340 @@
           "live": false,
           "article_sha256": "0a41e9448a0a51e0d8250572a55c8bca2849433d35f2e11c9d439b49f56c39e4"
         },
-        "public_checks": "pending"
-      }
+        "public_checks": {
+          "article": "tiktok-music-impact-report-2026-dati.html",
+          "checked_at": "2026-11-20T07:24:18.047590+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live X-Robots-Tag",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live title and article body match",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live canonical and cover",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live blog matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live sitemap matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live robots matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live cover serves image",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": true,
+          "article_sha256": "0a41e9448a0a51e0d8250572a55c8bca2849433d35f2e11c9d439b49f56c39e4"
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "53dafd4c73c97362dd948e388ae9e959006de700",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44694597885",
+          "verified_at": "2026-11-20T07:24:41.346815+00:00"
+        },
+        "archive_post_publication": {
+          "unique_articles": 106,
+          "single_featured": true,
+          "previous_featured_once_in_grid": true,
+          "blog_sitemap_robots_exact_match": true
+        },
+        "full_public_content_verification": {
+          "checks_passed": 19,
+          "checks": [
+            {
+              "file": "index.html",
+              "exact_match": true,
+              "sha256": "9348d08022398fd3dfa8317bf99b0febdbc90ed1e8bec9f09d215163b90df58b",
+              "http_status": 200
+            },
+            {
+              "file": "blog.html",
+              "exact_match": true,
+              "sha256": "f7bf9b3fcb2cdd9cfe9afaa67d622b93f9c8cd6248c49f281f5bfa00594d89a5",
+              "http_status": 200
+            },
+            {
+              "file": "sitemap.xml",
+              "exact_match": true,
+              "sha256": "64585e0d70e890657333eac3e9420841bb25b99edef1e0287811ff747969c1db",
+              "http_status": 200
+            },
+            {
+              "file": "robots.txt",
+              "exact_match": true,
+              "sha256": "c033951fa69570a63f353b798e3e9f9dd3f8687b21629a4143392a841f784131",
+              "http_status": 200
+            },
+            {
+              "file": "tiktok-music-impact-report-2026-dati.html",
+              "exact_match": true,
+              "sha256": "0a41e9448a0a51e0d8250572a55c8bca2849433d35f2e11c9d439b49f56c39e4",
+              "http_status": 200
+            },
+            {
+              "file": "soundon-la-postal-lancio-musicale-tiktok.html",
+              "exact_match": true,
+              "sha256": "125323f2e5ec9806c6c5ba22b8dcdd26e492c773ddf32e94232141e3e1fabdfc",
+              "http_status": 200
+            }
+          ]
+        },
+        "performance_observation": {
+          "article_bytes": 41360,
+          "cover_download_bytes": 142650,
+          "note": "Dimensioni effettive, nessun test Lighthouse o Core Web Vitals eseguito."
+        }
+      },
+      "verified_at": "2026-11-20T07:24:41.346815+00:00"
     },
     {
       "date": "2026-11-20",
@@ -8626,7 +8980,7 @@
         "https://forbusiness.snapchat.com/blog/snapchat-expands-creator-ad-solutions",
         "https://www.socialistening.it/blog/snapchat-strumenti-creator-partnership-snap-map/"
       ],
-      "status": "deployment_pending",
+      "status": "published",
       "image": "https://images.unsplash.com/photo-1774549150028-edffdcd91f16?auto=format&fit=max&w=1600&q=82",
       "image_id": "iCNg_rektpQ",
       "image_source": "https://unsplash.com/photos/orange-phone-and-notebook-on-a-white-table-iCNg_rektpQ",
@@ -8871,7 +9225,20 @@
             "alt": "Smartphone arancione e quaderno su un tavolo davanti a un divano verde"
           },
           "license_page_verified": true,
-          "visual_uniqueness_verified": true
+          "visual_uniqueness_verified": true,
+          "post_publication": {
+            "status": "pass",
+            "checked_at": "2026-11-20T07:24:41.346815+00:00",
+            "same_photo_article_blog_social_schema": true,
+            "hash_verification": {
+              "photo": "iCNg_rektpQ",
+              "sha256": "c4f930250d67f02bc4eea6f8ad8b6ab4c8314ba07f3f94a84bab95d073c92273",
+              "expected_sha256": "c4f930250d67f02bc4eea6f8ad8b6ab4c8314ba07f3f94a84bab95d073c92273",
+              "exact_match": true,
+              "image_content_type": "image/jpeg",
+              "http_status": 200
+            }
+          }
         },
         "viewport_review": {
           "status": "not_verified",
@@ -8890,7 +9257,16 @@
             "threads-qa-live-domande-moderazione.html",
             "modificare-storie-instagram-correzioni.html"
           ],
-          "public_verification": "pending"
+          "public_verification": {
+            "status": "pass",
+            "exact_content_match": true,
+            "order": [
+              "google-moduli-quiz-feedback-partecipanti.html",
+              "threads-qa-live-domande-moderazione.html",
+              "modificare-storie-instagram-correzioni.html"
+            ],
+            "verified_at": "2026-11-20T07:24:41.346815+00:00"
+          }
         },
         "instagram_draft": "_drafts/2026-11-20-instagram.md",
         "local_checks": {
@@ -9132,8 +9508,340 @@
           "live": false,
           "article_sha256": "82cff925c18f90f04fe681bc170ce72ffc2aad892423b33f98ba9d18a164e099"
         },
-        "public_checks": "pending"
-      }
+        "public_checks": {
+          "article": "snap-creator-network-shortlist-ai.html",
+          "checked_at": "2026-11-20T07:24:18.044304+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live X-Robots-Tag",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live title and article body match",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live canonical and cover",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live blog matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live sitemap matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live robots matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live cover serves image",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": true,
+          "article_sha256": "82cff925c18f90f04fe681bc170ce72ffc2aad892423b33f98ba9d18a164e099"
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "53dafd4c73c97362dd948e388ae9e959006de700",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44694597885",
+          "verified_at": "2026-11-20T07:24:41.346815+00:00"
+        },
+        "archive_post_publication": {
+          "unique_articles": 106,
+          "single_featured": true,
+          "previous_featured_once_in_grid": true,
+          "blog_sitemap_robots_exact_match": true
+        },
+        "full_public_content_verification": {
+          "checks_passed": 19,
+          "checks": [
+            {
+              "file": "index.html",
+              "exact_match": true,
+              "sha256": "9348d08022398fd3dfa8317bf99b0febdbc90ed1e8bec9f09d215163b90df58b",
+              "http_status": 200
+            },
+            {
+              "file": "blog.html",
+              "exact_match": true,
+              "sha256": "f7bf9b3fcb2cdd9cfe9afaa67d622b93f9c8cd6248c49f281f5bfa00594d89a5",
+              "http_status": 200
+            },
+            {
+              "file": "sitemap.xml",
+              "exact_match": true,
+              "sha256": "64585e0d70e890657333eac3e9420841bb25b99edef1e0287811ff747969c1db",
+              "http_status": 200
+            },
+            {
+              "file": "robots.txt",
+              "exact_match": true,
+              "sha256": "c033951fa69570a63f353b798e3e9f9dd3f8687b21629a4143392a841f784131",
+              "http_status": 200
+            },
+            {
+              "file": "snap-creator-network-shortlist-ai.html",
+              "exact_match": true,
+              "sha256": "82cff925c18f90f04fe681bc170ce72ffc2aad892423b33f98ba9d18a164e099",
+              "http_status": 200
+            },
+            {
+              "file": "come-scegliere-un-influencer-per-una-campagna.html",
+              "exact_match": true,
+              "sha256": "b28556824d888646a6e70174796c3e3651a52c99b5eec8cd4a33f8e103297420",
+              "http_status": 200
+            }
+          ]
+        },
+        "performance_observation": {
+          "article_bytes": 41502,
+          "cover_download_bytes": 186668,
+          "note": "Dimensioni effettive, nessun test Lighthouse o Core Web Vitals eseguito."
+        }
+      },
+      "verified_at": "2026-11-20T07:24:41.346815+00:00"
     },
     {
       "date": "2026-11-20",
@@ -9146,7 +9854,7 @@
         "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/",
         "https://www.instagram.com/p/Df5UIXBG9v3/?img_index=1"
       ],
-      "status": "deployment_pending",
+      "status": "published",
       "image": "https://images.unsplash.com/photo-1729514552992-91c78b07a88a?auto=format&fit=max&w=1600&q=82",
       "image_id": "iSeawjCwtLs",
       "image_source": "https://unsplash.com/photos/a-cell-phone-and-a-charger-on-a-yellow-background-iSeawjCwtLs",
@@ -9391,7 +10099,20 @@
             "alt": "Smartphone con cavo e caricatore su uno sfondo giallo"
           },
           "license_page_verified": true,
-          "visual_uniqueness_verified": true
+          "visual_uniqueness_verified": true,
+          "post_publication": {
+            "status": "pass",
+            "checked_at": "2026-11-20T07:24:41.346815+00:00",
+            "same_photo_article_blog_social_schema": true,
+            "hash_verification": {
+              "photo": "iSeawjCwtLs",
+              "sha256": "9b545ce1994ca6e46834c4d4d84510e5bff3e2e7c3a13b967100a0a91fd64c9a",
+              "expected_sha256": "9b545ce1994ca6e46834c4d4d84510e5bff3e2e7c3a13b967100a0a91fd64c9a",
+              "exact_match": true,
+              "image_content_type": "image/jpeg",
+              "http_status": 200
+            }
+          }
         },
         "viewport_review": {
           "status": "not_verified",
@@ -9410,7 +10131,16 @@
             "threads-qa-live-domande-moderazione.html",
             "modificare-storie-instagram-correzioni.html"
           ],
-          "public_verification": "pending"
+          "public_verification": {
+            "status": "pass",
+            "exact_content_match": true,
+            "order": [
+              "google-moduli-quiz-feedback-partecipanti.html",
+              "threads-qa-live-domande-moderazione.html",
+              "modificare-storie-instagram-correzioni.html"
+            ],
+            "verified_at": "2026-11-20T07:24:41.346815+00:00"
+          }
         },
         "instagram_draft": "_drafts/2026-11-20-instagram.md",
         "local_checks": {
@@ -9652,8 +10382,340 @@
           "live": false,
           "article_sha256": "91c8512f6b9046dc3758bfe3b54a4806f878f6b7bdafd97b22ed89491d7af694"
         },
-        "public_checks": "pending"
-      }
+        "public_checks": {
+          "article": "modificare-storie-instagram-correzioni.html",
+          "checked_at": "2026-11-20T07:24:18.092866+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live X-Robots-Tag",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live title and article body match",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live canonical and cover",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live blog matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live sitemap matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live robots matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live cover serves image",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": true,
+          "article_sha256": "91c8512f6b9046dc3758bfe3b54a4806f878f6b7bdafd97b22ed89491d7af694"
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "53dafd4c73c97362dd948e388ae9e959006de700",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44694597885",
+          "verified_at": "2026-11-20T07:24:41.346815+00:00"
+        },
+        "archive_post_publication": {
+          "unique_articles": 106,
+          "single_featured": true,
+          "previous_featured_once_in_grid": true,
+          "blog_sitemap_robots_exact_match": true
+        },
+        "full_public_content_verification": {
+          "checks_passed": 19,
+          "checks": [
+            {
+              "file": "index.html",
+              "exact_match": true,
+              "sha256": "9348d08022398fd3dfa8317bf99b0febdbc90ed1e8bec9f09d215163b90df58b",
+              "http_status": 200
+            },
+            {
+              "file": "blog.html",
+              "exact_match": true,
+              "sha256": "f7bf9b3fcb2cdd9cfe9afaa67d622b93f9c8cd6248c49f281f5bfa00594d89a5",
+              "http_status": 200
+            },
+            {
+              "file": "sitemap.xml",
+              "exact_match": true,
+              "sha256": "64585e0d70e890657333eac3e9420841bb25b99edef1e0287811ff747969c1db",
+              "http_status": 200
+            },
+            {
+              "file": "robots.txt",
+              "exact_match": true,
+              "sha256": "c033951fa69570a63f353b798e3e9f9dd3f8687b21629a4143392a841f784131",
+              "http_status": 200
+            },
+            {
+              "file": "modificare-storie-instagram-correzioni.html",
+              "exact_match": true,
+              "sha256": "91c8512f6b9046dc3758bfe3b54a4806f878f6b7bdafd97b22ed89491d7af694",
+              "http_status": 200
+            },
+            {
+              "file": "creator-dashboard-meta-web-flusso-pubblicazione.html",
+              "exact_match": true,
+              "sha256": "77dbf996362929695bd8f5a44087d35001e61fa5cd2ee678d04f2f34b94aae42",
+              "http_status": 200
+            }
+          ]
+        },
+        "performance_observation": {
+          "article_bytes": 41175,
+          "cover_download_bytes": 123882,
+          "note": "Dimensioni effettive, nessun test Lighthouse o Core Web Vitals eseguito."
+        }
+      },
+      "verified_at": "2026-11-20T07:24:41.346815+00:00"
     },
     {
       "date": "2026-11-20",
@@ -9667,7 +10729,7 @@
         "https://about.fb.com/news/2026/04/threads-live-chats/",
         "https://www.threads.com/@threads/post/Df7kSgBJVNz"
       ],
-      "status": "deployment_pending",
+      "status": "published",
       "image": "https://images.unsplash.com/photo-1735639013995-086e648eaa38?auto=format&fit=max&w=1600&q=82",
       "image_id": "fQOyF0D0cDU",
       "image_source": "https://unsplash.com/photos/a-wall-with-a-bunch-of-sticky-notes-on-it-fQOyF0D0cDU",
@@ -9912,7 +10974,20 @@
             "alt": "Lavagna con note adesive azzurre, verdi, rosa e arancioni"
           },
           "license_page_verified": true,
-          "visual_uniqueness_verified": true
+          "visual_uniqueness_verified": true,
+          "post_publication": {
+            "status": "pass",
+            "checked_at": "2026-11-20T07:24:41.346815+00:00",
+            "same_photo_article_blog_social_schema": true,
+            "hash_verification": {
+              "photo": "fQOyF0D0cDU",
+              "sha256": "f55b3b0704ef1d91505c00ec757ca57eff4005e2c6e69f82de29dc3a03e8ca2c",
+              "expected_sha256": "f55b3b0704ef1d91505c00ec757ca57eff4005e2c6e69f82de29dc3a03e8ca2c",
+              "exact_match": true,
+              "image_content_type": "image/jpeg",
+              "http_status": 200
+            }
+          }
         },
         "viewport_review": {
           "status": "not_verified",
@@ -9931,7 +11006,16 @@
             "threads-qa-live-domande-moderazione.html",
             "modificare-storie-instagram-correzioni.html"
           ],
-          "public_verification": "pending"
+          "public_verification": {
+            "status": "pass",
+            "exact_content_match": true,
+            "order": [
+              "google-moduli-quiz-feedback-partecipanti.html",
+              "threads-qa-live-domande-moderazione.html",
+              "modificare-storie-instagram-correzioni.html"
+            ],
+            "verified_at": "2026-11-20T07:24:41.346815+00:00"
+          }
         },
         "instagram_draft": "_drafts/2026-11-20-instagram.md",
         "local_checks": {
@@ -10173,8 +11257,340 @@
           "live": false,
           "article_sha256": "ab6a393c5db5cc3758860bf5960c3e0062dbb520dad930a8f334dc6cac176572"
         },
-        "public_checks": "pending"
-      }
+        "public_checks": {
+          "article": "threads-qa-live-domande-moderazione.html",
+          "checked_at": "2026-11-20T07:24:18.043202+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live X-Robots-Tag",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live title and article body match",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live canonical and cover",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live blog matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live sitemap matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live robots matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live cover serves image",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": true,
+          "article_sha256": "ab6a393c5db5cc3758860bf5960c3e0062dbb520dad930a8f334dc6cac176572"
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "53dafd4c73c97362dd948e388ae9e959006de700",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44694597885",
+          "verified_at": "2026-11-20T07:24:41.346815+00:00"
+        },
+        "archive_post_publication": {
+          "unique_articles": 106,
+          "single_featured": true,
+          "previous_featured_once_in_grid": true,
+          "blog_sitemap_robots_exact_match": true
+        },
+        "full_public_content_verification": {
+          "checks_passed": 19,
+          "checks": [
+            {
+              "file": "index.html",
+              "exact_match": true,
+              "sha256": "9348d08022398fd3dfa8317bf99b0febdbc90ed1e8bec9f09d215163b90df58b",
+              "http_status": 200
+            },
+            {
+              "file": "blog.html",
+              "exact_match": true,
+              "sha256": "f7bf9b3fcb2cdd9cfe9afaa67d622b93f9c8cd6248c49f281f5bfa00594d89a5",
+              "http_status": 200
+            },
+            {
+              "file": "sitemap.xml",
+              "exact_match": true,
+              "sha256": "64585e0d70e890657333eac3e9420841bb25b99edef1e0287811ff747969c1db",
+              "http_status": 200
+            },
+            {
+              "file": "robots.txt",
+              "exact_match": true,
+              "sha256": "c033951fa69570a63f353b798e3e9f9dd3f8687b21629a4143392a841f784131",
+              "http_status": 200
+            },
+            {
+              "file": "threads-qa-live-domande-moderazione.html",
+              "exact_match": true,
+              "sha256": "ab6a393c5db5cc3758860bf5960c3e0062dbb520dad930a8f334dc6cac176572",
+              "http_status": 200
+            },
+            {
+              "file": "ricerca-threads-filtri-domande-clienti.html",
+              "exact_match": true,
+              "sha256": "8daf1d8eba944c34992b25a75110d5b3a48eb20ac5b1d896cd65919f98d3c87f",
+              "http_status": 200
+            }
+          ]
+        },
+        "performance_observation": {
+          "article_bytes": 41348,
+          "cover_download_bytes": 115124,
+          "note": "Dimensioni effettive, nessun test Lighthouse o Core Web Vitals eseguito."
+        }
+      },
+      "verified_at": "2026-11-20T07:24:41.346815+00:00"
     },
     {
       "date": "2026-11-20",
@@ -10187,7 +11603,7 @@
         "https://support.google.com/docs/answer/7032287?hl=it",
         "https://www.reddit.com/r/GoogleForms/comments/1f6kb6n/"
       ],
-      "status": "deployment_pending",
+      "status": "published",
       "image": "https://images.unsplash.com/photo-1746440160680-2c50206e568a?auto=format&fit=max&w=1600&q=82",
       "image_id": "89blqIkdCgA",
       "image_source": "https://unsplash.com/photos/a-colorful-creative-workspace-bathed-in-sunlight-89blqIkdCgA",
@@ -10432,7 +11848,20 @@
             "alt": "Scrivania per lo studio con mappa, materiali colorati e lampada gialla"
           },
           "license_page_verified": true,
-          "visual_uniqueness_verified": true
+          "visual_uniqueness_verified": true,
+          "post_publication": {
+            "status": "pass",
+            "checked_at": "2026-11-20T07:24:41.346815+00:00",
+            "same_photo_article_blog_social_schema": true,
+            "hash_verification": {
+              "photo": "89blqIkdCgA",
+              "sha256": "e8d62ae03a479297d63852eb0fa1fd98bbe38f3b13cff15d15d5a7488d726e17",
+              "expected_sha256": "e8d62ae03a479297d63852eb0fa1fd98bbe38f3b13cff15d15d5a7488d726e17",
+              "exact_match": true,
+              "image_content_type": "image/jpeg",
+              "http_status": 200
+            }
+          }
         },
         "viewport_review": {
           "status": "not_verified",
@@ -10451,7 +11880,16 @@
             "threads-qa-live-domande-moderazione.html",
             "modificare-storie-instagram-correzioni.html"
           ],
-          "public_verification": "pending"
+          "public_verification": {
+            "status": "pass",
+            "exact_content_match": true,
+            "order": [
+              "google-moduli-quiz-feedback-partecipanti.html",
+              "threads-qa-live-domande-moderazione.html",
+              "modificare-storie-instagram-correzioni.html"
+            ],
+            "verified_at": "2026-11-20T07:24:41.346815+00:00"
+          }
         },
         "instagram_draft": "_drafts/2026-11-20-instagram.md",
         "local_checks": {
@@ -10693,8 +12131,340 @@
           "live": false,
           "article_sha256": "9ccfdfb98131a223a88f8210a96a75d876dc5cd84e4868d9ba2cfe5b5e1f4807"
         },
-        "public_checks": "pending"
-      }
+        "public_checks": {
+          "article": "google-moduli-quiz-feedback-partecipanti.html",
+          "checked_at": "2026-11-20T07:24:18.103530+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live X-Robots-Tag",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live title and article body match",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live canonical and cover",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live blog matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live sitemap matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live robots matches",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Live cover serves image",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": true,
+          "article_sha256": "9ccfdfb98131a223a88f8210a96a75d876dc5cd84e4868d9ba2cfe5b5e1f4807"
+        },
+        "deployment": {
+          "status": "success",
+          "commit": "53dafd4c73c97362dd948e388ae9e959006de700",
+          "run_url": "https://github.com/marcododaro90-lang/marco-dodaro-website/actions/runs/44694597885",
+          "verified_at": "2026-11-20T07:24:41.346815+00:00"
+        },
+        "archive_post_publication": {
+          "unique_articles": 106,
+          "single_featured": true,
+          "previous_featured_once_in_grid": true,
+          "blog_sitemap_robots_exact_match": true
+        },
+        "full_public_content_verification": {
+          "checks_passed": 19,
+          "checks": [
+            {
+              "file": "index.html",
+              "exact_match": true,
+              "sha256": "9348d08022398fd3dfa8317bf99b0febdbc90ed1e8bec9f09d215163b90df58b",
+              "http_status": 200
+            },
+            {
+              "file": "blog.html",
+              "exact_match": true,
+              "sha256": "f7bf9b3fcb2cdd9cfe9afaa67d622b93f9c8cd6248c49f281f5bfa00594d89a5",
+              "http_status": 200
+            },
+            {
+              "file": "sitemap.xml",
+              "exact_match": true,
+              "sha256": "64585e0d70e890657333eac3e9420841bb25b99edef1e0287811ff747969c1db",
+              "http_status": 200
+            },
+            {
+              "file": "robots.txt",
+              "exact_match": true,
+              "sha256": "c033951fa69570a63f353b798e3e9f9dd3f8687b21629a4143392a841f784131",
+              "http_status": 200
+            },
+            {
+              "file": "google-moduli-quiz-feedback-partecipanti.html",
+              "exact_match": true,
+              "sha256": "9ccfdfb98131a223a88f8210a96a75d876dc5cd84e4868d9ba2cfe5b5e1f4807",
+              "http_status": 200
+            },
+            {
+              "file": "come-valutare-le-competenze-ai-dei-dipendenti.html",
+              "exact_match": true,
+              "sha256": "b1a9e09af707791c7137e07b83a68fc117204e45bf48caae36b156e963c7efae",
+              "http_status": 200
+            }
+          ]
+        },
+        "performance_observation": {
+          "article_bytes": 41554,
+          "cover_download_bytes": 959136,
+          "note": "Dimensioni effettive, nessun test Lighthouse o Core Web Vitals eseguito."
+        }
+      },
+      "verified_at": "2026-11-20T07:24:41.346815+00:00"
     }
   ]
 }
