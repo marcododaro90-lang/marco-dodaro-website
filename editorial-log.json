@@ -8102,6 +8102,2599 @@
         },
         "public_access": "ConfrontoHTTP200 diretto di contenuto completo, titolo e corpo riuscito. Lo strumento di ricerca non riesce ad aprire i nuovi URL; verifica completata con clientHTTP del preflight. Browser Chromium non avviabile, viewport non controllati."
       }
+    },
+    {
+      "date": "2026-11-20",
+      "date_published": "2026-11-20T08:18:15+01:00",
+      "title": "TikTok Music Impact Report 2026, leggere il dato del 94%",
+      "slug": "tiktok-music-impact-report-2026-dati",
+      "file": "tiktok-music-impact-report-2026-dati.html",
+      "url": "https://marcododaro.it/tiktok-music-impact-report-2026-dati.html",
+      "sources": [
+        "https://newsroom.tiktok.com/94-of-global-hits-went-viral-on-tiktok-first-reveals-new-2026-music-impact-report?lang=en",
+        "https://www.socialistening.it/blog/tiktok-scoperta-musicale-report-2026-classifiche/"
+      ],
+      "status": "deployment_pending",
+      "image": "https://images.unsplash.com/photo-1745848413041-3eeb106db501?auto=format&fit=max&w=1600&q=82",
+      "image_id": "DjGSoA8ubzo",
+      "image_source": "https://unsplash.com/photos/a-microphone-on-a-stand-against-a-yellow-background-DjGSoA8ubzo",
+      "image_credit": "dlxmedia.hu / Unsplash",
+      "image_license": "Unsplash License",
+      "workflow_review": {
+        "brief": {
+          "slug": "tiktok-music-impact-report-2026-dati",
+          "title": "TikTok Music Impact Report 2026, leggere il dato del 94%",
+          "desc": "Che cosa misura il 94% del TikTok Music Impact Report 2026 e come distinguere viralità, ingresso in classifica e risultati di una campagna musicale.",
+          "category": "Creator economy",
+          "keyword": "TikTok Music Impact Report 2026",
+          "intent": "Interpretare il denominatore del dato sui brani in classifica e usarlo senza dedurre probabilità di successo per una campagna.",
+          "difference": "Nuovo report del 18 novembre; distinto dal caso SoundOn La Postal e dal confronto di quote di conversazioni sul caffè.",
+          "readings": [
+            "soundon-la-postal-lancio-musicale-tiktok.html",
+            "social-listening-volumi-visualizzazioni-canali.html"
+          ],
+          "discovery": "Social Listening",
+          "limits": "Report commissionato da TikTok a Luminate. Nessuna ricostruzione indipendente delle definizioni di viralità; nessuna inferenza sul mercato italiano.",
+          "inbound": "soundon-la-postal-lancio-musicale-tiktok.html",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_compared": 101
+        },
+        "duplicate_review": {
+          "slug": "tiktok-music-impact-report-2026-dati",
+          "title_and_slug_unique": true,
+          "closest_title_candidates": [
+            [
+              0.16666666666666666,
+              "tiktok-shop-live-report-uk-2026.html"
+            ],
+            [
+              0.11764705882352941,
+              "black-friday-tiktok-shop-2026-piano-contenuti.html"
+            ],
+            [
+              0.1,
+              "youtube-hype-gemme-valutare-sostegno-pubblico.html"
+            ],
+            [
+              0.08695652173913043,
+              "ai-skills-gap-2026-progetti-falliscono.html"
+            ],
+            [
+              0.0625,
+              "protezione-brand-tiktok-shop-strumenti-controlli.html"
+            ]
+          ],
+          "same_event_and_intent": false,
+          "manual_comparison": "Nuovo report del 18 novembre; distinto dal caso SoundOn La Postal e dal confronto di quote di conversazioni sul caffè.",
+          "sources_overlap": []
+        },
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/tiktok-scoperta-musicale-report-2026-classifiche/",
+        "source_access_limits": "Report commissionato da TikTok a Luminate. Nessuna ricostruzione indipendente delle definizioni di viralità; nessuna inferenza sul mercato italiano.",
+        "sources_consulted_at": "2026-11-20T08:18:15+01:00",
+        "editorial_review": {
+          "two_passes_completed": true,
+          "focus": "Precisione, attribuzione, neutralità, esempi ipotetici, gerarchia e paragrafi senza riempitivi. Nessuna parafrasi cosmetica delle fonti di scoperta.",
+          "text_measurement": {
+            "before": {
+              "length": 4832,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body1.txt",
+                "word_count": 710,
+                "sentence_count": 45,
+                "burstiness_cv": 0.3918,
+                "lexical_diversity": 0.877,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.235,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 4832,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body1.txt",
+                "word_count": 710,
+                "sentence_count": 45,
+                "burstiness_cv": 0.3918,
+                "lexical_diversity": 0.877,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.235,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "instagram_measurement": {
+            "before": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "interpretation": "Rilievi locali di supporto editoriale, non certificazione di paternità o esito di rilevatori."
+        },
+        "geekout_checked_at": "2026-11-20T07:15:24+00:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto per questa uscita. Nessuna edizione del 20 novembre visibile; selezionato tema distinto dalle fonti annotate.",
+        "other_discovery_checks": {
+          "social_media_today": "Hub e articoli del 19 novembre consultati.",
+          "emarketer": "Indice Advertising & Marketing accessibile ma con voci visibili di marzo; nessuna ricerca integrale o stima usata, nessun paywall aggirato.",
+          "reddit": "Spunto storico GoogleForms verificato con documentazione Google; testo indicizzato, apertura diretta non riuscita."
+        },
+        "cover_review": {
+          "remote_images_compared": 91,
+          "local_images_compared": 58,
+          "embedded_images_compared": 0,
+          "download_errors": [],
+          "normalization": "ID pagina e percorso CDN senza parametri; intero HTML, meta, registro e manifest.",
+          "method": "SHA256 e pHash DCT su immagine intera e dieci ritagli per ogni immagine; confronto anche fra le cinque candidate. Ispezione visiva di candidata, sei vicine e ritaglio panoramico.",
+          "photo": {
+            "id": "DjGSoA8ubzo",
+            "page": "https://unsplash.com/photos/a-microphone-on-a-stand-against-a-yellow-background-DjGSoA8ubzo",
+            "author": "dlxmedia.hu",
+            "image": "https://images.unsplash.com/photo-1745848413041-3eeb106db501?auto=format&fit=max&w=1600&q=82",
+            "sha256": "6b9ca056b407bc18e2cea3e9c55119fb7142569e948b460b3dd1a91ae5da6d76",
+            "size": [
+              1600,
+              1067
+            ],
+            "nearest": [
+              {
+                "distance": 14,
+                "key": "https://images.unsplash.com/photo-1549931368-b04c49887d50?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 14,
+                "key": "nov20/assets/image-58.webp"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1622979136680-b44cd64ff302?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1584626113891-fb4040a20bcb?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1781094934965-1cd18427dbb6?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1653287805993-9a1a7ea28c20?auto=format&fit=max&w=450&q=80"
+              }
+            ],
+            "focal": "60% 42%",
+            "alt": "Microfono su asta davanti a uno sfondo giallo caldo"
+          },
+          "license_page_verified": true,
+          "visual_uniqueness_verified": true
+        },
+        "viewport_review": {
+          "status": "not_verified",
+          "widths_requested": [
+            375,
+            768,
+            1280
+          ],
+          "reason": "Avvio Chromium /usr/bin/chromium con Playwright e --no-sandbox fallito: TargetClosedError. Nessuna schermata o misura resa inventata.",
+          "static_layout": "CSS preservato: una evidenza cover panoramica sopra testo, massimo tre colonne e una su mobile."
+        },
+        "search_console": "Non accessibile in questa esecuzione; nessuna indicizzazione o performance misurata.",
+        "home_update": {
+          "expected_order": [
+            "google-moduli-quiz-feedback-partecipanti.html",
+            "threads-qa-live-domande-moderazione.html",
+            "modificare-storie-instagram-correzioni.html"
+          ],
+          "public_verification": "pending"
+        },
+        "instagram_draft": "_drafts/2026-11-20-instagram.md",
+        "local_checks": {
+          "article": "tiktok-music-impact-report-2026-dati.html",
+          "checked_at": "2026-11-20T07:19:30.648316+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": false,
+          "article_sha256": "0a41e9448a0a51e0d8250572a55c8bca2849433d35f2e11c9d439b49f56c39e4"
+        },
+        "public_checks": "pending"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "date_published": "2026-11-20T08:18:15+01:00",
+      "title": "Snap Creator Network, verificare una shortlist suggerita dall’AI",
+      "slug": "snap-creator-network-shortlist-ai",
+      "file": "snap-creator-network-shortlist-ai.html",
+      "url": "https://marcododaro.it/snap-creator-network-shortlist-ai.html",
+      "sources": [
+        "https://forbusiness.snapchat.com/blog/snapchat-expands-creator-ad-solutions",
+        "https://www.socialistening.it/blog/snapchat-strumenti-creator-partnership-snap-map/"
+      ],
+      "status": "deployment_pending",
+      "image": "https://images.unsplash.com/photo-1774549150028-edffdcd91f16?auto=format&fit=max&w=1600&q=82",
+      "image_id": "iCNg_rektpQ",
+      "image_source": "https://unsplash.com/photos/orange-phone-and-notebook-on-a-white-table-iCNg_rektpQ",
+      "image_credit": "Jakub Żerdzicki / Unsplash",
+      "image_license": "Unsplash License",
+      "workflow_review": {
+        "brief": {
+          "slug": "snap-creator-network-shortlist-ai",
+          "title": "Snap Creator Network, verificare una shortlist suggerita dall’AI",
+          "desc": "Come valutare i creator suggeriti dalla ricerca AI di Snap Creator Network, con criteri di selezione e limiti dei nuovi programmi annunciati da Snapchat.",
+          "category": "Creator marketing",
+          "keyword": "Snap Creator Network ricerca AI",
+          "intent": "Preparare criteri e prove per validare una shortlist AI prima di scegliere una partnership.",
+          "difference": "Nuova ricerca AI in open beta del 18 novembre; distinto da lista editoriale Pinterest, ricerca Snap sul lusso e guida generale alla selezione.",
+          "readings": [
+            "come-scegliere-un-influencer-per-una-campagna.html",
+            "pinterest-creators-to-watch-2027-brief.html"
+          ],
+          "discovery": "Social Listening",
+          "limits": "Funzioni e disponibilità attribuite a Snap. Il programma per agenzie annuncia USA, Regno Unito e MENA, senza lancio italiano documentato.",
+          "inbound": "come-scegliere-un-influencer-per-una-campagna.html",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_compared": 101
+        },
+        "duplicate_review": {
+          "slug": "snap-creator-network-shortlist-ai",
+          "title_and_slug_unique": true,
+          "closest_title_candidates": [
+            [
+              0.125,
+              "creator-virtuali-e-influencer-ai-opportunita-e-limiti.html"
+            ],
+            [
+              0.11764705882352941,
+              "youtube-creator-premiere-partnership-serie.html"
+            ],
+            [
+              0.11764705882352941,
+              "assistenti-ai-insight-creator-decisioni-editoriali.html"
+            ],
+            [
+              0.1111111111111111,
+              "prompt-injection-formazione-ai-prova-pratica.html"
+            ],
+            [
+              0.10526315789473684,
+              "report-ricerca-ai-verificare-fonti-corso.html"
+            ]
+          ],
+          "same_event_and_intent": false,
+          "manual_comparison": "Nuova ricerca AI in open beta del 18 novembre; distinto da lista editoriale Pinterest, ricerca Snap sul lusso e guida generale alla selezione.",
+          "sources_overlap": []
+        },
+        "discovery_source": "Social Listening",
+        "discovery_url": "https://www.socialistening.it/blog/snapchat-strumenti-creator-partnership-snap-map/",
+        "source_access_limits": "Funzioni e disponibilità attribuite a Snap. Il programma per agenzie annuncia USA, Regno Unito e MENA, senza lancio italiano documentato.",
+        "sources_consulted_at": "2026-11-20T08:18:15+01:00",
+        "editorial_review": {
+          "two_passes_completed": true,
+          "focus": "Precisione, attribuzione, neutralità, esempi ipotetici, gerarchia e paragrafi senza riempitivi. Nessuna parafrasi cosmetica delle fonti di scoperta.",
+          "text_measurement": {
+            "before": {
+              "length": 4911,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body2.txt",
+                "word_count": 717,
+                "sentence_count": 43,
+                "burstiness_cv": 0.3477,
+                "lexical_diversity": 0.8799,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.37,
+                "confidence_level": "LOW",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [
+                  "Unnaturally uniform sentence cadence (CV=0.35 < 0.35)"
+                ],
+                "findings_confidence": [
+                  "informational"
+                ],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 4911,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body2.txt",
+                "word_count": 717,
+                "sentence_count": 43,
+                "burstiness_cv": 0.3477,
+                "lexical_diversity": 0.8799,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.37,
+                "confidence_level": "LOW",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [
+                  "Unnaturally uniform sentence cadence (CV=0.35 < 0.35)"
+                ],
+                "findings_confidence": [
+                  "informational"
+                ],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "instagram_measurement": {
+            "before": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "interpretation": "Rilievi locali di supporto editoriale, non certificazione di paternità o esito di rilevatori."
+        },
+        "geekout_checked_at": "2026-11-20T07:15:24+00:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto per questa uscita. Nessuna edizione del 20 novembre visibile; selezionato tema distinto dalle fonti annotate.",
+        "other_discovery_checks": {
+          "social_media_today": "Hub e articoli del 19 novembre consultati.",
+          "emarketer": "Indice Advertising & Marketing accessibile ma con voci visibili di marzo; nessuna ricerca integrale o stima usata, nessun paywall aggirato.",
+          "reddit": "Spunto storico GoogleForms verificato con documentazione Google; testo indicizzato, apertura diretta non riuscita."
+        },
+        "cover_review": {
+          "remote_images_compared": 91,
+          "local_images_compared": 58,
+          "embedded_images_compared": 0,
+          "download_errors": [],
+          "normalization": "ID pagina e percorso CDN senza parametri; intero HTML, meta, registro e manifest.",
+          "method": "SHA256 e pHash DCT su immagine intera e dieci ritagli per ogni immagine; confronto anche fra le cinque candidate. Ispezione visiva di candidata, sei vicine e ritaglio panoramico.",
+          "photo": {
+            "id": "iCNg_rektpQ",
+            "page": "https://unsplash.com/photos/orange-phone-and-notebook-on-a-white-table-iCNg_rektpQ",
+            "author": "Jakub Żerdzicki",
+            "image": "https://images.unsplash.com/photo-1774549150028-edffdcd91f16?auto=format&fit=max&w=1600&q=82",
+            "sha256": "c4f930250d67f02bc4eea6f8ad8b6ab4c8314ba07f3f94a84bab95d073c92273",
+            "size": [
+              1600,
+              1067
+            ],
+            "nearest": [
+              {
+                "distance": 12,
+                "key": "https://images.unsplash.com/photo-1739742473336-97631515d5eb?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1739742473235-34a7bd9b8f87?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1760360059351-11e70b0025e3?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "nov20/assets/image-22.webp"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1758598305340-95c68b43ce49?auto=format&fit=max&w=450&q=80"
+              }
+            ],
+            "focal": "45% 58%",
+            "alt": "Smartphone arancione e quaderno su un tavolo davanti a un divano verde"
+          },
+          "license_page_verified": true,
+          "visual_uniqueness_verified": true
+        },
+        "viewport_review": {
+          "status": "not_verified",
+          "widths_requested": [
+            375,
+            768,
+            1280
+          ],
+          "reason": "Avvio Chromium /usr/bin/chromium con Playwright e --no-sandbox fallito: TargetClosedError. Nessuna schermata o misura resa inventata.",
+          "static_layout": "CSS preservato: una evidenza cover panoramica sopra testo, massimo tre colonne e una su mobile."
+        },
+        "search_console": "Non accessibile in questa esecuzione; nessuna indicizzazione o performance misurata.",
+        "home_update": {
+          "expected_order": [
+            "google-moduli-quiz-feedback-partecipanti.html",
+            "threads-qa-live-domande-moderazione.html",
+            "modificare-storie-instagram-correzioni.html"
+          ],
+          "public_verification": "pending"
+        },
+        "instagram_draft": "_drafts/2026-11-20-instagram.md",
+        "local_checks": {
+          "article": "snap-creator-network-shortlist-ai.html",
+          "checked_at": "2026-11-20T07:19:30.769817+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": false,
+          "article_sha256": "82cff925c18f90f04fe681bc170ce72ffc2aad892423b33f98ba9d18a164e099"
+        },
+        "public_checks": "pending"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "date_published": "2026-11-20T08:18:15+01:00",
+      "title": "Modificare le Storie Instagram, gestire una correzione",
+      "slug": "modificare-storie-instagram-correzioni",
+      "file": "modificare-storie-instagram-correzioni.html",
+      "url": "https://marcododaro.it/modificare-storie-instagram-correzioni.html",
+      "sources": [
+        "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/",
+        "https://www.instagram.com/p/Df5UIXBG9v3/?img_index=1"
+      ],
+      "status": "deployment_pending",
+      "image": "https://images.unsplash.com/photo-1729514552992-91c78b07a88a?auto=format&fit=max&w=1600&q=82",
+      "image_id": "iSeawjCwtLs",
+      "image_source": "https://unsplash.com/photos/a-cell-phone-and-a-charger-on-a-yellow-background-iSeawjCwtLs",
+      "image_credit": "Andrey Matveev / Unsplash",
+      "image_license": "Unsplash License",
+      "workflow_review": {
+        "brief": {
+          "slug": "modificare-storie-instagram-correzioni",
+          "title": "Modificare le Storie Instagram, gestire una correzione",
+          "desc": "Instagram introduce la modifica delle Storie entro 15 minuti: come organizzare controllo, correzione e chiarimenti per chi ha già visto il contenuto.",
+          "category": "Social media",
+          "keyword": "modificare Storie Instagram dopo pubblicazione",
+          "intent": "Gestire un errore in una Story distinguendo modifica disponibile, chiarimento al pubblico e verifica del contenuto corretto.",
+          "difference": "Editing dopo pubblicazione riportato il 19 novembre; non creazione effetti o flusso del composer web.",
+          "readings": [
+            "creator-dashboard-meta-web-flusso-pubblicazione.html",
+            "instagram-effect-builder-test-stories.html"
+          ],
+          "discovery": "Social Media Today",
+          "limits": "Post originale Instagram non consultabile per throttling. Descrizione del rilascio attribuita a Social Media Today; disponibilità per tutti gli account italiani non dimostrata.",
+          "inbound": "creator-dashboard-meta-web-flusso-pubblicazione.html",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_compared": 101
+        },
+        "duplicate_review": {
+          "slug": "modificare-storie-instagram-correzioni",
+          "title_and_slug_unique": true,
+          "closest_title_candidates": [
+            [
+              0.2,
+              "instagram-content-protection-copie-video.html"
+            ],
+            [
+              0.11764705882352941,
+              "instagram-effect-builder-test-stories.html"
+            ],
+            [
+              0.11764705882352941,
+              "edits-curve-velocita-demo-prodotto.html"
+            ],
+            [
+              0.06666666666666667,
+              "notebooklm-fonti-corso-aggiornamento.html"
+            ],
+            [
+              0.06666666666666667,
+              "come-valutare-le-competenze-ai-dei-dipendenti.html"
+            ]
+          ],
+          "same_event_and_intent": false,
+          "manual_comparison": "Editing dopo pubblicazione riportato il 19 novembre; non creazione effetti o flusso del composer web.",
+          "sources_overlap": []
+        },
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/",
+        "source_access_limits": "Post originale Instagram non consultabile per throttling. Descrizione del rilascio attribuita a Social Media Today; disponibilità per tutti gli account italiani non dimostrata.",
+        "sources_consulted_at": "2026-11-20T08:18:15+01:00",
+        "editorial_review": {
+          "two_passes_completed": true,
+          "focus": "Precisione, attribuzione, neutralità, esempi ipotetici, gerarchia e paragrafi senza riempitivi. Nessuna parafrasi cosmetica delle fonti di scoperta.",
+          "text_measurement": {
+            "before": {
+              "length": 4735,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body3.txt",
+                "word_count": 703,
+                "sentence_count": 44,
+                "burstiness_cv": 0.3397,
+                "lexical_diversity": 0.8782,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.37,
+                "confidence_level": "LOW",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [
+                  "Unnaturally uniform sentence cadence (CV=0.34 < 0.35)"
+                ],
+                "findings_confidence": [
+                  "informational"
+                ],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 4735,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body3.txt",
+                "word_count": 703,
+                "sentence_count": 44,
+                "burstiness_cv": 0.3397,
+                "lexical_diversity": 0.8782,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.37,
+                "confidence_level": "LOW",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [
+                  "Unnaturally uniform sentence cadence (CV=0.34 < 0.35)"
+                ],
+                "findings_confidence": [
+                  "informational"
+                ],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "instagram_measurement": {
+            "before": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "interpretation": "Rilievi locali di supporto editoriale, non certificazione di paternità o esito di rilevatori."
+        },
+        "geekout_checked_at": "2026-11-20T07:15:24+00:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto per questa uscita. Nessuna edizione del 20 novembre visibile; selezionato tema distinto dalle fonti annotate.",
+        "other_discovery_checks": {
+          "social_media_today": "Hub e articoli del 19 novembre consultati.",
+          "emarketer": "Indice Advertising & Marketing accessibile ma con voci visibili di marzo; nessuna ricerca integrale o stima usata, nessun paywall aggirato.",
+          "reddit": "Spunto storico GoogleForms verificato con documentazione Google; testo indicizzato, apertura diretta non riuscita."
+        },
+        "cover_review": {
+          "remote_images_compared": 91,
+          "local_images_compared": 58,
+          "embedded_images_compared": 0,
+          "download_errors": [],
+          "normalization": "ID pagina e percorso CDN senza parametri; intero HTML, meta, registro e manifest.",
+          "method": "SHA256 e pHash DCT su immagine intera e dieci ritagli per ogni immagine; confronto anche fra le cinque candidate. Ispezione visiva di candidata, sei vicine e ritaglio panoramico.",
+          "photo": {
+            "id": "iSeawjCwtLs",
+            "page": "https://unsplash.com/photos/a-cell-phone-and-a-charger-on-a-yellow-background-iSeawjCwtLs",
+            "author": "Andrey Matveev",
+            "image": "https://images.unsplash.com/photo-1729514552992-91c78b07a88a?auto=format&fit=max&w=1600&q=82",
+            "sha256": "9b545ce1994ca6e46834c4d4d84510e5bff3e2e7c3a13b967100a0a91fd64c9a",
+            "size": [
+              1600,
+              1200
+            ],
+            "nearest": [
+              {
+                "distance": 12,
+                "key": "https://images.unsplash.com/photo-1754762372302-7e6a3d79a666?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1739742473336-97631515d5eb?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1741896135490-4062a3b21abf?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "nov20/assets/image-49.webp"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1755718669986-6a64e677420c?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1714386819907-ce134e3bb0ff?auto=format&fit=max&w=450&q=80"
+              }
+            ],
+            "focal": "50% 42%",
+            "alt": "Smartphone con cavo e caricatore su uno sfondo giallo"
+          },
+          "license_page_verified": true,
+          "visual_uniqueness_verified": true
+        },
+        "viewport_review": {
+          "status": "not_verified",
+          "widths_requested": [
+            375,
+            768,
+            1280
+          ],
+          "reason": "Avvio Chromium /usr/bin/chromium con Playwright e --no-sandbox fallito: TargetClosedError. Nessuna schermata o misura resa inventata.",
+          "static_layout": "CSS preservato: una evidenza cover panoramica sopra testo, massimo tre colonne e una su mobile."
+        },
+        "search_console": "Non accessibile in questa esecuzione; nessuna indicizzazione o performance misurata.",
+        "home_update": {
+          "expected_order": [
+            "google-moduli-quiz-feedback-partecipanti.html",
+            "threads-qa-live-domande-moderazione.html",
+            "modificare-storie-instagram-correzioni.html"
+          ],
+          "public_verification": "pending"
+        },
+        "instagram_draft": "_drafts/2026-11-20-instagram.md",
+        "local_checks": {
+          "article": "modificare-storie-instagram-correzioni.html",
+          "checked_at": "2026-11-20T07:19:30.889793+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": false,
+          "article_sha256": "91c8512f6b9046dc3758bfe3b54a4806f878f6b7bdafd97b22ed89491d7af694"
+        },
+        "public_checks": "pending"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "date_published": "2026-11-20T08:18:15+01:00",
+      "title": "Q&A live su Threads, preparare domande e moderazione",
+      "slug": "threads-qa-live-domande-moderazione",
+      "file": "threads-qa-live-domande-moderazione.html",
+      "url": "https://marcododaro.it/threads-qa-live-domande-moderazione.html",
+      "sources": [
+        "https://www.socialmediatoday.com/news/threads-tests-new-qa-option-in-live-chats/875287/",
+        "https://about.fb.com/news/2026/04/threads-live-chats/",
+        "https://www.threads.com/@threads/post/Df7kSgBJVNz"
+      ],
+      "status": "deployment_pending",
+      "image": "https://images.unsplash.com/photo-1735639013995-086e648eaa38?auto=format&fit=max&w=1600&q=82",
+      "image_id": "fQOyF0D0cDU",
+      "image_source": "https://unsplash.com/photos/a-wall-with-a-bunch-of-sticky-notes-on-it-fQOyF0D0cDU",
+      "image_credit": "Jakub Żerdzicki / Unsplash",
+      "image_license": "Unsplash License",
+      "workflow_review": {
+        "brief": {
+          "slug": "threads-qa-live-domande-moderazione",
+          "title": "Q&A live su Threads, preparare domande e moderazione",
+          "desc": "Threads sperimenta domande votate nelle live chat. Come preparare un Q&A professionale, gestire la moderazione e distinguere interesse e rappresentatività.",
+          "category": "Community digitali",
+          "keyword": "Threads Q&A live chat",
+          "intent": "Preparare una sessione di domande con criteri di moderazione e un piano alternativo durante il test limitato della funzione.",
+          "difference": "Test Q&A del 19 novembre, distinto dai filtri di ricerca Threads e dalla gestione persistente dei gruppi di corso.",
+          "readings": [
+            "ricerca-threads-filtri-domande-clienti.html",
+            "gruppi-whatsapp-corsi-community-aggiornamenti.html"
+          ],
+          "discovery": "Social Media Today",
+          "limits": "Post primario del test non accessibile, HTTP 429. La pagina Meta di aprile conferma il contesto Live Chats, non il nuovo test. Nessuna disponibilità generale o italiana dedotta.",
+          "inbound": "ricerca-threads-filtri-domande-clienti.html",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_compared": 101
+        },
+        "duplicate_review": {
+          "slug": "threads-qa-live-domande-moderazione",
+          "title_and_slug_unique": true,
+          "closest_title_candidates": [
+            [
+              0.17647058823529413,
+              "ricerca-threads-filtri-domande-clienti.html"
+            ],
+            [
+              0.16666666666666666,
+              "youtube-video-ab-test-introduzioni.html"
+            ],
+            [
+              0.125,
+              "social-listening-volumi-visualizzazioni-canali.html"
+            ],
+            [
+              0.11764705882352941,
+              "live-shopping-come-preparare-una-diretta-che-vende.html"
+            ],
+            [
+              0.11764705882352941,
+              "link-amazon-instagram-contenuto-affiliato.html"
+            ]
+          ],
+          "same_event_and_intent": false,
+          "manual_comparison": "Test Q&A del 19 novembre, distinto dai filtri di ricerca Threads e dalla gestione persistente dei gruppi di corso.",
+          "sources_overlap": []
+        },
+        "discovery_source": "Social Media Today",
+        "discovery_url": "https://www.socialmediatoday.com/news/threads-tests-new-qa-option-in-live-chats/875287/",
+        "source_access_limits": "Post primario del test non accessibile, HTTP 429. La pagina Meta di aprile conferma il contesto Live Chats, non il nuovo test. Nessuna disponibilità generale o italiana dedotta.",
+        "sources_consulted_at": "2026-11-20T08:18:15+01:00",
+        "editorial_review": {
+          "two_passes_completed": true,
+          "focus": "Precisione, attribuzione, neutralità, esempi ipotetici, gerarchia e paragrafi senza riempitivi. Nessuna parafrasi cosmetica delle fonti di scoperta.",
+          "text_measurement": {
+            "before": {
+              "length": 4671,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body4.txt",
+                "word_count": 695,
+                "sentence_count": 43,
+                "burstiness_cv": 0.3192,
+                "lexical_diversity": 0.893,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.37,
+                "confidence_level": "LOW",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [
+                  "Unnaturally uniform sentence cadence (CV=0.32 < 0.35)"
+                ],
+                "findings_confidence": [
+                  "informational"
+                ],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 4671,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body4.txt",
+                "word_count": 695,
+                "sentence_count": 43,
+                "burstiness_cv": 0.3192,
+                "lexical_diversity": 0.893,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.37,
+                "confidence_level": "LOW",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [
+                  "Unnaturally uniform sentence cadence (CV=0.32 < 0.35)"
+                ],
+                "findings_confidence": [
+                  "informational"
+                ],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "instagram_measurement": {
+            "before": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "interpretation": "Rilievi locali di supporto editoriale, non certificazione di paternità o esito di rilevatori."
+        },
+        "geekout_checked_at": "2026-11-20T07:15:25+00:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto per questa uscita. Nessuna edizione del 20 novembre visibile; selezionato tema distinto dalle fonti annotate.",
+        "other_discovery_checks": {
+          "social_media_today": "Hub e articoli del 19 novembre consultati.",
+          "emarketer": "Indice Advertising & Marketing accessibile ma con voci visibili di marzo; nessuna ricerca integrale o stima usata, nessun paywall aggirato.",
+          "reddit": "Spunto storico GoogleForms verificato con documentazione Google; testo indicizzato, apertura diretta non riuscita."
+        },
+        "cover_review": {
+          "remote_images_compared": 91,
+          "local_images_compared": 58,
+          "embedded_images_compared": 0,
+          "download_errors": [],
+          "normalization": "ID pagina e percorso CDN senza parametri; intero HTML, meta, registro e manifest.",
+          "method": "SHA256 e pHash DCT su immagine intera e dieci ritagli per ogni immagine; confronto anche fra le cinque candidate. Ispezione visiva di candidata, sei vicine e ritaglio panoramico.",
+          "photo": {
+            "id": "fQOyF0D0cDU",
+            "page": "https://unsplash.com/photos/a-wall-with-a-bunch-of-sticky-notes-on-it-fQOyF0D0cDU",
+            "author": "Jakub Żerdzicki",
+            "image": "https://images.unsplash.com/photo-1735639013995-086e648eaa38?auto=format&fit=max&w=1600&q=82",
+            "sha256": "f55b3b0704ef1d91505c00ec757ca57eff4005e2c6e69f82de29dc3a03e8ca2c",
+            "size": [
+              1600,
+              1067
+            ],
+            "nearest": [
+              {
+                "distance": 14,
+                "key": "https://images.unsplash.com/photo-1784729554014-9c64f8e49905?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1777107508771-c6b8a116859b?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1739742473235-34a7bd9b8f87?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1642480485642-63b9018eadc2?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "iSeawjCwtLs"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1630051822408-b80dde2f5681?auto=format&fit=max&w=450&q=80"
+              }
+            ],
+            "focal": "50% 45%",
+            "alt": "Lavagna con note adesive azzurre, verdi, rosa e arancioni"
+          },
+          "license_page_verified": true,
+          "visual_uniqueness_verified": true
+        },
+        "viewport_review": {
+          "status": "not_verified",
+          "widths_requested": [
+            375,
+            768,
+            1280
+          ],
+          "reason": "Avvio Chromium /usr/bin/chromium con Playwright e --no-sandbox fallito: TargetClosedError. Nessuna schermata o misura resa inventata.",
+          "static_layout": "CSS preservato: una evidenza cover panoramica sopra testo, massimo tre colonne e una su mobile."
+        },
+        "search_console": "Non accessibile in questa esecuzione; nessuna indicizzazione o performance misurata.",
+        "home_update": {
+          "expected_order": [
+            "google-moduli-quiz-feedback-partecipanti.html",
+            "threads-qa-live-domande-moderazione.html",
+            "modificare-storie-instagram-correzioni.html"
+          ],
+          "public_verification": "pending"
+        },
+        "instagram_draft": "_drafts/2026-11-20-instagram.md",
+        "local_checks": {
+          "article": "threads-qa-live-domande-moderazione.html",
+          "checked_at": "2026-11-20T07:19:31.008847+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": false,
+          "article_sha256": "ab6a393c5db5cc3758860bf5960c3e0062dbb520dad930a8f334dc6cac176572"
+        },
+        "public_checks": "pending"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "date_published": "2026-11-20T08:18:15+01:00",
+      "title": "Quiz con Moduli Google, verificare il feedback ai partecipanti",
+      "slug": "google-moduli-quiz-feedback-partecipanti",
+      "file": "google-moduli-quiz-feedback-partecipanti.html",
+      "url": "https://marcododaro.it/google-moduli-quiz-feedback-partecipanti.html",
+      "sources": [
+        "https://support.google.com/docs/answer/7032287?hl=it",
+        "https://www.reddit.com/r/GoogleForms/comments/1f6kb6n/"
+      ],
+      "status": "deployment_pending",
+      "image": "https://images.unsplash.com/photo-1746440160680-2c50206e568a?auto=format&fit=max&w=1600&q=82",
+      "image_id": "89blqIkdCgA",
+      "image_source": "https://unsplash.com/photos/a-colorful-creative-workspace-bathed-in-sunlight-89blqIkdCgA",
+      "image_credit": "Teo Zac / Unsplash",
+      "image_license": "Unsplash License",
+      "workflow_review": {
+        "brief": {
+          "slug": "google-moduli-quiz-feedback-partecipanti",
+          "title": "Quiz con Moduli Google, verificare il feedback ai partecipanti",
+          "desc": "Come rendere consultabile il feedback di un quiz in Moduli Google, scegliendo tempi di pubblicazione, informazioni visibili e una verifica come partecipante.",
+          "category": "Formazione digitale",
+          "keyword": "Moduli Google quiz feedback partecipanti",
+          "intent": "Configurare e verificare la restituzione del feedback, senza confonderla con progettazione del test o valutazione della competenza.",
+          "difference": "Problema di accesso alla restituzione post-quiz; diverso da assessment AI, progettazione prove e navigazione dei video.",
+          "readings": [
+            "come-valutare-le-competenze-ai-dei-dipendenti.html",
+            "capitoli-youtube-video-formativi.html"
+          ],
+          "discovery": "Reddit r/GoogleForms",
+          "limits": "Testo indicizzato del thread consultato; apertura diretta non riuscita. Caso storico individuale usato soltanto come domanda. Funzionamento verificato sulla documentazione Google corrente.",
+          "inbound": "come-valutare-le-competenze-ai-dei-dipendenti.html",
+          "audience": "Aziende, professionisti ed enti di formazione italiani",
+          "archive_compared": 101
+        },
+        "duplicate_review": {
+          "slug": "google-moduli-quiz-feedback-partecipanti",
+          "title_and_slug_unique": true,
+          "closest_title_candidates": [
+            [
+              0.11764705882352941,
+              "images-2-6-ai-foto-prodotto.html"
+            ],
+            [
+              0.11764705882352941,
+              "google-ai-educator-series-scegliere-modulo.html"
+            ],
+            [
+              0.1111111111111111,
+              "robots-txt-addestramento-ai.html"
+            ],
+            [
+              0.1111111111111111,
+              "contenuti-generati-con-lai-quando-devono-essere-dichiarati.html"
+            ],
+            [
+              0.10526315789473684,
+              "youtube-lancio-creator-caso-gta-vi.html"
+            ]
+          ],
+          "same_event_and_intent": false,
+          "manual_comparison": "Problema di accesso alla restituzione post-quiz; diverso da assessment AI, progettazione prove e navigazione dei video.",
+          "sources_overlap": []
+        },
+        "discovery_source": "Reddit r/GoogleForms",
+        "discovery_url": "https://www.reddit.com/r/GoogleForms/comments/1f6kb6n/",
+        "source_access_limits": "Testo indicizzato del thread consultato; apertura diretta non riuscita. Caso storico individuale usato soltanto come domanda. Funzionamento verificato sulla documentazione Google corrente.",
+        "sources_consulted_at": "2026-11-20T08:18:15+01:00",
+        "editorial_review": {
+          "two_passes_completed": true,
+          "focus": "Precisione, attribuzione, neutralità, esempi ipotetici, gerarchia e paragrafi senza riempitivi. Nessuna parafrasi cosmetica delle fonti di scoperta.",
+          "text_measurement": {
+            "before": {
+              "length": 5007,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body5.txt",
+                "word_count": 735,
+                "sentence_count": 47,
+                "burstiness_cv": 0.3305,
+                "lexical_diversity": 0.8797,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.37,
+                "confidence_level": "LOW",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [
+                  "Unnaturally uniform sentence cadence (CV=0.33 < 0.35)"
+                ],
+                "findings_confidence": [
+                  "informational"
+                ],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 5007,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/body5.txt",
+                "word_count": 735,
+                "sentence_count": 47,
+                "burstiness_cv": 0.3305,
+                "lexical_diversity": 0.8797,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.37,
+                "confidence_level": "LOW",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [
+                  "Unnaturally uniform sentence cadence (CV=0.33 < 0.35)"
+                ],
+                "findings_confidence": [
+                  "informational"
+                ],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "instagram_measurement": {
+            "before": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "after": {
+              "length": 10508,
+              "suspicious_total": 0,
+              "hits": [],
+              "notes": [
+                "Layer A only: invisible/format Unicode and space homoglyphs (edit-based carriers).",
+                "Statistical (token-sampling) watermarks are not detectable here; use Layer B rewrite.",
+                "Inspect kinds: strip, bidi, tag_chars, variation_selector, zwj_family, private_use, space, confusable, other_cf.",
+                "Load-bearing invisibles are preserved by default during cleaning: emoji glue, CJK/Mongolian variation selectors, script joiners, complete flag tag sequences, same-script fillers/selectors (Mongolian FVS, Khmer inherent vowels, Hangul jamo fillers), RTL directional marks/paired embeddings, orthographic Arabic/Syriac Cf marks, and visible-layout format controls next to their own script (Egyptian hieroglyph quadrat, Duployan shorthand, musical beaming). Inspection still reports bidi controls. Use explicit strip flags only after review.",
+                "No deterministic Layer A (invisible Unicode/format) carriers detected; statistical and pixel-domain marks are out of scope here."
+              ],
+              "stylometry": {
+                "path": "/tmp/nov20/instagram.txt",
+                "word_count": 1407,
+                "sentence_count": 193,
+                "burstiness_cv": 0.7814,
+                "lexical_diversity": 0.899,
+                "ai_ngram_density": 0.0,
+                "matched_markers": [],
+                "score": 0.0325,
+                "confidence_level": "CLEAN",
+                "density_tier": "low",
+                "status": "ok",
+                "findings": [],
+                "findings_confidence": [],
+                "notes": []
+              }
+            },
+            "unchanged": true
+          },
+          "interpretation": "Rilievi locali di supporto editoriale, non certificazione di paternità o esito di rilevatori."
+        },
+        "geekout_checked_at": "2026-11-20T07:15:25+00:00",
+        "latest_issue_date": "2026-11-13",
+        "latest_issue_url": "https://geekout.mattnavarra.com/p/eu-addiction-rules-tiktok-shop-subscription-meta-muse-uk-launch-report",
+        "geekout_decision": "Archivio riaperto per questa uscita. Nessuna edizione del 20 novembre visibile; selezionato tema distinto dalle fonti annotate.",
+        "other_discovery_checks": {
+          "social_media_today": "Hub e articoli del 19 novembre consultati.",
+          "emarketer": "Indice Advertising & Marketing accessibile ma con voci visibili di marzo; nessuna ricerca integrale o stima usata, nessun paywall aggirato.",
+          "reddit": "Spunto storico GoogleForms verificato con documentazione Google; testo indicizzato, apertura diretta non riuscita."
+        },
+        "cover_review": {
+          "remote_images_compared": 91,
+          "local_images_compared": 58,
+          "embedded_images_compared": 0,
+          "download_errors": [],
+          "normalization": "ID pagina e percorso CDN senza parametri; intero HTML, meta, registro e manifest.",
+          "method": "SHA256 e pHash DCT su immagine intera e dieci ritagli per ogni immagine; confronto anche fra le cinque candidate. Ispezione visiva di candidata, sei vicine e ritaglio panoramico.",
+          "photo": {
+            "id": "89blqIkdCgA",
+            "page": "https://unsplash.com/photos/a-colorful-creative-workspace-bathed-in-sunlight-89blqIkdCgA",
+            "author": "Teo Zac",
+            "image": "https://images.unsplash.com/photo-1746440160680-2c50206e568a?auto=format&fit=max&w=1600&q=82",
+            "sha256": "e8d62ae03a479297d63852eb0fa1fd98bbe38f3b13cff15d15d5a7488d726e17",
+            "size": [
+              1600,
+              2133
+            ],
+            "nearest": [
+              {
+                "distance": 14,
+                "key": "https://images.unsplash.com/photo-1549931368-b04c49887d50?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 16,
+                "key": "https://images.unsplash.com/photo-1745398243022-0bf53a84c5dd?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1724308509041-1ce0103bf5e1?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1741389064022-6d470321710e?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1759868937753-34859b641bc1?auto=format&fit=max&w=450&q=80"
+              },
+              {
+                "distance": 18,
+                "key": "https://images.unsplash.com/photo-1763729805496-b5dbf7f00c79?auto=format&fit=max&w=450&q=80"
+              }
+            ],
+            "focal": "50% 76%",
+            "alt": "Scrivania per lo studio con mappa, materiali colorati e lampada gialla"
+          },
+          "license_page_verified": true,
+          "visual_uniqueness_verified": true
+        },
+        "viewport_review": {
+          "status": "not_verified",
+          "widths_requested": [
+            375,
+            768,
+            1280
+          ],
+          "reason": "Avvio Chromium /usr/bin/chromium con Playwright e --no-sandbox fallito: TargetClosedError. Nessuna schermata o misura resa inventata.",
+          "static_layout": "CSS preservato: una evidenza cover panoramica sopra testo, massimo tre colonne e una su mobile."
+        },
+        "search_console": "Non accessibile in questa esecuzione; nessuna indicizzazione o performance misurata.",
+        "home_update": {
+          "expected_order": [
+            "google-moduli-quiz-feedback-partecipanti.html",
+            "threads-qa-live-domande-moderazione.html",
+            "modificare-storie-instagram-correzioni.html"
+          ],
+          "public_verification": "pending"
+        },
+        "instagram_draft": "_drafts/2026-11-20-instagram.md",
+        "local_checks": {
+          "article": "google-moduli-quiz-feedback-partecipanti.html",
+          "checked_at": "2026-11-20T07:19:31.129011+00:00",
+          "status": "pass",
+          "checks": [
+            {
+              "check": "Italian language",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Heading order",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Self canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Indexable robots",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No placeholders",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single shared analytics",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "No direct Google snippet",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "JSON-LD parses",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single article entity",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Breadcrumb entity and visible trail",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:url",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata og:image:alt",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:title",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:description",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata twitter:image",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "OG canonical",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article OG type",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Large Twitter card",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Social cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Visible article cover matches metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover accessible label",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Headline matches H1",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Author Marco Dodaro",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Published date present",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Schema cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Publication metadata consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Local links exist",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Article metadata exists",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Archive complete and unique",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Single featured",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Metadata cover consistency",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover credited and license recorded",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Cover URL distinct in metadata",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Sitemap contains all articles once",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots sitemap reference",
+              "status": "pass",
+              "detail": ""
+            },
+            {
+              "check": "Robots no site-wide block",
+              "status": "pass",
+              "detail": ""
+            }
+          ],
+          "errors": [],
+          "warnings": [],
+          "not_checked": [
+            "Factual accuracy and source independence",
+            "Perceptual uniqueness and photo license page",
+            "Rendered mobile/tablet/desktop layout",
+            "Full Schema.org and rich-results eligibility",
+            "Search Console indexing/ranking and real Core Web Vitals",
+            "Editorial judgment and AI-detector outcomes"
+          ],
+          "live": false,
+          "article_sha256": "9ccfdfb98131a223a88f8210a96a75d876dc5cd84e4868d9ba2cfe5b5e1f4807"
+        },
+        "public_checks": "pending"
+      }
     }
   ]
 }

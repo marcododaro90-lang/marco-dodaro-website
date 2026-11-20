@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "images": [
     {
       "article": "come-trasformare-una-competenza-in-un-servizio-di-consulenza.html",
@@ -941,6 +941,61 @@
       "license": "Unsplash License",
       "license_url": "https://unsplash.com/license",
       "sha256": "30a2f8ca772ab1d9af5ec138f6973445d1ef541d1d29a2cd890cf81de0e84478"
+    },
+    {
+      "article": "tiktok-music-impact-report-2026-dati.html",
+      "image": "https://images.unsplash.com/photo-1745848413041-3eeb106db501?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-microphone-on-a-stand-against-a-yellow-background-DjGSoA8ubzo",
+      "unsplash_id": "DjGSoA8ubzo",
+      "photographer": "dlxmedia.hu",
+      "alt": "Microfono su asta davanti a uno sfondo giallo caldo",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "6b9ca056b407bc18e2cea3e9c55119fb7142569e948b460b3dd1a91ae5da6d76"
+    },
+    {
+      "article": "snap-creator-network-shortlist-ai.html",
+      "image": "https://images.unsplash.com/photo-1774549150028-edffdcd91f16?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/orange-phone-and-notebook-on-a-white-table-iCNg_rektpQ",
+      "unsplash_id": "iCNg_rektpQ",
+      "photographer": "Jakub Żerdzicki",
+      "alt": "Smartphone arancione e quaderno su un tavolo davanti a un divano verde",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "c4f930250d67f02bc4eea6f8ad8b6ab4c8314ba07f3f94a84bab95d073c92273"
+    },
+    {
+      "article": "modificare-storie-instagram-correzioni.html",
+      "image": "https://images.unsplash.com/photo-1729514552992-91c78b07a88a?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-cell-phone-and-a-charger-on-a-yellow-background-iSeawjCwtLs",
+      "unsplash_id": "iSeawjCwtLs",
+      "photographer": "Andrey Matveev",
+      "alt": "Smartphone con cavo e caricatore su uno sfondo giallo",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "9b545ce1994ca6e46834c4d4d84510e5bff3e2e7c3a13b967100a0a91fd64c9a"
+    },
+    {
+      "article": "threads-qa-live-domande-moderazione.html",
+      "image": "https://images.unsplash.com/photo-1735639013995-086e648eaa38?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-wall-with-a-bunch-of-sticky-notes-on-it-fQOyF0D0cDU",
+      "unsplash_id": "fQOyF0D0cDU",
+      "photographer": "Jakub Żerdzicki",
+      "alt": "Lavagna con note adesive azzurre, verdi, rosa e arancioni",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "f55b3b0704ef1d91505c00ec757ca57eff4005e2c6e69f82de29dc3a03e8ca2c"
+    },
+    {
+      "article": "google-moduli-quiz-feedback-partecipanti.html",
+      "image": "https://images.unsplash.com/photo-1746440160680-2c50206e568a?auto=format&fit=max&w=1600&q=82",
+      "source": "https://unsplash.com/photos/a-colorful-creative-workspace-bathed-in-sunlight-89blqIkdCgA",
+      "unsplash_id": "89blqIkdCgA",
+      "photographer": "Teo Zac",
+      "alt": "Scrivania per lo studio con mappa, materiali colorati e lampada gialla",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "sha256": "e8d62ae03a479297d63852eb0fa1fd98bbe38f3b13cff15d15d5a7488d726e17"
     }
   ]
 }
